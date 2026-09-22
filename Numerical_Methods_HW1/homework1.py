@@ -28,15 +28,25 @@ print(f"Verification (s^2 == lambda): {s**2}")
 # ========================================
 print("\n--- [PROBLEM 4] Numerical Rank (Random Matrices) ---")
 np.random.seed(42)
+
+# (a) Theoretical dimension/rank framework: 
+# Multiplying an (8x4) matrix by a (4x6) matrix limits the maximum theoretical rank to 4.
 A_rand = np.random.rand(8, 4) @ np.random.rand(4, 6)
+
+# (b) Compute SVD to obtain and inspect all singular values.
 _, s_rand, _ = np.linalg.svd(A_rand)
 
 np.set_printoptions(formatter={"float_kind": "{:10.4e}".format})
 print(f"Singular values of the random matrix:\n{s_rand}")
 np.set_printoptions()
 
+# (c) Determine the numerical rank using software thresholding algorithms.
 numerical_rank = np.linalg.matrix_rank(A_rand)
 print(f"Numerical rank of the random matrix: {numerical_rank}")
+
+# (d) Round-off error analysis: 
+# Tiny non-zero singular values (around 10^-16) are artifacts of floating-point arithmetic (machine epsilon) 
+# and are treated as numerical zeros by the rank function.
 
 
 # ========================================
