@@ -1,0 +1,188 @@
+import numpy as np
+import scipy.io
+import matplotlib.pyplot as plt
+
+# ==============================================================================
+# HELPER FUNCTIONS: Forward & Back Substitution
+# ==============================================================================
+
+def forward_substitution(L, b):
+    """
+    Solves the lower triangular system L * z = b using forward substitution.
+    """
+    n = L.shape[0]
+    z = np.zeros(n)
+    for i in range(n):
+        z[i] = b[i] - np.dot(L[i, :i], z[:i])
+    return z
+
+def back_substitution(U, z):
+    """
+    Solves the upper triangular system U * x = z using back substitution.
+    """
+    n = U.shape[0]
+    x = np.zeros(n)
+    for i in range(n - 1, -1, -1):
+        x[i] = (z[i] - np.dot(U[i, i + 1:], x[i + 1:])) / U[i, i]
+    return x
+
+# ==============================================================================
+# PROBLEM 2: Solve Normal Equations via LU Factorization
+# ==============================================================================
+print("=" * 60)
+print("PROBLEM 2: LU Factorization for Least Squares")
+print("=" * 60)
+
+# Define matrix A and vector b from Problem 1
+A_p2 = np.array([[ 2, -1],
+                 [ 0,  1],
+                 [-2,  2]], dtype=float)
+
+b_p2 = np.array([1, -5, 6], dtype=float)
+
+# 1. Form Normal Equations: M * x = y where M = A^T * A and y = A^T * b
+M_p2 = A_p2.T @ A_p2
+y_p2 = A_p2.T @ b_p2
+
+# 2. LU Factorization of M (M = L * U)
+def lu_factorization_2x2(M):
+    L = np.eye(2)
+    U = M.copy().astype(float)
+    m21 = U[1, 0] / U[0, 0]
+    L[1, 0] = m21
+    U[1, :] -= m21 * U[0, :]
+    return L, U
+
+L_p2, U_p2 = lu_factorization_2x2(M_p2)
+
+# 3. Forward substitution (L * z = y) and Back substitution (U * x = z)
+z_p2 = forward_substitution(L_p2, y_p2)
+x_p2 = back_substitution(U_p2, z_p2)
+
+print("Matrix L:\n", L_p2)
+print("Matrix U:\n", U_p2)
+print("Intermediate vector z:", z_p2)
+print("Solution x:", x_p2)  # Expected: [-2. -1.]
+
+
+# ==============================================================================
+# PROBLEM 3: Least Squares via Thin QR Factorization
+# ==============================================================================
+print("\n" + "=" * 60)
+print("PROBLEM 3: Thin QR Decomposition")
+print("=" * 60)
+
+A_p3 = np.array([[ 3, 1],
+                 [-3, 2],
+                 [ 3, 3],
+                 [-3, 4]], dtype=float)
+
+b_p3 = np.array([1, 2, 3, 4], dtype=float)
+
+# 1. Thin / Economy-size QR Decomposition (A = Q * R)
+Q_p3, R_p3 = np.linalg.qr(A_p3, mode='reduced')
+
+# 2. Compute Q^T * b
+Qtb_p3 = Q_p3.T @ b_p3
+
+# 3. Solve equivalent system R * x = Q^T * b using back substitution
+x_p3 = back_substitution(R_p3, Qtb_p3)
+
+print("Thin Q Matrix:\n", Q_p3)
+print("Thin R Matrix:\n", R_p3)
+print("Vector Q^T * b:", Qtb_p3)
+print("Solution x:", x_p3)  # Expected: [0. 1.]
+
+
+# ==============================================================================
+# DATA LOADING: Reading sales.mat file into Python
+# ==============================================================================
+
+# Load dataset from MATLAB binary MAT-file using scipy.io
+mat_data = scipy.io.loadmat('sales.mat')
+sales = mat_data['sales']
+
+# Extract days (x) and sales volume (y)
+x_days = sales[:, 0]
+y_sales = sales[:, 1]
+
+
+# ==============================================================================
+# PROBLEM 4: Linear Least Squares Fit (f(x) = alpha * x + beta)
+# ==============================================================================
+print("\n" + "=" * 60)
+print("PROBLEM 4: Linear Regression Fit")
+print("=" * 60)
+
+# Form Design Matrix A and Vector b
+A_p4 = np.column_stack([x_days, np.ones_like(x_days)])
+b_p4 = y_sales
+
+# Thin QR Factorization
+Q_p4, R_p4 = np.linalg.qr(A_p4, mode='reduced')
+
+# Solve R * x = Q^T * b
+Qtb_p4 = Q_p4.T @ b_p4
+x_p4 = back_substitution(R_p4, Qtb_p4)
+
+alpha4, beta4 = x_p4[0], x_p4[1]
+
+print(f"Linear Equation: y = {alpha4:.4f} * x + {beta4:.4f}")
+
+# Predictions for Day 26 and Day 30
+pred26_line = alpha4 * 26 + beta4
+pred30_line = alpha4 * 30 + beta4
+print(f"Predicted sales on Day 26: {pred26_line:.2f} units")
+print(f"Predicted sales on Day 30: {pred30_line:.2f} units")
+
+# Plotting Problem 4
+plt.figure(figsize=(8, 5))
+plt.plot(x_days, y_sales, '*', label='Data Points (sales)', markersize=8)
+x_grid = np.linspace(1, 30, 100)
+plt.plot(x_grid, alpha4 * x_grid + beta4, 'r-', label='Linear Fit', linewidth=2)
+plt.xlabel('Day')
+plt.ylabel('Sales')
+plt.title('Problem 4: Linear Sales Fit')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+
+# ==============================================================================
+# PROBLEM 5: Quadratic Least Squares Fit (f(x) = alpha * x^2 + beta * x + gamma)
+# ==============================================================================
+print("\n" + "=" * 60)
+print("PROBLEM 5: Quadratic Regression Fit")
+print("=" * 60)
+
+# Form Design Matrix A and Vector b
+A_p5 = np.column_stack([x_days**2, x_days, np.ones_like(x_days)])
+b_p5 = y_sales
+
+# Thin QR Factorization
+Q_p5, R_p5 = np.linalg.qr(A_p5, mode='reduced')
+
+# Solve R * x = Q^T * b
+Qtb_p5 = Q_p5.T @ b_p5
+x_p5 = back_substitution(R_p5, Qtb_p5)
+
+alpha5, beta5, gamma5 = x_p5[0], x_p5[1], x_p5[2]
+
+print(f"Quadratic Equation: y = {alpha5:.4f} * x^2 + {beta5:.4f} * x + {gamma5:.4f}")
+
+# Predictions for Day 26 and Day 30
+pred26_quad = alpha5 * (26**2) + beta5 * 26 + gamma5
+pred30_quad = alpha5 * (30**2) + beta5 * 30 + gamma5
+print(f"Predicted sales on Day 26: {pred26_quad:.2f} units")
+print(f"Predicted sales on Day 30: {pred30_quad:.2f} units")
+
+# Plotting Problem 5
+plt.figure(figsize=(8, 5))
+plt.plot(x_days, y_sales, '*', label='Data Points (sales)', markersize=8)
+plt.plot(x_grid, alpha5 * (x_grid**2) + beta5 * x_grid + gamma5, 'g-', label='Quadratic Fit', linewidth=2)
+plt.xlabel('Day')
+plt.ylabel('Sales')
+plt.title('Problem 5: Quadratic Sales Fit')
+plt.legend()
+plt.grid(True)
+plt.show()
