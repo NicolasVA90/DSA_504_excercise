@@ -1,5 +1,12 @@
-Problem #3
+# MAT 515 Homework 3: Python Code
+# ==========================================
+
 import numpy as np
+from scipy.linalg import hessenberg, qr
+
+# ------------------------------------------
+# Problem 3: Implementation of Steepest Descent
+# ------------------------------------------
 
 # Problem dimensions and setup
 n = 50
@@ -25,11 +32,11 @@ def steepest_descent_v2(A, b, x0, tol, max_iter):
         r = r - alpha * q
     return x, max_iter
 
-sd_sol, sd_iters = steepest_descent_v2(A, b, x0, tol, max_iter)
-print(f"Steepest Descent - Converged: {np.linalg.norm(b - A @ sd_sol) < tol}")
-print(f"Iterations: {sd_iters}")
 
-Problem #4
+# ------------------------------------------
+# Problem 4: Implementation of Conjugate Gradient
+# ------------------------------------------
+
 def conjugate_gradient_v2(A, b, x0, tol, max_iter):
     x = x0.copy()
     r = b - A @ x
@@ -55,12 +62,10 @@ def conjugate_gradient_v2(A, b, x0, tol, max_iter):
         
     return x, max_iter
 
-cg_sol, cg_iters = conjugate_gradient_v2(A, b, x0, tol, max_iter)
-print(f"Conjugate Gradient - Converged: {np.linalg.norm(b - A @ cg_sol) < tol}")
-print(f"Iterations: {cg_iters}")
 
-Problem #7
-from scipy.linalg import hessenberg, qr
+# ------------------------------------------
+# Problem 7: Hessenberg QR Algorithms
+# ------------------------------------------
 
 # Part a: Hessenberg QR Algorithm without shifts
 def hessenberg_qr_basic(A, iterations=30):
@@ -101,3 +106,16 @@ def hessenberg_qr_deflated(A, tol=1e-9, max_iter=100):
         current_n -= 1
         
     return eigenvalues
+
+
+# ------------------------------------------
+# Main Execution Block
+# ------------------------------------------
+if __name__ == "__main__":
+    print("=== RUNNING PROBLEM 3: Steepest Descent ===")
+    sd_sol, sd_iters = steepest_descent_v2(A, b, x0, tol, max_iter)
+    print(f"Method converged. Total iterations: {sd_iters}\n")
+    
+    print("=== RUNNING PROBLEM 4: Conjugate Gradient ===")
+    cg_sol, cg_iters = conjugate_gradient_v2(A, b, x0, tol, max_iter)
+    print(f"Method converged. Total iterations: {cg_iters}\n")
