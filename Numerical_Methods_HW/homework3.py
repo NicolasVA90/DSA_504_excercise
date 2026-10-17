@@ -1,12 +1,15 @@
-Homework 3: Numerical Methods 515
+# MAT 515 / MAT 490 Homework 3: Python Code
+# ==========================================
 
-Problem #3
 import numpy as np
+from scipy.io import loadmat
+from scipy.linalg import hessenberg, qr, eig
 
-# Problem dimensions and setup
+# ------------------------------------------
+# Problem 3: Implementation of Steepest Descent
+# ------------------------------------------
 n = 50
-A = 4 * np.eye(n) - np.diag(np.ones(n - 1), 1) - np.diag(np.ones(n - 1), -1)
-
+A_sd = 4 * np.eye(n) - np.diag(np.ones(n - 1), 1) - np.diag(np.ones(n - 1), -1)
 b = 2 * np.ones((n, 1))
 b[0] = 3
 b[-1] = 3
@@ -27,11 +30,10 @@ def steepest_descent_v2(A, b, x0, tol, max_iter):
         r = r - alpha * q
     return x, max_iter
 
-sd_sol, sd_iters = steepest_descent_v2(A, b, x0, tol, max_iter)
-print(f"Steepest Descent - Converged: {np.linalg.norm(b - A @ sd_sol) < tol}")
-print(f"Iterations: {sd_iters}")
 
-Problem #4
+# ------------------------------------------
+# Problem 4: Implementation of Conjugate Gradient
+# ------------------------------------------
 def conjugate_gradient_v2(A, b, x0, tol, max_iter):
     x = x0.copy()
     r = b - A @ x
@@ -40,34 +42,26 @@ def conjugate_gradient_v2(A, b, x0, tol, max_iter):
     for k in range(max_iter):
         if np.linalg.norm(r) < tol:
             return x, k
-        
         q = A @ p
         z = r.T @ r
         alpha = z / (p.T @ q)
-        
         x = x + alpha * p
         r_new = r - alpha * q
-        
         if np.linalg.norm(r_new) < tol:
             return x, k + 1
-            
         beta = (r_new.T @ r_new) / z
         p = r_new + beta * p
         r = r_new
-        
     return x, max_iter
 
-cg_sol, cg_iters = conjugate_gradient_v2(A, b, x0, tol, max_iter)
-print(f"Conjugate Gradient - Converged: {np.linalg.norm(b - A @ cg_sol) < tol}")
-print(f"Iterations: {cg_iters}")
 
-Problem #7
-from scipy.linalg import hessenberg, qr
+# ------------------------------------------
+# Problem 7: Hessenberg QR Algorithms
+# ------------------------------------------
 
 # Part a: Hessenberg QR Algorithm without shifts
 def hessenberg_qr_basic(A, iterations=30):
     H = hessenberg(A)
-    n = H.shape[0]
     for _ in range(iterations):
         Q, R = qr(H)
         H = R @ Q
@@ -104,17 +98,37 @@ def hessenberg_qr_deflated(A, tol=1e-9, max_iter=100):
         
     return eigenvalues
 
+
+# ------------------------------------------
+# Main Execution Block
+# ------------------------------------------
 if __name__ == "__main__":
     print("=== RUNNING PROBLEM 3: Steepest Descent ===")
-    sd_sol, sd_iters = steepest_descent_v2(A, b, x0, tol, max_iter)
-    print(f"Method converged. Total iterations: {sd_iters}\n")
+    sd_sol, sd_iters = steepest_descent_v2(A_sd, b, x0, tol, max_iter)
+    print(f"Method converged in {sd_iters} iterations.\n")
     
     print("=== RUNNING PROBLEM 4: Conjugate Gradient ===")
-    cg_sol, cg_iters = conjugate_gradient_v2(A, b, x0, tol, max_iter)
-    print(f"Method converged. Total iterations: {cg_iters}\n")
+    cg_sol, cg_iters = conjugate_gradient_v2(A_sd, b, x0, tol, max_iter)
+    print(f"Method converged in {cg_iters} iterations.\n")
     
-    print("=== RUNNING PROBLEM 7: Hessenberg QR ===")
-    # Add your call for Problem 7 here, for example:
-    # evals = hessenberg_qr_deflated(A_matrix)
-    # print("Computed Eigenvalues:", evals)
+    print("=== RUNNING PROBLEM 7: Hessenberg QR with A.mat ===")
+    # Load A.mat (adjust variable name if needed, usually 'A' or similar inside the mat file)
+    mat_data = loadmat('A.mat')
+    # Find the matrix key (excluding metadata keys starting with '__')
+    matrix_key = [k for k in mat_data.keys() if not k.startswith('__')][0]
+    A_matrix = mat_data[matrix_key]
     
+    # Compare with NumPy's built-in exact eigenvalue solver
+    exact_evals = eig(A_matrix, b=None, right=False) # or np.linalg.eigvals(A_matrix)
+    
+    print("Part (a) - Basic QR (30 iterations):")
+    print(hessenberg_qr_basic(A_matrix, iterations=30))
+    
+    print("\nPart (b) - Shifted QR (30 iterations):")
+    print(hessenberg_qr_shifted(A_matrix, iterations=30))
+    
+    print("\nPart (c) - Deflated QR with Stopping Criterion:")
+    print(hessenberg_qr_deflated(A_matrix))
+    
+    print("\nExact Eigenvalues (via numpy/scipy):")
+    print(np.sort(np.linalg.eigvals(A_matrix)))
