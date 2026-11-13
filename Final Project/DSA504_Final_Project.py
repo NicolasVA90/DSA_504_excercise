@@ -130,9 +130,12 @@ conn.close()
 print(
     """
 AI Disclosure:
-- AI tools (Gemini) were utilized to structure the end-to-end Pandas cleaning pipeline, 
-  optimize the SQLite query syntax for borough aggregation, and format Matplotlib/Seaborn parameters.
-- All code was manually verified, executed, and interpreted by the student.
+- Artificial Intelligence (Gemini) was consulted as an assistive technical co-pilot 
+  to structure the Pandas data cleaning pipeline, optimize SQLite aggregation syntax, 
+  and refine Matplotlib/Seaborn visualization parameters.
+- Rigorous Verification: All generated logic, query outputs, and visual plots were 
+  manually reviewed, tested, executed, and interpreted by the author to ensure 
+  technical precision and domain validity.
 """
 )
 
