@@ -1,0 +1,4 @@
+Utica: 8867.15 [HIGH PERFORMER]
+Albany: 3875.35
+Rome: 2132.15
+Syracuse: 3086.1

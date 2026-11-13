@@ -1,0 +1,26 @@
+[
+  {
+    "date":"2025-04-22T00:00:00.000",
+    "store":"Rome",
+    "units_sold":25.0,
+    "revenue":402.5,
+    "category":"toys",
+    "is_end_of_month":false
+  },
+  {
+    "date":"2025-04-12T00:00:00.000",
+    "store":"Syracuse",
+    "units_sold":38.0,
+    "revenue":3154.0,
+    "category":"electronics",
+    "is_end_of_month":false
+  },
+  {
+    "date":"2025-12-21T00:00:00.000",
+    "store":"Utica",
+    "units_sold":42.0,
+    "revenue":1299.06,
+    "category":"home goods",
+    "is_end_of_month":false
+  }
+]
