@@ -22,8 +22,15 @@ sns.set_theme(style="whitegrid")
 plt.rcParams["figure.figsize"] = (10, 6)
 
 # ==========================================
-# 2. DATA SOURCE & INGESTION (Robust path detection)
+# 2. DATA SOURCE DOCUMENTATION & INGESTION
 # ==========================================
+# Data Source: NYC Open Data - "Motor Vehicle Collisions - Crashes"
+# Download Link / Portal: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+# Description of Key Columns Used:
+#   - BOROUGH: The New York City borough where the collision occurred (Manhattan, Brooklyn, Queens, Bronx, Staten Island).
+#   - NUMBER OF PERSONS INJURED: The count of individuals who sustained injuries in the collision.
+#   - NUMBER OF PERSONS KILLED: The count of fatalities resulting from the collision.
+#   - CONTRIBUTING FACTOR VEHICLE 1: The primary human, vehicular, or environmental factor contributing to the crash.
 
 # Obtain the exact directory where this script is saved to ensure reliable file loading
 script_dir = os.path.dirname(os.path.abspath(__file__))
