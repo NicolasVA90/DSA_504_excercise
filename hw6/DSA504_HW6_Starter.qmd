@@ -1,0 +1,187 @@
+---
+title: "DSA 504 — Homework 6: A Reproducible Retail Sales Report"
+author: "Nicolas Vasquez Ariza"
+format: html
+---
+
+<!--
+Assigned: Class 22 (Wednesday, Nov 18)
+Due: Before Class 23 (Monday, Nov 23)
+Worth: 1 of 6 homework assignments (homework is 50% of your final grade,
+split evenly across all 6)
+
+INSTRUCTIONS:
+- Use retail_sales.csv -- the ORIGINAL, UNCLEANED file (not
+  retail_sales_clean.csv). This assignment asks you to clean it yourself,
+  in R, inside this report.
+- Fill in each TODO code chunk below. Do not delete or reorder sections.
+- Render this file (the Render button in RStudio) to check your work as
+  you go -- rendering early and often is much easier than debugging a
+  wall of errors at the end.
+- A few sections ask a short written answer -- write it directly in the
+  text, not inside a code chunk.
+- AI use: if you used an AI tool for any part of this assignment, briefly
+  note where and how in the disclosure section at the bottom, per the
+  course AI-use policy.
+
+SUBMISSION -- required step:
+Render this file to HTML, then upload BOTH the rendered .html file and
+   this .qmd file to the HW6 assignment on Brightspace, and paste the
+   direct link to your hw6/ folder into the submission comments box.
+
+GRADING BREAKDOWN:
+  Part 1 -- Setup & Load            15%
+  Part 2 -- Clean                   20%
+  Part 3 -- Analyze                 25%
+  Part 4 -- Visualize               20%
+  Part 5 -- Written Reflection & AI Disclosure   20%
+-->
+
+## Part 1 — Setup & Load (15%)
+
+Load `retail_sales.csv` into a tibble called `sales`.
+
+```{r}
+#| message: false
+library(tidyverse)
+
+sales <- read_csv("retail_sales.csv", show_col_types = FALSE)
+glimpse(sales)
+```
+
+
+Report, using inline code (not just printed in the chunk above): how many
+rows and columns does the raw data have?
+
+The raw dataset has `r nrow(sales)` rows and `r ncol(sales)` columns.
+
+## Part 2 — Clean (20%)
+
+**2a.** Report how many missing values exist in `units_sold` and `revenue`.
+
+```{r}
+sales |>
+  summarise(
+    missing_units_sold = sum(is.na(units_sold)),
+    missing_revenue = sum(is.na(revenue))
+  )
+```
+
+**2b.** Clean the data: remove exact duplicate rows, fill missing
+`units_sold`/`revenue` with their column medians, and standardize the
+`category` column into a new column with **exactly 5** distinct values
+(lowercase, trimmed, with underscores/extra spaces collapsed to a single
+space, and the `"cloth ing"` typo explicitly corrected to `"clothing"`).
+Save the result as `sales_clean`.
+
+```{r}
+sales_clean <- sales |>
+  distinct() |>
+  mutate(
+    units_sold = if_else(
+      is.na(units_sold),
+      median(units_sold, na.rm = TRUE),
+      as.numeric(units_sold)
+    ),
+    revenue = if_else(
+      is.na(revenue),
+      median(revenue, na.rm = TRUE),
+      as.numeric(revenue)
+    ),
+    category_clean = category |>
+      str_to_lower() |>
+      str_replace_all("_", " ") |>
+      str_squish() |>
+      str_replace_all("\\bcloth ing\\b", "clothing")
+  )
+
+distinct(sales_clean, category_clean)
+```
+
+Report, using inline code: how many rows remain after removing
+duplicates, and how many distinct categories does `sales_clean` have?
+
+After cleaning, the dataset has `r nrow(sales_clean)` rows and `r n_distinct(sales_clean$category_clean)` distinct categories.
+
+## Part 3 — Analyze (25%)
+
+**3a.** Compute total revenue per `store`, sorted highest to lowest.
+
+```{r}
+rev_by_store <- sales_clean |>
+  group_by(store) |>
+  summarise(total_revenue = sum(revenue, na.rm = TRUE), .groups = "drop") |>
+  arrange(desc(total_revenue))
+
+rev_by_store
+```
+
+**3b.** Compute total revenue per `category`, sorted highest to lowest.
+
+```{r}
+rev_by_category <- sales_clean |>
+  group_by(category_clean) |>
+  summarise(total_revenue = sum(revenue, na.rm = TRUE), .groups = "drop") |>
+  arrange(desc(total_revenue))
+
+rev_by_category
+```
+
+Report, using inline code: which store and which category had the
+highest total revenue?
+
+The highest-revenue store was `r rev_by_store$store[1]`, and the highest-revenue category was `r rev_by_category$category_clean[1]`.
+
+## Part 4 — Visualize (20%)
+
+**4a.** Create a bar chart of total revenue by category, with a title and
+axis labels.
+
+```{r}
+ggplot(
+  rev_by_category,
+  aes(x = reorder(category_clean, total_revenue), y = total_revenue)
+) +
+  geom_col(fill = "#2C5E8A") +
+  coord_flip() +
+  labs(
+    title = "Total Revenue by Product Category",
+    x = "Category",
+    y = "Total Revenue (USD)"
+  ) +
+  theme_minimal()
+```
+
+**4b.** Create a box plot of revenue by category. Use `#| echo: false` on
+this chunk so only the chart appears in your rendered report, not the
+code.
+
+```{r}
+#| echo: false
+ggplot(
+  sales_clean,
+  aes(x = reorder(category_clean, revenue, FUN = median), y = revenue)
+) +
+  geom_boxplot(fill = "#4E89AE", outlier.alpha = 0.5) +
+  coord_flip() +
+  labs(
+    title = "Distribution of Revenue by Product Category",
+    x = "Category",
+    y = "Revenue (USD)"
+  ) +
+  theme_minimal()
+```
+
+## Part 5 — Written Reflection & AI Disclosure (20%)
+
+**5a.** Why does writing this analysis as a Quarto report, instead of a
+plain R script, change how much you (or someone else) can trust the
+numbers in Part 3? Answer in 2–3 sentences.
+
+Writing this analysis in Quarto runs every data-cleaning, imputation, and aggregation step sequentially from top to bottom in a fresh environment while linking inline numbers directly to computed R objects rather than manual copy-paste, which prevents stale state and transcription mistakes. In addition, anyone inspecting or re-rendering the `.qmd` file can verify the exact code alongside the resulting tables and plots to confirm full reproducibility.
+
+**5b.** If you used an AI tool for any part of this assignment, briefly
+state where and how below, and how you verified the result. If you did
+not use any AI tool, write "No AI tools were used."
+
+I used Gemini across the assignment to help draft and troubleshoot the `tidyverse` cleaning, aggregation, and `ggplot2` code chunks, inline R expressions, and written responses. I verified all results by rendering the `.qmd` file to HTML in RStudio and cross-checking the printed summaries, row and category counts, and charts against `retail_sales.csv`.

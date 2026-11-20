@@ -1,0 +1,4040 @@
+date,store,category,units_sold,revenue
+2025-04-22,Rome,Toys,25.0,402.5
+2025-04-12,Syracuse,electronics,38.0,3154.0
+2025-12-21,Utica,home goods,42.0,1299.06
+2025-02-11,Syracuse,Electronics,60.0,5114.4
+2025-04-10,Syracuse,toys,10.0,147.1
+2025-05-07,Utica,Electronics,39.0,3531.06
+2025-03-04,Rome,Groceries,129.0,807.54
+2025-05-22,Utica,Home Goods,29.0,921.62
+2025-11-26,Utica,groceries,108.0,631.8
+2025-09-04,Rome,groceries,135.0,839.7
+2025-03-20,Rome,Toys,20.0,289.6
+2025-08-28,Albany,toys,19.0,279.49
+2025-10-21,Albany,Toys,36.0,546.84
+2025-03-09,Albany,Clothing,93.0,2309.19
+2025-05-11,Syracuse,clothing,53.0,1361.57
+2025-05-14,Utica,Clothing,64.0,1578.24
+2025-04-18,Rome,Cloth ing,56.0,1384.88
+2025-03-20,Syracuse,clothing,56.0,1332.24
+2025-03-13,Utica,Home_Goods,38.0,1266.16
+2025-12-22,Rome,Electronics,35.0,
+2025-06-26,Syracuse,toys,17.0,283.56
+2025-06-22,Syracuse,Clothing,83.0,1974.57
+2025-07-27,Syracuse,Groceries,186.0,1244.34
+2025-06-04,Rome,Home_Goods,45.0,1371.6
+2025-08-22,Syracuse,ELECTRONICS,38.0,3009.6
+2025-05-27,Albany,toys,22.0,310.2
+2025-05-28,Utica,groceries,151.0,979.99
+2025-05-20,Utica,Home Goods,50.0,1663.0
+2025-05-05,Rome,home goods,32.0,1026.56
+2025-09-22,Utica,groceries,148.0,996.04
+2025-05-28,Syracuse,Toys,33.0,465.96
+2025-11-27,Syracuse,Clothing,65.0,1484.6
+2025-12-28,Syracuse,toys,31.0,446.71
+2025-06-18,Syracuse,electronics,25.0,2188.75
+2025-02-11,Utica,Electronics,51.0,3674.55
+2025-01-10,Rome,Home Goods,32.0,948.48
+2025-07-22,Syracuse,home goods,45.0,1634.4
+2025-06-01,Rome,toys,32.0,483.52
+2025-04-24,Albany,groceries,179.0,1131.28
+2025-04-13,Syracuse,Electronics,52.0,4157.4
+2025-08-11,Albany,Cloth ing,60.0,1513.2
+2025-02-21,Rome,Home_Goods,14.0,406.28
+2025-04-09,Albany,toys,19.0,285.95
+2025-06-06,Syracuse,ELECTRONICS,32.0,2730.88
+2025-03-21,Albany,Home Goods,37.0,1140.34
+2025-07-07,Utica,Home Goods,34.0,1129.48
+2025-12-25,Albany,groceries,126.0,800.1
+2025-10-27,Albany,toys,25.0,365.25
+2025-05-01,Syracuse,toys,16.0,214.08
+2025-10-07,Utica,Home Goods,47.0,
+2025-07-29,Utica,clothing,34.0,838.1
+2025-03-25,Rome,toys,23.0,330.51
+2025-11-17,Rome,home goods,38.0,1244.88
+2025-11-01,Syracuse,Home Goods,42.0,1481.76
+2025-11-18,Utica,clothing,54.0,1309.5
+2025-06-11,Albany,Clothing,42.0,1107.54
+2025-08-29,Syracuse,Home_Goods,21.0,661.08
+2025-10-21,Albany,Electronics,49.0,4201.26
+2025-08-19,Syracuse,clothing,47.0,1203.67
+2025-11-07,Albany,toys,37.0,527.99
+2025-08-19,Utica,Groceries,107.0,759.7
+2025-07-30,Albany,Groceries,116.0,752.84
+2025-08-09,Utica,Clothing,76.0,1698.6
+2025-01-20,Syracuse,clothing,67.0,1717.88
+2025-08-03,Rome,ELECTRONICS,51.0,3954.03
+2025-01-10,Utica,Home_Goods,27.0,848.61
+2025-01-16,Albany,toys,24.0,378.96
+2025-09-28,Utica,Clothing,69.0,1740.87
+2025-09-28,Utica,Groceries,169.0,1073.15
+2025-03-01,Utica,electronics,78.0,6814.08
+2025-12-26,Syracuse,Clothing,66.0,1620.96
+2025-10-16,Albany,Toys,25.0,377.75
+2025-11-29,Syracuse,Home_Goods,35.0,
+2025-05-24,Albany,Cloth ing,77.0,2011.24
+2025-11-25,Syracuse,electronics,52.0,4698.2
+2025-07-13,Rome,toys,35.0,498.05
+2025-02-16,Utica,Home_Goods,50.0,1570.0
+2025-12-12,Syracuse,toys,22.0,314.6
+2025-10-18,Syracuse,Electronics,68.0,5476.72
+2025-09-02,Rome,Groceries,150.0,972.0
+2025-08-27,Utica,Toys,23.0,340.17
+2025-10-01,Rome,Clothing,59.0,1362.31
+2025-01-06,Rome,Groceries,150.0,982.5
+2025-01-27,Rome,Cloth ing,68.0,1682.32
+2025-09-17,Rome,Electronics,45.0,3770.55
+2025-08-15,Syracuse,Clothing,63.0,1606.5
+2025-12-07,Albany,electronics,27.0,2279.61
+2025-10-27,Rome,groceries,134.0,875.02
+2025-12-25,Syracuse,Home_Goods,31.0,1043.15
+2025-09-29,Utica,ELECTRONICS,39.0,3312.27
+2025-01-30,Utica,Home_Goods,43.0,1256.89
+2025-06-18,Syracuse,groceries,107.0,740.44
+2025-05-16,Syracuse,Clothing,69.0,1669.8
+2025-06-05,Syracuse,Home_Goods,25.0,750.75
+2025-07-16,Albany,Toys,23.0,342.24
+2025-11-02,Syracuse,electronics,60.0,4918.2
+2025-07-14,Rome,groceries,111.0,781.44
+2025-04-09,Rome,groceries,99.0,724.68
+2025-08-26,Utica,Cloth ing,35.0,775.6
+2025-07-21,Albany,Groceries,111.0,674.88
+2025-03-02,Utica,Cloth ing,76.0,1874.92
+2025-01-09,Utica,Groceries,189.0,1215.27
+2025-10-19,Rome,Electronics,70.0,5440.4
+2025-07-22,Albany,Toys,26.0,363.48
+2025-04-17,Rome,Clothing,59.0,1396.53
+2025-10-25,Syracuse,Electronics,41.0,3385.78
+2025-09-27,Rome,electronics,48.0,4152.48
+2025-03-04,Rome,Toys,31.0,463.76
+2025-02-04,Albany,Groceries,112.0,726.88
+2025-04-17,Albany,clothing,80.0,2006.4
+2025-01-25,Rome,home goods,57.0,1809.18
+2025-11-16,Syracuse,clothing,66.0,1611.06
+2025-02-23,Syracuse,Electronics,49.0,
+2025-08-31,Syracuse,Toys,24.0,364.8
+2025-09-03,Rome,Home_Goods,41.0,1263.21
+2025-02-18,Syracuse,Groceries,131.0,830.54
+2025-08-10,Rome,ELECTRONICS,57.0,4721.88
+2025-04-11,Albany,ELECTRONICS,22.0,1950.96
+2025-10-26,Albany,Toys,34.0,493.34
+2025-02-21,Syracuse,toys,14.0,199.64
+2025-04-20,Utica,clothing,75.0,1990.5
+2025-08-26,Utica,electronics,32.0,2727.36
+2025-02-10,Rome,toys,24.0,371.04
+2025-02-18,Utica,Groceries,138.0,887.34
+2025-03-08,Albany,home goods,45.0,1469.7
+2025-12-26,Utica,home goods,22.0,699.82
+2025-02-21,Albany,Cloth ing,24.0,560.64
+2025-07-19,Syracuse,Toys,26.0,386.1
+2025-08-04,Syracuse,toys,27.0,390.69
+2025-11-01,Utica,clothing,51.0,1333.65
+2025-12-27,Albany,toys,32.0,505.28
+2025-12-27,Rome,Electronics,54.0,4481.46
+2025-06-25,Syracuse,toys,29.0,443.99
+2025-06-26,Rome,toys,27.0,355.59
+2025-11-07,Utica,Electronics,38.0,3244.44
+2025-06-25,Utica,electronics,42.0,3643.5
+2025-02-14,Syracuse,Electronics,47.0,3939.07
+2025-04-24,Rome,Electronics,39.0,3262.35
+2025-12-18,Utica,Cloth ing,,1130.92
+2025-07-30,Utica,Home Goods,29.0,
+2025-10-17,Albany,toys,14.0,205.8
+2025-01-01,Albany,Toys,27.0,385.56
+2025-06-30,Albany,Groceries,181.0,1203.65
+2025-06-28,Utica,groceries,197.0,1270.65
+2025-01-31,Syracuse,Home_Goods,39.0,1241.37
+2025-07-01,Utica,home goods,42.0,1285.62
+2025-12-02,Rome,Electronics,59.0,4816.76
+2025-02-16,Rome,groceries,150.0,979.5
+2025-09-15,Albany,Clothing,40.0,883.2
+2025-04-26,Albany,clothing,62.0,1477.46
+2025-12-08,Utica,Home_Goods,30.0,973.2
+2025-10-04,Utica,Cloth ing,57.0,1343.49
+2025-04-08,Syracuse,Toys,20.0,284.4
+2025-12-06,Syracuse,Cloth ing,94.0,2394.18
+2025-05-09,Rome,groceries,149.0,928.27
+2025-08-30,Utica,Home_Goods,,1262.91
+2025-06-30,Utica,clothing,60.0,1423.8
+2025-03-07,Rome,Home_Goods,28.0,977.76
+2025-03-10,Albany,Toys,31.0,498.17
+2025-08-02,Albany,toys,22.0,312.62
+2025-01-28,Syracuse,toys,23.0,302.22
+2025-02-07,Syracuse,Cloth ing,46.0,1259.02
+2025-05-13,Utica,home goods,17.0,558.62
+2025-06-20,Rome,Home_Goods,37.0,1216.19
+2025-10-31,Rome,home goods,31.0,950.46
+2025-08-04,Utica,Electronics,63.0,5066.46
+2025-08-30,Rome,toys,29.0,409.19
+2025-07-21,Rome,Home Goods,24.0,796.08
+2025-05-05,Utica,Toys,24.0,374.16
+2025-05-24,Syracuse,groceries,155.0,948.6
+2025-01-09,Rome,Clothing,58.0,1450.0
+2025-01-25,Albany,Toys,32.0,462.08
+2025-04-10,Albany,Clothing,52.0,1134.64
+2025-01-21,Albany,Clothing,67.0,1704.48
+2025-09-11,Utica,toys,22.0,322.52
+2025-12-21,Syracuse,Groceries,148.0,1004.92
+2025-12-25,Rome,groceries,131.0,846.26
+2025-08-01,Syracuse,Cloth ing,34.0,847.28
+2025-02-24,Rome,home goods,40.0,1374.4
+2025-03-13,Albany,Cloth ing,78.0,1822.86
+2025-12-13,Rome,Electronics,61.0,5289.92
+2025-04-22,Utica,home goods,39.0,1186.38
+2025-09-23,Rome,Toys,26.0,442.26
+2025-10-07,Syracuse,Groceries,86.0,621.78
+2025-08-06,Syracuse,groceries,125.0,861.25
+2025-08-08,Albany,Home Goods,31.0,1031.37
+2025-09-23,Albany,Clothing,40.0,924.0
+2025-09-12,Utica,Groceries,111.0,711.51
+2025-04-02,Rome,groceries,48.0,317.28
+2025-02-08,Utica,home goods,24.0,730.32
+2025-04-26,Rome,Groceries,164.0,1010.24
+2025-02-08,Albany,Groceries,164.0,1049.6
+2025-04-27,Rome,ELECTRONICS,56.0,4811.52
+2025-02-27,Rome,Home_Goods,33.0,1059.63
+2025-02-09,Rome,Clothing,88.0,2162.16
+2025-05-30,Rome,electronics,35.0,2906.75
+2025-10-14,Syracuse,Home Goods,39.0,1226.16
+2025-03-14,Albany,clothing,37.0,832.5
+2025-09-07,Albany,Home Goods,32.0,1143.04
+2025-01-11,Albany,Clothing,72.0,1820.16
+2025-05-05,Rome,Toys,29.0,464.87
+2025-05-21,Syracuse,Cloth ing,72.0,1717.92
+2025-08-07,Syracuse,Home Goods,44.0,1383.8
+2025-10-13,Utica,groceries,122.0,889.38
+2025-02-18,Utica,Home_Goods,42.0,1352.4
+2025-07-28,Rome,groceries,87.0,553.32
+2025-08-08,Utica,Groceries,136.0,920.72
+2025-07-20,Syracuse,Electronics,43.0,3739.28
+2025-07-30,Utica,clothing,50.0,1186.5
+2025-03-01,Utica,clothing,100.0,2321.0
+2025-02-16,Albany,clothing,70.0,1848.7
+2025-05-03,Albany,Cloth ing,74.0,1794.5
+2025-04-01,Rome,Home_Goods,37.0,1250.23
+2025-11-05,Syracuse,Groceries,140.0,862.4
+2025-03-02,Albany,clothing,89.0,2240.13
+2025-04-21,Syracuse,groceries,217.0,1484.28
+2025-04-26,Syracuse,electronics,59.0,5493.49
+2025-01-05,Rome,toys,34.0,514.42
+2025-06-10,Utica,clothing,66.0,1465.2
+2025-07-27,Albany,Groceries,216.0,1440.72
+2025-06-26,Rome,groceries,135.0,815.4
+2025-09-05,Albany,Clothing,40.0,1019.6
+2025-10-29,Utica,Cloth ing,56.0,
+2025-02-18,Rome,toys,23.0,336.49
+2025-07-06,Syracuse,Home_Goods,48.0,1573.44
+2025-08-02,Syracuse,Home_Goods,48.0,1562.4
+2025-04-09,Syracuse,toys,25.0,363.25
+2025-09-01,Syracuse,Electronics,51.0,4338.57
+2025-12-23,Rome,clothing,61.0,1308.45
+2025-05-23,Utica,Toys,31.0,460.04
+2025-01-04,Albany,Toys,43.0,649.3
+2025-01-30,Syracuse,toys,23.0,336.49
+2025-09-22,Utica,Toys,22.0,339.9
+2025-07-17,Syracuse,groceries,139.0,795.08
+2025-12-17,Utica,Electronics,51.0,4177.92
+2025-07-15,Albany,Home Goods,49.0,1737.54
+2025-04-16,Utica,toys,27.0,410.67
+2025-11-21,Rome,toys,26.0,390.26
+2025-07-17,Albany,groceries,142.0,923.0
+2025-12-11,Syracuse,Toys,23.0,324.3
+2025-01-19,Utica,ELECTRONICS,44.0,3572.8
+2025-09-14,Rome,Clothing,117.0,3039.66
+2025-12-29,Utica,Cloth ing,71.0,1750.86
+2025-07-20,Utica,ELECTRONICS,62.0,5457.24
+2025-02-15,Albany,toys,37.0,563.88
+2025-05-18,Albany,Toys,35.0,521.5
+2025-09-01,Rome,electronics,34.0,3190.22
+2025-05-25,Rome,Home Goods,40.0,1276.4
+2025-07-22,Rome,Home Goods,55.0,1795.75
+2025-10-31,Rome,clothing,79.0,1998.7
+2025-07-06,Utica,Electronics,46.0,3909.54
+2025-10-09,Utica,Home_Goods,31.0,1056.79
+2025-03-18,Syracuse,Cloth ing,75.0,1794.0
+2025-07-23,Syracuse,Electronics,39.0,3247.53
+2025-03-08,Albany,clothing,88.0,2170.08
+2025-06-12,Rome,Electronics,21.0,1517.04
+2025-03-01,Syracuse,Electronics,37.0,3267.47
+2025-12-30,Utica,toys,25.0,382.0
+2025-11-13,Utica,groceries,118.0,762.28
+2025-09-09,Syracuse,Clothing,65.0,1625.65
+2025-09-06,Syracuse,electronics,66.0,5571.72
+2025-02-11,Utica,toys,17.0,247.52
+2025-03-02,Utica,home goods,46.0,1459.58
+2025-11-08,Rome,Groceries,132.0,927.96
+2025-04-22,Utica,groceries,134.0,817.4
+2025-07-31,Albany,Clothing,57.0,1439.25
+2025-07-24,Rome,Home Goods,35.0,1149.75
+2025-03-18,Albany,clothing,51.0,1115.37
+2025-08-07,Rome,toys,23.0,368.69
+2025-10-01,Syracuse,Home_Goods,46.0,1592.06
+2025-07-05,Utica,ELECTRONICS,46.0,4187.38
+2025-10-28,Albany,toys,14.0,191.66
+2025-10-02,Albany,groceries,114.0,734.16
+2025-10-24,Albany,Cloth ing,61.0,1503.65
+2025-09-28,Albany,toys,26.0,365.04
+2025-02-08,Albany,Home Goods,44.0,1368.4
+2025-10-03,Utica,Cloth ing,50.0,1019.0
+2025-08-06,Syracuse,Clothing,71.0,1664.24
+2025-05-20,Syracuse,Home_Goods,38.0,1173.06
+2025-10-01,Albany,ELECTRONICS,40.0,3303.6
+2025-09-27,Albany,electronics,43.0,4042.0
+2025-08-13,Albany,Toys,18.0,276.12
+2025-05-15,Rome,groceries,141.0,862.92
+2025-11-02,Rome,Clothing,74.0,1919.56
+2025-06-05,Syracuse,Cloth ing,80.0,2083.2
+2025-01-26,Rome,home goods,33.0,1039.17
+2025-03-22,Rome,Toys,24.0,354.0
+2025-03-26,Rome,Clothing,50.0,1132.5
+2025-10-27,Utica,groceries,125.0,843.75
+2025-06-05,Utica,Groceries,101.0,661.55
+2025-06-02,Albany,Cloth ing,39.0,1019.85
+2025-08-17,Syracuse,home goods,35.0,1002.4
+2025-03-23,Albany,toys,32.0,474.88
+2025-12-05,Syracuse,groceries,122.0,744.2
+2025-11-02,Rome,toys,36.0,563.4
+2025-05-20,Utica,ELECTRONICS,35.0,2999.15
+2025-02-09,Utica,electronics,43.0,3777.98
+2025-02-22,Rome,toys,36.0,515.52
+2025-08-17,Utica,Toys,33.0,513.48
+2025-12-09,Syracuse,electronics,29.0,2431.94
+2025-09-25,Rome,Clothing,50.0,1174.5
+2025-02-10,Utica,home goods,50.0,1714.0
+2025-11-03,Syracuse,electronics,45.0,3812.4
+2025-03-25,Rome,Home Goods,39.0,1252.29
+2025-01-07,Syracuse,toys,36.0,559.8
+2025-07-21,Utica,Home Goods,22.0,677.6
+2025-06-01,Syracuse,Toys,29.0,470.09
+2025-09-08,Albany,groceries,146.0,944.62
+2025-07-07,Utica,groceries,117.0,712.53
+2025-07-07,Albany,groceries,85.0,506.6
+2025-06-22,Utica,groceries,154.0,914.76
+2025-02-08,Utica,electronics,63.0,5434.38
+2025-07-10,Syracuse,toys,9.0,123.66
+2025-03-23,Utica,clothing,66.0,1566.84
+2025-04-07,Rome,Toys,26.0,402.48
+2025-10-31,Syracuse,groceries,123.0,773.67
+2025-09-02,Albany,ELECTRONICS,43.0,3510.52
+2025-12-25,Albany,toys,26.0,423.02
+2025-03-03,Syracuse,Home Goods,42.0,1295.28
+2025-01-19,Utica,Clothing,78.0,2035.8
+2025-08-23,Rome,home goods,51.0,1649.85
+2025-02-03,Utica,Electronics,38.0,3450.4
+2025-09-23,Utica,ELECTRONICS,41.0,3300.5
+2025-12-29,Albany,Home Goods,22.0,
+2025-05-05,Syracuse,Electronics,45.0,3795.75
+2025-03-02,Albany,Toys,42.0,627.9
+2025-11-11,Albany,Home_Goods,44.0,1447.16
+2025-09-04,Syracuse,electronics,39.0,3128.58
+2025-09-10,Syracuse,clothing,90.0,2254.5
+2025-02-04,Albany,Clothing,67.0,1842.5
+2025-08-16,Albany,home goods,40.0,1281.6
+2025-09-28,Utica,Home Goods,35.0,1106.0
+2025-11-04,Rome,groceries,134.0,900.48
+2025-02-27,Utica,toys,22.0,353.1
+2025-04-30,Utica,Cloth ing,53.0,1153.81
+2025-09-26,Albany,electronics,36.0,3189.24
+2025-10-11,Albany,clothing,79.0,1997.12
+2025-11-04,Syracuse,Clothing,45.0,1077.75
+2025-10-02,Rome,Cloth ing,77.0,1831.83
+2025-06-07,Rome,toys,27.0,399.06
+2025-02-03,Syracuse,Clothing,35.0,741.65
+2025-01-26,Utica,groceries,139.0,935.47
+2025-02-17,Rome,Home Goods,34.0,1151.58
+2025-06-29,Albany,electronics,40.0,3566.0
+2025-03-29,Rome,Cloth ing,76.0,1915.96
+2025-01-30,Syracuse,electronics,33.0,3012.24
+2025-09-13,Utica,Clothing,51.0,1280.1
+2025-01-18,Utica,Home Goods,54.0,1816.56
+2025-03-30,Syracuse,toys,34.0,
+2025-09-24,Syracuse,groceries,144.0,925.92
+2025-12-11,Utica,Electronics,51.0,4511.97
+2025-05-16,Syracuse,electronics,49.0,4392.36
+2025-08-20,Albany,Cloth ing,49.0,1109.85
+2025-08-20,Albany,Toys,33.0,520.74
+2025-11-27,Rome,groceries,62.0,378.82
+2025-04-27,Albany,Home_Goods,36.0,1191.24
+2025-07-24,Albany,clothing,51.0,1236.75
+2025-01-04,Utica,Home_Goods,49.0,1490.58
+2025-10-02,Utica,Groceries,94.0,591.26
+2025-07-01,Albany,Cloth ing,87.0,2109.75
+2025-11-11,Utica,Groceries,119.0,763.98
+2025-02-22,Utica,Home Goods,41.0,1362.43
+2025-04-10,Rome,Home Goods,49.0,1636.11
+2025-08-15,Utica,groceries,128.0,825.6
+2025-11-13,Utica,Home Goods,28.0,847.84
+2025-03-11,Albany,clothing,64.0,1659.52
+2025-01-18,Utica,toys,27.0,383.13
+2025-12-31,Utica,Home_Goods,27.0,744.93
+2025-04-05,Utica,groceries,198.0,1287.0
+2025-05-22,Albany,clothing,87.0,2061.9
+2025-12-17,Syracuse,Cloth ing,66.0,1524.6
+2025-02-13,Albany,Toys,18.0,279.0
+2025-07-13,Albany,home goods,50.0,1666.5
+2025-02-16,Utica,toys,20.0,285.0
+2025-06-21,Rome,Electronics,68.0,5984.68
+2025-10-27,Utica,toys,28.0,415.24
+2025-12-14,Rome,electronics,41.0,3419.81
+2025-01-06,Albany,Toys,24.0,335.28
+2025-07-02,Utica,home goods,41.0,1164.81
+2025-05-08,Syracuse,clothing,61.0,1500.6
+2025-05-18,Utica,clothing,77.0,1858.78
+2025-10-15,Syracuse,home goods,40.0,1298.4
+2025-04-13,Rome,clothing,86.0,2132.8
+2025-05-23,Albany,home goods,40.0,1394.4
+2025-10-07,Albany,Clothing,55.0,1372.8
+2025-12-23,Albany,Groceries,128.0,861.44
+2025-10-02,Syracuse,Toys,28.0,432.32
+2025-07-20,Rome,Groceries,117.0,809.64
+2025-06-22,Albany,home goods,38.0,1298.84
+2025-08-11,Albany,Groceries,138.0,950.82
+2025-10-17,Syracuse,Clothing,59.0,1436.06
+2025-05-03,Syracuse,Groceries,144.0,874.08
+2025-01-12,Rome,Groceries,202.0,1288.76
+2025-03-06,Albany,Toys,19.0,277.97
+2025-01-13,Albany,home goods,36.0,1068.48
+2025-05-18,Rome,Toys,39.0,602.94
+2025-07-20,Syracuse,groceries,218.0,1506.38
+2025-04-04,Utica,clothing,49.0,1267.14
+2025-01-11,Syracuse,Home Goods,53.0,1635.05
+2025-03-01,Utica,Toys,34.0,512.38
+2025-03-18,Rome,Home_Goods,18.0,600.84
+2025-06-07,Syracuse,clothing,81.0,1964.25
+2025-12-26,Syracuse,Electronics,25.0,2293.5
+2025-06-01,Syracuse,clothing,127.0,3112.77
+2025-01-12,Rome,Toys,21.0,301.98
+2025-08-05,Albany,Clothing,59.0,1292.69
+2025-12-28,Albany,home goods,45.0,1581.75
+2025-06-29,Albany,Toys,,711.0
+2025-12-12,Syracuse,Home Goods,49.0,1527.33
+2025-01-07,Albany,Toys,30.0,442.5
+2025-10-10,Rome,groceries,176.0,1135.2
+2025-03-28,Syracuse,Toys,13.0,200.33
+2025-10-10,Utica,electronics,28.0,2213.96
+2025-03-31,Albany,Home Goods,31.0,993.55
+2025-12-12,Utica,Groceries,116.0,787.64
+2025-03-08,Utica,Cloth ing,81.0,2062.26
+2025-02-08,Utica,Groceries,162.0,994.68
+2025-03-26,Utica,Groceries,95.0,658.35
+2025-07-09,Albany,Electronics,36.0,3306.96
+2025-03-01,Rome,ELECTRONICS,60.0,4849.8
+2025-11-05,Rome,groceries,162.0,1046.52
+2025-05-16,Rome,ELECTRONICS,54.0,4811.4
+2025-04-11,Rome,ELECTRONICS,43.0,3948.69
+2025-08-25,Rome,Toys,24.0,374.16
+2025-09-30,Utica,ELECTRONICS,60.0,5475.0
+2025-08-26,Syracuse,groceries,116.0,874.64
+2025-10-10,Rome,Electronics,27.0,2253.15
+2025-12-30,Rome,Groceries,48.0,322.08
+2025-05-20,Rome,ELECTRONICS,38.0,3220.5
+2025-02-25,Syracuse,Home_Goods,46.0,1580.1
+2025-05-04,Rome,toys,35.0,508.9
+2025-07-18,Rome,Groceries,110.0,669.9
+2025-08-18,Rome,toys,27.0,417.96
+2025-03-30,Syracuse,groceries,166.0,966.12
+2025-12-31,Syracuse,Home Goods,44.0,1471.8
+2025-05-07,Utica,Home_Goods,41.0,1149.23
+2025-12-08,Albany,electronics,36.0,3045.24
+2025-12-21,Albany,Clothing,87.0,1989.69
+2025-05-11,Syracuse,Groceries,131.0,
+2025-09-27,Syracuse,Home_Goods,44.0,1390.4
+2025-03-01,Syracuse,clothing,62.0,1488.62
+2025-02-18,Utica,clothing,66.0,1497.54
+2025-06-17,Albany,Cloth ing,71.0,1654.3
+2025-11-26,Albany,Home Goods,35.0,1150.1
+2025-07-19,Utica,clothing,79.0,1981.32
+2025-10-26,Utica,Cloth ing,62.0,1454.52
+2025-06-05,Albany,Groceries,,690.42
+2025-06-11,Syracuse,Cloth ing,52.0,1151.8
+2025-05-06,Utica,home goods,39.0,1204.71
+2025-01-17,Syracuse,ELECTRONICS,29.0,2514.01
+2025-09-12,Albany,Clothing,83.0,2066.7
+2025-04-21,Utica,home goods,43.0,1240.12
+2025-01-19,Albany,Home Goods,49.0,1416.1
+2025-04-14,Syracuse,Home Goods,44.0,1492.04
+2025-02-23,Albany,groceries,172.0,1131.76
+2025-07-16,Utica,groceries,85.0,540.6
+2025-07-12,Rome,clothing,69.0,1620.12
+2025-02-10,Albany,Groceries,128.0,787.2
+2025-04-10,Albany,toys,19.0,292.79
+2025-02-13,Utica,Home Goods,12.0,387.96
+2025-06-05,Rome,toys,22.0,312.84
+2025-02-16,Albany,home goods,37.0,1124.8
+2025-07-04,Syracuse,Electronics,33.0,2738.01
+2025-09-24,Albany,ELECTRONICS,61.0,5010.54
+2025-07-03,Syracuse,Toys,28.0,365.4
+2025-02-02,Rome,clothing,86.0,2095.82
+2025-04-08,Utica,toys,27.0,415.26
+2025-05-13,Albany,clothing,68.0,1842.12
+2025-08-19,Rome,Electronics,42.0,3470.46
+2025-08-22,Utica,Clothing,,1274.65
+2025-04-14,Utica,electronics,44.0,3674.88
+2025-05-28,Albany,Groceries,125.0,871.25
+2025-12-24,Albany,ELECTRONICS,49.0,3971.94
+2025-04-16,Utica,Cloth ing,62.0,1360.9
+2025-08-29,Rome,Groceries,126.0,808.92
+2025-11-27,Syracuse,toys,37.0,576.46
+2025-09-15,Albany,groceries,106.0,680.52
+2025-09-12,Utica,Home Goods,30.0,912.6
+2025-08-03,Syracuse,Clothing,74.0,1623.56
+2025-11-30,Rome,Toys,23.0,336.95
+2025-04-29,Utica,clothing,49.0,1193.15
+2025-11-18,Utica,Toys,17.0,264.01
+2025-02-27,Rome,toys,31.0,439.89
+2025-08-26,Albany,home goods,22.0,707.52
+2025-11-18,Rome,Electronics,31.0,2671.89
+2025-08-22,Syracuse,Groceries,145.0,930.9
+2025-09-17,Albany,Home Goods,46.0,1539.62
+2025-09-27,Utica,ELECTRONICS,71.0,5524.51
+2025-12-08,Syracuse,ELECTRONICS,53.0,4426.56
+2025-02-27,Syracuse,home goods,33.0,1153.35
+2025-08-28,Albany,home goods,16.0,529.44
+2025-09-08,Utica,Toys,14.0,211.96
+2025-07-26,Syracuse,Groceries,141.0,960.21
+2025-03-19,Rome,Home_Goods,35.0,1200.15
+2025-04-19,Rome,groceries,,1071.0
+2025-07-09,Utica,electronics,45.0,3942.45
+2025-02-06,Rome,Cloth ing,58.0,1321.24
+2025-07-26,Syracuse,Cloth ing,59.0,1431.34
+2025-10-14,Utica,Home Goods,34.0,1126.42
+2025-02-03,Syracuse,ELECTRONICS,51.0,4301.85
+2025-02-11,Syracuse,Clothing,73.0,1646.88
+2025-09-23,Utica,Groceries,155.0,996.65
+2025-03-13,Utica,Electronics,47.0,3701.72
+2025-06-24,Albany,electronics,45.0,3632.85
+2025-02-19,Albany,clothing,46.0,1018.44
+2025-12-13,Albany,Groceries,143.0,932.36
+2025-02-02,Syracuse,electronics,42.0,3703.56
+2025-08-18,Syracuse,groceries,105.0,637.35
+2025-11-16,Rome,groceries,153.0,1080.18
+2025-04-05,Syracuse,home goods,47.0,1508.23
+2025-05-04,Syracuse,toys,32.0,449.28
+2025-03-22,Albany,ELECTRONICS,59.0,5091.11
+2025-08-13,Albany,clothing,75.0,1813.5
+2025-11-19,Rome,Toys,30.0,465.9
+2025-05-05,Rome,Clothing,55.0,1309.55
+2025-06-12,Rome,home goods,37.0,1137.38
+2025-08-11,Utica,toys,31.0,438.96
+2025-02-10,Syracuse,groceries,124.0,787.4
+2025-10-12,Albany,Clothing,68.0,1846.88
+2025-11-10,Rome,ELECTRONICS,42.0,3655.26
+2025-09-09,Utica,Toys,24.0,340.56
+2025-06-23,Albany,Electronics,28.0,2217.88
+2025-11-15,Utica,Cloth ing,50.0,1262.5
+2025-03-13,Syracuse,Clothing,64.0,1680.0
+2025-02-04,Utica,Home_Goods,22.0,693.0
+2025-11-06,Rome,Groceries,72.0,524.88
+2025-04-13,Utica,Home_Goods,39.0,1122.42
+2025-02-24,Utica,Cloth ing,71.0,1700.45
+2025-07-26,Utica,Toys,34.0,504.56
+2025-03-04,Albany,Groceries,126.0,884.52
+2025-03-22,Albany,groceries,191.0,1298.8
+2025-09-07,Utica,toys,25.0,387.75
+2025-10-12,Albany,electronics,66.0,5866.08
+2025-01-14,Utica,clothing,52.0,1298.96
+2025-10-24,Albany,Electronics,39.0,3232.32
+2025-08-30,Utica,Groceries,140.0,914.2
+2025-01-18,Rome,electronics,45.0,3884.4
+2025-10-01,Utica,groceries,169.0,1128.92
+2025-06-12,Syracuse,ELECTRONICS,34.0,3045.38
+2025-11-22,Utica,Groceries,154.0,971.74
+2025-11-27,Albany,toys,21.0,322.14
+2025-08-20,Syracuse,Groceries,141.0,783.96
+2025-01-12,Syracuse,Toys,26.0,403.78
+2025-08-17,Rome,Toys,33.0,507.87
+2025-08-09,Syracuse,Groceries,206.0,1341.06
+2025-03-09,Utica,Groceries,137.0,856.25
+2025-07-30,Albany,toys,32.0,450.24
+2025-07-17,Rome,electronics,38.0,3077.62
+2025-05-24,Syracuse,Clothing,61.0,1335.29
+2025-03-17,Rome,Clothing,56.0,1330.0
+2025-08-05,Syracuse,home goods,58.0,1817.72
+2025-02-26,Utica,electronics,30.0,2542.8
+2025-08-08,Rome,Cloth ing,76.0,1732.04
+2025-01-13,Syracuse,clothing,42.0,966.0
+2025-09-26,Utica,home goods,55.0,1706.1
+2025-12-27,Rome,Groceries,163.0,1049.72
+2025-12-05,Albany,Toys,26.0,364.26
+2025-02-15,Syracuse,Toys,36.0,573.84
+2025-03-26,Albany,groceries,88.0,527.12
+2025-01-23,Syracuse,toys,34.0,513.74
+2025-07-09,Albany,Toys,19.0,309.89
+2025-04-27,Albany,groceries,143.0,910.91
+2025-05-07,Syracuse,Electronics,47.0,4004.4
+2025-09-25,Utica,Electronics,37.0,3126.87
+2025-03-11,Syracuse,home goods,31.0,940.85
+2025-05-18,Albany,home goods,48.0,1486.08
+2025-04-28,Syracuse,Groceries,134.0,936.66
+2025-04-08,Rome,Home_Goods,35.0,1231.65
+2025-05-27,Utica,Groceries,93.0,589.62
+2025-08-27,Albany,Toys,22.0,331.54
+2025-07-08,Utica,Cloth ing,81.0,2086.56
+2025-10-10,Albany,Home_Goods,34.0,1125.74
+2025-10-05,Utica,ELECTRONICS,47.0,3722.4
+2025-04-06,Albany,Cloth ing,,1447.68
+2025-08-17,Syracuse,Clothing,71.0,1720.33
+2025-05-17,Syracuse,Home Goods,44.0,1405.8
+2025-06-27,Rome,clothing,40.0,923.6
+2025-06-23,Syracuse,Groceries,101.0,661.55
+2025-08-25,Albany,home goods,31.0,988.9
+2025-06-14,Rome,Groceries,139.0,815.93
+2025-01-02,Albany,Electronics,40.0,3449.2
+2025-05-12,Syracuse,Home_Goods,24.0,768.48
+2025-12-20,Syracuse,Home Goods,41.0,1366.94
+2025-04-08,Albany,clothing,71.0,1777.84
+2025-09-12,Rome,Clothing,66.0,1568.82
+2025-08-10,Syracuse,Toys,39.0,581.1
+2025-12-21,Rome,Clothing,87.0,2174.13
+2025-06-05,Utica,Cloth ing,51.0,1216.86
+2025-03-06,Utica,Groceries,132.0,825.0
+2025-03-07,Albany,Home Goods,30.0,937.5
+2025-07-04,Albany,electronics,11.0,919.71
+2025-06-24,Albany,toys,30.0,461.7
+2025-07-01,Rome,clothing,41.0,940.13
+2025-01-20,Utica,clothing,78.0,1831.44
+2025-03-06,Rome,groceries,162.0,1104.84
+2025-09-22,Syracuse,Toys,27.0,406.89
+2025-09-01,Syracuse,toys,18.0,257.58
+2025-07-23,Rome,Groceries,87.0,586.38
+2025-12-07,Utica,electronics,59.0,5076.36
+2025-11-29,Rome,electronics,50.0,4508.5
+2025-07-31,Syracuse,toys,20.0,299.6
+2025-02-19,Albany,Home_Goods,34.0,1061.14
+2025-03-23,Albany,electronics,48.0,3972.48
+2025-12-08,Rome,clothing,77.0,1644.72
+2025-02-23,Syracuse,Cloth ing,69.0,1751.22
+2025-02-22,Utica,Groceries,126.0,849.24
+2025-01-12,Utica,Cloth ing,76.0,1896.2
+2025-06-22,Albany,Cloth ing,81.0,2033.91
+2025-09-26,Syracuse,clothing,49.0,1187.27
+2025-04-23,Rome,Clothing,64.0,1665.92
+2025-01-28,Utica,groceries,118.0,762.28
+2025-07-18,Utica,ELECTRONICS,43.0,3314.87
+2025-06-17,Utica,Cloth ing,41.0,981.54
+2025-10-29,Rome,Home_Goods,36.0,1047.6
+2025-07-10,Rome,Clothing,19.0,445.74
+2025-11-25,Rome,Toys,25.0,381.25
+2025-12-12,Rome,Electronics,64.0,5258.88
+2025-04-19,Albany,ELECTRONICS,23.0,1907.62
+2025-01-18,Albany,ELECTRONICS,64.0,5738.88
+2025-05-03,Rome,Toys,38.0,592.04
+2025-12-06,Rome,home goods,50.0,1619.0
+2025-12-20,Syracuse,Clothing,105.0,2585.1
+2025-12-30,Syracuse,Home_Goods,34.0,1068.62
+2025-07-26,Utica,Home Goods,45.0,1479.15
+2025-02-23,Utica,Groceries,152.0,992.56
+2025-11-10,Albany,toys,18.0,255.6
+2025-01-22,Rome,electronics,53.0,4480.09
+2025-03-04,Utica,clothing,75.0,1731.75
+2025-12-29,Syracuse,Clothing,35.0,
+2025-09-09,Utica,groceries,110.0,697.4
+2025-05-22,Albany,Toys,21.0,297.78
+2025-04-18,Utica,Home Goods,29.0,932.64
+2025-06-08,Syracuse,Groceries,143.0,968.11
+2025-05-19,Syracuse,groceries,82.0,514.14
+2025-08-30,Albany,Toys,36.0,559.08
+2025-12-25,Rome,Electronics,31.0,2362.82
+2025-03-30,Syracuse,clothing,79.0,1761.7
+2025-10-09,Rome,Toys,20.0,307.2
+2025-05-22,Rome,Toys,18.0,270.0
+2025-10-25,Syracuse,Home Goods,48.0,1385.76
+2025-12-16,Albany,Home_Goods,43.0,1361.38
+2025-05-03,Syracuse,electronics,49.0,4256.14
+2025-04-23,Syracuse,Electronics,41.0,3519.85
+2025-11-27,Rome,electronics,54.0,4888.62
+2025-08-15,Rome,Clothing,62.0,1566.12
+2025-09-24,Albany,Toys,,302.5
+2025-11-26,Albany,clothing,62.0,1547.52
+2025-12-22,Rome,Home_Goods,38.0,1257.42
+2025-02-03,Utica,clothing,,1159.02
+2025-10-22,Rome,electronics,60.0,5374.2
+2025-03-17,Utica,Home Goods,42.0,1289.4
+2025-03-08,Rome,Cloth ing,78.0,1813.5
+2025-05-25,Syracuse,Home_Goods,,
+2025-02-24,Albany,Clothing,81.0,2088.99
+2025-06-06,Utica,Groceries,136.0,802.4
+2025-01-18,Syracuse,Groceries,152.0,1047.28
+2025-04-24,Syracuse,Electronics,31.0,2672.82
+2025-12-14,Rome,toys,29.0,452.69
+2025-07-20,Utica,Home_Goods,63.0,1939.77
+2025-11-30,Rome,electronics,40.0,3381.6
+2025-08-28,Albany,Clothing,60.0,1419.0
+2025-01-13,Utica,Cloth ing,55.0,1270.5
+2025-07-01,Syracuse,groceries,133.0,779.38
+2025-01-22,Utica,Cloth ing,53.0,1181.9
+2025-03-28,Rome,electronics,36.0,2981.88
+2025-02-28,Utica,toys,19.0,294.31
+2025-06-03,Albany,toys,29.0,433.55
+2025-06-16,Albany,groceries,,901.6
+2025-03-17,Syracuse,groceries,,977.3
+2025-10-02,Rome,toys,21.0,307.65
+2025-08-31,Utica,electronics,66.0,5369.76
+2025-08-14,Albany,Electronics,30.0,2667.3
+2025-10-16,Rome,Cloth ing,65.0,1515.8
+2025-01-17,Rome,groceries,66.0,430.98
+2025-07-25,Syracuse,home goods,32.0,1084.8
+2025-08-15,Utica,Clothing,76.0,1720.64
+2025-06-13,Utica,Groceries,74.0,486.92
+2025-11-23,Syracuse,Clothing,70.0,1722.7
+2025-11-16,Utica,toys,25.0,352.25
+2025-09-23,Utica,toys,21.0,305.97
+2025-03-03,Rome,Electronics,35.0,2981.3
+2025-09-19,Albany,Electronics,39.0,3224.13
+2025-10-26,Utica,Toys,30.0,427.2
+2025-02-21,Albany,Groceries,94.0,560.24
+2025-11-12,Utica,Groceries,166.0,981.06
+2025-04-18,Rome,electronics,56.0,5008.08
+2025-04-30,Syracuse,Home_Goods,37.0,1234.32
+2025-01-08,Albany,home goods,35.0,1143.1
+2025-04-23,Albany,Electronics,50.0,4411.5
+2025-02-09,Utica,groceries,202.0,1256.44
+2025-07-06,Syracuse,ELECTRONICS,59.0,5219.73
+2025-09-25,Syracuse,Groceries,76.0,495.52
+2025-11-19,Albany,Clothing,48.0,1157.28
+2025-11-22,Utica,Cloth ing,72.0,1681.2
+2025-10-31,Rome,Toys,19.0,292.6
+2025-07-31,Rome,Home Goods,44.0,1401.84
+2025-07-16,Rome,Home_Goods,20.0,617.0
+2025-10-16,Utica,Clothing,73.0,1667.32
+2025-04-10,Albany,home goods,40.0,1307.2
+2025-10-08,Utica,Toys,20.0,287.6
+2025-04-23,Syracuse,groceries,59.0,381.73
+2025-03-05,Utica,Cloth ing,81.0,1964.25
+2025-09-19,Rome,Toys,36.0,533.88
+2025-06-10,Albany,clothing,106.0,2585.34
+2025-05-20,Utica,Groceries,115.0,733.7
+2025-09-20,Rome,clothing,65.0,1561.3
+2025-04-11,Utica,ELECTRONICS,48.0,4246.08
+2025-11-14,Utica,groceries,112.0,730.24
+2025-04-08,Utica,home goods,36.0,1226.16
+2025-11-03,Syracuse,Toys,13.0,193.05
+2025-01-17,Rome,Toys,33.0,495.33
+2025-10-12,Albany,Groceries,192.0,1128.96
+2025-01-26,Syracuse,Home Goods,58.0,1757.98
+2025-04-07,Rome,Cloth ing,64.0,1518.72
+2025-03-30,Utica,home goods,58.0,1890.8
+2025-07-13,Albany,groceries,168.0,1120.56
+2025-10-02,Albany,electronics,39.0,3383.64
+2025-11-10,Rome,Cloth ing,56.0,1422.4
+2025-10-03,Albany,Home Goods,,906.25
+2025-05-18,Albany,Groceries,160.0,1091.2
+2025-06-29,Syracuse,clothing,86.0,2106.14
+2025-03-09,Rome,groceries,167.0,1032.06
+2025-07-01,Albany,electronics,32.0,2654.08
+2025-03-17,Syracuse,Clothing,65.0,1554.15
+2025-07-21,Syracuse,Clothing,48.0,1081.44
+2025-12-17,Syracuse,toys,22.0,320.54
+2025-07-08,Syracuse,Toys,28.0,415.52
+2025-11-09,Rome,Home_Goods,51.0,1748.79
+2025-09-23,Rome,Cloth ing,69.0,1652.55
+2025-01-06,Utica,home goods,53.0,1586.82
+2025-05-11,Utica,toys,,405.81
+2025-10-20,Albany,Electronics,58.0,4968.28
+2025-02-11,Utica,Home_Goods,18.0,608.58
+2025-05-27,Albany,Home Goods,43.0,1369.55
+2025-12-12,Rome,Home Goods,43.0,1416.42
+2025-02-09,Albany,clothing,78.0,1953.9
+2025-12-16,Rome,electronics,31.0,2812.32
+2025-08-16,Syracuse,ELECTRONICS,71.0,6037.13
+2025-10-07,Albany,Home Goods,38.0,1193.96
+2025-03-08,Rome,Home_Goods,56.0,1887.76
+2025-10-13,Rome,Groceries,126.0,834.12
+2025-02-11,Albany,groceries,68.0,433.16
+2025-10-29,Albany,clothing,60.0,1372.8
+2025-11-09,Albany,Toys,35.0,540.05
+2025-09-19,Utica,Home Goods,29.0,892.33
+2025-03-23,Syracuse,Cloth ing,82.0,2150.04
+2025-07-19,Albany,Toys,27.0,404.73
+2025-03-23,Albany,home goods,59.0,1859.68
+2025-12-25,Utica,groceries,71.0,440.2
+2025-04-02,Utica,Electronics,14.0,1237.46
+2025-10-22,Syracuse,home goods,16.0,
+2025-02-01,Albany,toys,23.0,338.33
+2025-02-15,Rome,Toys,38.0,559.74
+2025-09-02,Utica,ELECTRONICS,37.0,3118.73
+2025-07-14,Syracuse,Toys,22.0,347.38
+2025-09-04,Albany,home goods,41.0,1353.82
+2025-08-04,Albany,Home_Goods,29.0,959.61
+2025-05-03,Syracuse,Toys,30.0,438.0
+2025-10-22,Albany,Groceries,132.0,821.04
+2025-06-19,Albany,ELECTRONICS,30.0,2526.6
+2025-11-24,Utica,Clothing,49.0,1259.79
+2025-03-08,Syracuse,Clothing,83.0,2075.0
+2025-03-27,Rome,clothing,41.0,961.45
+2025-01-26,Utica,Clothing,100.0,2106.0
+2025-08-12,Albany,Clothing,56.0,1363.6
+2025-11-01,Albany,Home Goods,59.0,1810.12
+2025-05-09,Albany,Electronics,43.0,3453.76
+2025-09-25,Syracuse,home goods,24.0,758.16
+2025-07-18,Syracuse,Clothing,56.0,1356.32
+2025-05-26,Rome,clothing,84.0,2241.96
+2025-09-16,Utica,groceries,68.0,434.52
+2025-02-21,Rome,Toys,34.0,498.78
+2025-01-25,Syracuse,ELECTRONICS,52.0,4400.24
+2025-11-25,Utica,Clothing,55.0,1283.7
+2025-06-13,Rome,electronics,37.0,2764.27
+2025-12-04,Utica,clothing,57.0,1350.9
+2025-05-01,Syracuse,Home Goods,20.0,622.6
+2025-09-22,Albany,Toys,,220.05
+2025-12-28,Syracuse,clothing,99.0,2291.85
+2025-03-15,Utica,toys,,422.24
+2025-04-15,Utica,Toys,20.0,297.6
+2025-07-05,Syracuse,groceries,157.0,1081.73
+2025-05-01,Syracuse,Groceries,143.0,930.93
+2025-01-29,Rome,Toys,27.0,394.2
+2025-09-04,Utica,ELECTRONICS,41.0,3503.86
+2025-09-13,Syracuse,home goods,35.0,1113.0
+2025-01-27,Utica,toys,13.0,173.03
+2025-07-20,Utica,groceries,131.0,837.09
+2025-04-15,Utica,home goods,38.0,1184.46
+2025-09-09,Utica,electronics,45.0,3659.4
+2025-03-22,Syracuse,Electronics,47.0,3899.59
+2025-10-30,Rome,Home_Goods,38.0,1174.96
+2025-01-04,Albany,ELECTRONICS,,4476.5
+2025-08-25,Rome,Home Goods,35.0,1152.9
+2025-07-14,Utica,groceries,131.0,897.35
+2025-12-18,Utica,Toys,27.0,401.49
+2025-05-08,Albany,Cloth ing,55.0,1355.75
+2025-01-23,Albany,clothing,67.0,1565.79
+2025-07-24,Utica,groceries,153.0,1043.46
+2025-09-06,Rome,ELECTRONICS,44.0,3666.08
+2025-07-13,Albany,Toys,30.0,471.0
+2025-04-25,Albany,Clothing,57.0,1365.15
+2025-08-13,Utica,Groceries,111.0,745.92
+2025-04-05,Albany,toys,38.0,585.2
+2025-08-24,Utica,toys,37.0,627.52
+2025-01-31,Syracuse,groceries,189.0,1321.11
+2025-12-24,Utica,Electronics,54.0,4756.86
+2025-09-03,Syracuse,groceries,80.0,549.6
+2025-05-18,Utica,Toys,37.0,567.58
+2025-10-28,Albany,Cloth ing,81.0,1735.02
+2025-06-21,Albany,Groceries,165.0,1037.85
+2025-11-09,Albany,Home_Goods,60.0,1965.6
+2025-11-25,Albany,home goods,40.0,1237.2
+2025-07-27,Rome,Home Goods,39.0,1365.78
+2025-02-15,Albany,electronics,56.0,5014.24
+2025-01-27,Utica,electronics,33.0,2705.01
+2025-01-21,Utica,home goods,49.0,1592.5
+2025-11-23,Syracuse,ELECTRONICS,50.0,4167.5
+2025-07-10,Albany,Home Goods,39.0,1260.09
+2025-03-25,Utica,Home Goods,30.0,896.7
+2025-05-09,Syracuse,Groceries,159.0,996.93
+2025-06-19,Utica,Electronics,43.0,3778.41
+2025-07-28,Albany,groceries,146.0,959.22
+2025-06-06,Utica,Clothing,,
+2025-09-25,Albany,home goods,28.0,865.48
+2025-12-11,Syracuse,home goods,34.0,1027.14
+2025-10-27,Syracuse,Home_Goods,15.0,529.8
+2025-05-17,Rome,Toys,31.0,449.5
+2025-02-02,Albany,groceries,97.0,590.73
+2025-12-18,Rome,Toys,31.0,433.07
+2025-04-15,Utica,electronics,57.0,4974.96
+2025-11-28,Syracuse,Toys,21.0,306.6
+2025-07-03,Rome,Home Goods,32.0,1017.28
+2025-08-04,Syracuse,groceries,123.0,776.13
+2025-02-26,Albany,groceries,90.0,557.1
+2025-10-23,Rome,groceries,70.0,461.3
+2025-03-14,Rome,Cloth ing,59.0,1260.83
+2025-07-28,Albany,clothing,49.0,1087.8
+2025-03-08,Syracuse,Groceries,246.0,1581.78
+2025-08-10,Utica,Home Goods,31.0,964.41
+2025-10-10,Albany,toys,31.0,473.68
+2025-11-24,Albany,Toys,24.0,384.48
+2025-10-25,Utica,Cloth ing,91.0,2335.97
+2025-03-02,Utica,Groceries,185.0,1143.3
+2025-04-18,Rome,Groceries,121.0,753.83
+2025-04-02,Utica,Home Goods,38.0,1189.02
+2025-04-24,Rome,toys,35.0,487.55
+2025-01-11,Rome,clothing,75.0,1729.5
+2025-07-17,Rome,Home_Goods,31.0,927.21
+2025-02-03,Utica,Home Goods,28.0,869.96
+2025-04-20,Albany,Home_Goods,46.0,1395.18
+2025-05-24,Utica,electronics,56.0,4651.92
+2025-01-02,Syracuse,electronics,,3102.75
+2025-02-14,Utica,Electronics,36.0,2844.72
+2025-08-24,Utica,Electronics,63.0,5361.93
+2025-06-16,Albany,home goods,53.0,1876.2
+2025-01-23,Rome,clothing,47.0,1097.45
+2025-08-23,Rome,ELECTRONICS,56.0,4888.24
+2025-03-28,Syracuse,groceries,68.0,432.48
+2025-12-01,Albany,Groceries,165.0,1173.15
+2025-07-28,Albany,home goods,36.0,1184.4
+2025-06-08,Albany,electronics,40.0,3381.2
+2025-08-08,Rome,toys,29.0,443.7
+2025-07-11,Utica,Electronics,36.0,3160.44
+2025-10-04,Rome,groceries,176.0,1151.04
+2025-04-15,Rome,Toys,16.0,251.84
+2025-10-01,Syracuse,toys,34.0,485.18
+2025-10-26,Albany,Groceries,158.0,1017.52
+2025-07-07,Rome,Toys,34.0,541.62
+2025-12-19,Albany,Groceries,123.0,808.11
+2025-02-17,Albany,Home_Goods,34.0,1083.24
+2025-12-09,Utica,ELECTRONICS,46.0,3986.82
+2025-06-01,Albany,groceries,111.0,717.06
+2025-09-17,Albany,Cloth ing,44.0,1069.64
+2025-06-18,Albany,toys,31.0,447.95
+2025-07-17,Rome,groceries,118.0,743.4
+2025-04-04,Syracuse,Toys,25.0,354.75
+2025-05-23,Syracuse,Toys,20.0,309.0
+2025-08-08,Utica,toys,28.0,411.88
+2025-10-10,Albany,Cloth ing,51.0,1136.28
+2025-02-11,Rome,toys,13.0,187.72
+2025-04-14,Syracuse,toys,34.0,536.86
+2025-12-14,Utica,Cloth ing,52.0,1219.92
+2025-12-22,Syracuse,Clothing,41.0,982.36
+2025-06-21,Utica,Cloth ing,81.0,1998.27
+2025-05-31,Albany,toys,,429.6
+2025-01-10,Albany,Cloth ing,44.0,1081.08
+2025-12-15,Syracuse,home goods,44.0,1349.04
+2025-07-30,Albany,Electronics,40.0,3503.2
+2025-07-01,Albany,Toys,22.0,345.18
+2025-01-22,Utica,Groceries,90.0,554.4
+2025-08-29,Albany,Cloth ing,81.0,1785.24
+2025-06-18,Rome,toys,28.0,435.68
+2025-09-19,Syracuse,toys,29.0,461.1
+2025-11-26,Utica,Clothing,44.0,1064.8
+2025-07-15,Rome,Home_Goods,32.0,975.68
+2025-07-20,Albany,Home_Goods,38.0,1161.66
+2025-06-22,Utica,Toys,27.0,402.84
+2025-05-10,Utica,groceries,186.0,1266.66
+2025-11-21,Albany,home goods,43.0,1458.13
+2025-09-02,Albany,home goods,38.0,1276.8
+2025-11-30,Syracuse,Clothing,67.0,1573.16
+2025-07-04,Syracuse,toys,25.0,361.25
+2025-06-02,Syracuse,toys,23.0,327.52
+2025-01-20,Rome,groceries,181.0,1163.83
+2025-08-08,Syracuse,groceries,144.0,990.72
+2025-12-11,Syracuse,clothing,79.0,1935.5
+2025-09-06,Syracuse,Home_Goods,45.0,1348.65
+2025-11-07,Syracuse,Home Goods,19.0,
+2025-07-23,Albany,Groceries,60.0,385.2
+2025-09-18,Albany,Electronics,38.0,3095.48
+2025-03-11,Albany,Toys,24.0,354.48
+2025-09-14,Rome,Home_Goods,19.0,609.9
+2025-03-05,Utica,Toys,24.0,402.96
+2025-05-15,Rome,Clothing,82.0,1819.58
+2025-11-03,Rome,ELECTRONICS,48.0,
+2025-08-10,Rome,toys,25.0,370.0
+2025-09-08,Syracuse,Toys,27.0,370.17
+2025-09-26,Utica,ELECTRONICS,37.0,3231.58
+2025-07-21,Rome,toys,25.0,
+2025-04-12,Utica,Home Goods,30.0,810.6
+2025-06-30,Rome,Home Goods,29.0,970.92
+2025-03-10,Rome,Home Goods,48.0,1453.44
+2025-12-12,Albany,groceries,68.0,439.28
+2025-08-30,Utica,toys,31.0,471.51
+2025-07-06,Albany,ELECTRONICS,55.0,4706.9
+2025-02-09,Albany,Toys,19.0,285.38
+2025-12-05,Albany,electronics,40.0,3616.0
+2025-08-23,Rome,Cloth ing,79.0,1835.96
+2025-08-13,Rome,toys,32.0,514.24
+2025-02-27,Utica,Home Goods,18.0,539.1
+2025-04-03,Rome,toys,30.0,400.5
+2025-11-01,Rome,toys,,501.93
+2025-02-05,Albany,Cloth ing,65.0,
+2025-12-03,Syracuse,ELECTRONICS,55.0,4958.25
+2025-01-30,Syracuse,Groceries,63.0,447.93
+2025-04-04,Utica,groceries,89.0,542.01
+2025-02-13,Albany,Electronics,41.0,3613.33
+2025-05-09,Rome,Electronics,36.0,2980.44
+2025-12-16,Rome,clothing,52.0,1270.88
+2025-10-28,Syracuse,Home Goods,,
+2025-06-04,Rome,groceries,102.0,734.4
+2025-05-10,Utica,toys,33.0,517.11
+2025-07-27,Rome,electronics,47.0,4099.34
+2025-08-24,Syracuse,Toys,27.0,413.37
+2025-12-26,Rome,Home_Goods,48.0,1604.16
+2025-07-13,Utica,toys,35.0,505.05
+2025-11-14,Utica,clothing,55.0,1296.35
+2025-08-15,Albany,Home Goods,24.0,732.48
+2025-02-17,Albany,groceries,87.0,528.96
+2025-01-19,Rome,Home Goods,45.0,1460.25
+2025-10-30,Albany,groceries,156.0,960.96
+2025-04-20,Albany,Groceries,154.0,1150.38
+2025-09-23,Rome,groceries,92.0,568.56
+2025-06-10,Rome,electronics,42.0,3529.68
+2025-11-26,Syracuse,Home Goods,32.0,1060.8
+2025-10-14,Syracuse,groceries,109.0,636.56
+2025-10-19,Utica,Home Goods,51.0,1493.79
+2025-10-26,Utica,Electronics,,5510.4
+2025-07-23,Albany,ELECTRONICS,46.0,3861.7
+2025-12-23,Utica,home goods,33.0,1056.0
+2025-08-06,Utica,groceries,118.0,732.78
+2025-01-10,Rome,electronics,34.0,2735.3
+2025-03-24,Rome,Home Goods,31.0,978.98
+2025-09-09,Albany,toys,15.0,232.5
+2025-02-03,Syracuse,toys,23.0,332.35
+2025-06-14,Albany,Electronics,57.0,4349.1
+2025-03-09,Rome,Toys,23.0,320.39
+2025-09-12,Syracuse,Electronics,34.0,2690.76
+2025-08-03,Albany,Home_Goods,46.0,1430.6
+2025-02-14,Utica,Home Goods,38.0,
+2025-05-08,Rome,Home Goods,40.0,1245.6
+2025-05-02,Rome,Groceries,109.0,712.86
+2025-07-25,Utica,Groceries,168.0,1132.32
+2025-04-12,Rome,clothing,80.0,1693.6
+2025-03-02,Syracuse,toys,18.0,252.18
+2025-07-08,Albany,Groceries,134.0,948.72
+2025-05-01,Rome,toys,22.0,347.16
+2025-09-16,Syracuse,Electronics,50.0,4238.0
+2025-03-30,Albany,Groceries,169.0,1025.83
+2025-08-28,Albany,electronics,36.0,
+2025-06-18,Albany,Electronics,24.0,2041.44
+2025-10-16,Syracuse,Clothing,48.0,1104.96
+2025-07-09,Rome,Toys,28.0,385.0
+2025-11-05,Rome,electronics,44.0,3600.08
+2025-03-04,Rome,clothing,81.0,1877.58
+2025-09-07,Albany,Toys,29.0,420.79
+2025-04-25,Utica,toys,33.0,454.41
+2025-11-17,Utica,Groceries,161.0,1143.1
+2025-06-19,Albany,Clothing,83.0,1999.47
+2025-03-30,Utica,Toys,29.0,442.83
+2025-01-21,Syracuse,home goods,32.0,985.92
+2025-05-07,Utica,Groceries,103.0,650.96
+2025-03-12,Utica,electronics,45.0,3713.4
+2025-03-14,Utica,clothing,68.0,1680.96
+2025-11-11,Rome,home goods,38.0,1239.18
+2025-06-03,Albany,Electronics,35.0,2833.25
+2025-02-23,Rome,groceries,162.0,1095.12
+2025-07-05,Albany,Groceries,184.0,1212.56
+2025-01-17,Utica,groceries,150.0,1033.5
+2025-07-05,Rome,groceries,156.0,936.0
+2025-05-19,Utica,clothing,36.0,892.08
+2025-11-08,Rome,Cloth ing,64.0,1535.36
+2025-01-11,Albany,home goods,68.0,2200.48
+2025-02-23,Utica,toys,27.0,427.14
+2025-10-18,Utica,clothing,62.0,1436.54
+2025-11-12,Rome,Cloth ing,54.0,1367.28
+2025-12-05,Rome,Home_Goods,41.0,1430.08
+2025-05-30,Syracuse,Groceries,149.0,993.83
+2025-08-02,Syracuse,Electronics,50.0,3999.0
+2025-11-07,Syracuse,Toys,28.0,432.32
+2025-04-13,Albany,Electronics,36.0,2885.76
+2025-01-25,Utica,home goods,51.0,1521.33
+2025-07-15,Syracuse,groceries,77.0,532.84
+2025-02-11,Syracuse,Groceries,66.0,415.14
+2025-03-14,Rome,toys,18.0,270.9
+2025-10-11,Syracuse,Cloth ing,92.0,2127.04
+2025-08-15,Syracuse,ELECTRONICS,,2683.37
+2025-05-04,Utica,clothing,75.0,1622.25
+2025-07-29,Syracuse,Home_Goods,30.0,999.6
+2025-05-10,Syracuse,Clothing,72.0,1638.72
+2025-09-06,Rome,Home_Goods,42.0,1328.04
+2025-06-23,Rome,groceries,136.0,878.56
+2025-07-08,Rome,Cloth ing,91.0,2017.47
+2025-01-03,Syracuse,Groceries,168.0,1078.56
+2025-11-28,Rome,Groceries,146.0,1076.02
+2025-11-05,Utica,Clothing,72.0,1717.2
+2025-11-07,Rome,groceries,77.0,520.52
+2025-07-11,Rome,toys,18.0,262.44
+2025-09-27,Syracuse,groceries,160.0,1025.6
+2025-10-02,Albany,Cloth ing,71.0,1553.48
+2025-03-16,Albany,clothing,87.0,1963.59
+2025-02-05,Albany,groceries,108.0,693.36
+2025-07-19,Utica,Electronics,40.0,3547.6
+2025-01-02,Utica,toys,30.0,455.1
+2025-07-03,Syracuse,Home_Goods,31.0,1006.57
+2025-09-24,Syracuse,Electronics,31.0,2445.28
+2025-04-24,Syracuse,clothing,77.0,1684.76
+2025-02-12,Syracuse,groceries,153.0,989.91
+2025-07-18,Albany,Groceries,100.0,635.0
+2025-02-18,Albany,Home Goods,41.0,1461.24
+2025-09-02,Rome,clothing,59.0,1421.31
+2025-02-01,Utica,Electronics,50.0,4738.5
+2025-04-26,Syracuse,groceries,134.0,860.28
+2025-11-13,Syracuse,Cloth ing,80.0,1880.8
+2025-06-21,Rome,Groceries,220.0,1368.4
+2025-04-30,Syracuse,Toys,22.0,315.48
+2025-02-10,Rome,Groceries,102.0,
+2025-06-10,Syracuse,home goods,30.0,890.1
+2025-12-21,Syracuse,Toys,30.0,396.9
+2025-10-31,Rome,groceries,161.0,940.24
+2025-11-24,Utica,Home_Goods,32.0,1030.72
+2025-03-12,Syracuse,clothing,67.0,1521.57
+2025-09-05,Albany,home goods,32.0,1012.48
+2025-03-06,Albany,clothing,58.0,1334.0
+2025-08-08,Rome,Electronics,44.0,3709.64
+2025-08-17,Utica,Home Goods,45.0,1511.55
+2025-07-06,Rome,Home_Goods,56.0,1895.6
+2025-09-05,Syracuse,Home_Goods,9.0,272.79
+2025-07-29,Utica,Home Goods,46.0,1458.2
+2025-10-25,Albany,ELECTRONICS,59.0,4727.08
+2025-11-30,Albany,home goods,45.0,1336.05
+2025-03-25,Utica,Groceries,88.0,528.88
+2025-06-24,Syracuse,groceries,133.0,
+2025-03-08,Albany,Groceries,118.0,779.98
+2025-03-18,Albany,Home_Goods,56.0,1667.68
+2025-04-11,Utica,Clothing,58.0,1384.46
+2025-03-31,Albany,toys,24.0,357.84
+2025-08-06,Rome,Home_Goods,20.0,648.4
+2025-10-07,Syracuse,Home Goods,35.0,1165.15
+2025-10-19,Rome,Home_Goods,57.0,1734.51
+2025-10-03,Rome,Home Goods,14.0,413.42
+2025-04-09,Utica,Cloth ing,64.0,1443.84
+2025-01-14,Rome,Cloth ing,50.0,1287.0
+2025-05-10,Rome,Cloth ing,92.0,2158.32
+2025-02-25,Rome,Home Goods,18.0,556.38
+2025-08-14,Rome,Groceries,98.0,625.24
+2025-09-19,Albany,Groceries,176.0,1122.88
+2025-04-29,Utica,Home_Goods,49.0,1673.35
+2025-02-21,Syracuse,Clothing,61.0,1446.31
+2025-04-23,Rome,toys,29.0,454.43
+2025-03-20,Utica,ELECTRONICS,40.0,3212.8
+2025-04-24,Albany,Electronics,41.0,3820.38
+2025-09-23,Syracuse,Home_Goods,45.0,1441.35
+2025-09-27,Albany,Groceries,129.0,829.47
+2025-09-28,Albany,clothing,75.0,1883.25
+2025-04-28,Utica,electronics,43.0,3471.39
+2025-11-17,Rome,Clothing,87.0,2131.5
+2025-04-25,Albany,home goods,29.0,932.64
+2025-06-03,Utica,home goods,46.0,1528.12
+2025-05-08,Utica,groceries,80.0,536.0
+2025-05-05,Utica,ELECTRONICS,33.0,2984.85
+2025-04-23,Albany,Home Goods,41.0,1211.96
+2025-03-18,Utica,home goods,28.0,871.36
+2025-02-24,Rome,Cloth ing,32.0,785.92
+2025-10-06,Utica,Toys,21.0,335.16
+2025-08-03,Utica,Groceries,114.0,707.94
+2025-08-16,Syracuse,Toys,29.0,408.61
+2025-05-17,Utica,Clothing,68.0,1642.2
+2025-09-23,Albany,electronics,25.0,2176.5
+2025-11-22,Utica,electronics,52.0,4372.16
+2025-02-08,Rome,Cloth ing,78.0,1961.7
+2025-12-09,Syracuse,groceries,168.0,1092.0
+2025-11-30,Utica,clothing,106.0,2337.3
+2025-01-15,Albany,clothing,46.0,1113.66
+2025-09-30,Syracuse,home goods,29.0,902.48
+2025-04-12,Albany,Electronics,60.0,4986.0
+2025-01-04,Rome,Groceries,219.0,1364.37
+2025-08-01,Syracuse,home goods,33.0,1077.12
+2025-11-19,Utica,ELECTRONICS,35.0,3234.0
+2025-10-02,Albany,toys,19.0,270.37
+2025-04-01,Syracuse,clothing,40.0,908.0
+2025-12-10,Syracuse,Home Goods,36.0,1098.36
+2025-03-25,Syracuse,electronics,52.0,4409.08
+2025-11-01,Syracuse,groceries,175.0,1093.75
+2025-02-23,Rome,clothing,78.0,2006.16
+2025-01-14,Rome,toys,21.0,322.35
+2025-05-28,Syracuse,home goods,24.0,860.16
+2025-10-01,Rome,electronics,41.0,3573.56
+2025-02-11,Albany,Toys,35.0,524.3
+2025-05-09,Utica,electronics,29.0,2300.86
+2025-11-06,Rome,Cloth ing,41.0,997.12
+2025-05-03,Rome,Clothing,62.0,1628.74
+2025-08-22,Utica,toys,15.0,225.9
+2025-12-08,Albany,Toys,22.0,312.4
+2025-05-27,Utica,Clothing,34.0,806.48
+2025-09-14,Syracuse,Cloth ing,77.0,1761.76
+2025-05-19,Utica,Electronics,55.0,4336.2
+2025-04-02,Syracuse,Home Goods,51.0,1534.59
+2025-09-07,Albany,Electronics,43.0,3533.74
+2025-12-16,Utica,Cloth ing,70.0,1631.7
+2025-08-26,Albany,toys,22.0,315.04
+2025-11-21,Utica,groceries,140.0,999.6
+2025-12-09,Utica,Clothing,60.0,1405.2
+2025-09-30,Syracuse,toys,24.0,374.64
+2025-11-05,Syracuse,clothing,54.0,1407.24
+2025-05-07,Albany,Cloth ing,84.0,2036.16
+2025-04-16,Syracuse,clothing,42.0,1052.52
+2025-09-12,Utica,Clothing,45.0,1116.9
+2025-03-14,Syracuse,ELECTRONICS,49.0,4193.42
+2025-07-01,Syracuse,clothing,32.0,784.0
+2025-10-02,Rome,ELECTRONICS,46.0,3795.92
+2025-12-01,Rome,toys,24.0,397.68
+2025-03-19,Albany,ELECTRONICS,38.0,3202.26
+2025-07-07,Syracuse,Groceries,178.0,1075.12
+2025-05-19,Utica,home goods,31.0,990.14
+2025-06-05,Albany,Cloth ing,62.0,1452.04
+2025-04-20,Albany,Toys,35.0,533.75
+2025-10-15,Syracuse,Groceries,150.0,982.5
+2025-09-19,Syracuse,Cloth ing,28.0,684.6
+2025-11-13,Albany,groceries,84.0,566.16
+2025-11-17,Albany,home goods,34.0,1021.7
+2025-11-22,Utica,home goods,31.0,1009.98
+2025-03-28,Albany,Clothing,56.0,1333.36
+2025-01-18,Utica,clothing,83.0,1814.38
+2025-01-04,Rome,home goods,53.0,1728.86
+2025-06-22,Syracuse,groceries,154.0,988.68
+2025-05-26,Albany,clothing,69.0,1631.16
+2025-01-07,Rome,electronics,29.0,
+2025-09-01,Utica,Home_Goods,34.0,1156.0
+2025-07-09,Syracuse,Toys,22.0,325.16
+2025-04-30,Albany,Home_Goods,40.0,1244.8
+2025-03-02,Albany,ELECTRONICS,59.0,4848.62
+2025-06-12,Albany,electronics,57.0,5005.17
+2025-08-27,Rome,ELECTRONICS,51.0,4242.18
+2025-04-27,Utica,Home Goods,,1231.64
+2025-08-14,Syracuse,Groceries,159.0,1068.48
+2025-12-03,Utica,toys,30.0,478.8
+2025-10-14,Rome,Home Goods,27.0,916.92
+2025-03-31,Rome,toys,35.0,539.35
+2025-07-23,Syracuse,Toys,14.0,209.58
+2025-01-08,Albany,Clothing,69.0,1466.25
+2025-11-03,Syracuse,Home_Goods,54.0,1781.46
+2025-09-04,Rome,Electronics,53.0,5439.92
+2025-09-30,Syracuse,Cloth ing,66.0,1615.02
+2025-07-03,Utica,Groceries,144.0,884.16
+2025-09-05,Rome,clothing,38.0,919.98
+2025-07-25,Rome,Toys,27.0,419.85
+2025-03-26,Syracuse,Clothing,63.0,1579.41
+2025-11-12,Utica,Home_Goods,30.0,916.2
+2025-08-15,Syracuse,toys,21.0,316.05
+2025-01-23,Rome,ELECTRONICS,48.0,4218.24
+2025-09-22,Syracuse,Home_Goods,34.0,1097.86
+2025-11-08,Utica,Groceries,118.0,807.12
+2025-02-17,Rome,clothing,50.0,1105.0
+2025-05-02,Rome,ELECTRONICS,64.0,5594.24
+2025-09-29,Utica,Toys,14.0,221.34
+2025-05-10,Syracuse,groceries,149.0,1053.43
+2025-07-15,Rome,clothing,55.0,1438.8
+2025-07-13,Utica,clothing,74.0,1871.46
+2025-05-22,Utica,toys,36.0,555.48
+2025-07-05,Rome,Home_Goods,57.0,1857.63
+2025-09-25,Albany,electronics,39.0,3383.25
+2025-01-08,Rome,toys,19.0,282.91
+2025-02-09,Albany,Electronics,54.0,4530.6
+2025-06-13,Rome,groceries,107.0,756.49
+2025-12-01,Rome,Home Goods,29.0,866.52
+2025-10-09,Rome,Clothing,77.0,1868.79
+2025-03-30,Rome,groceries,171.0,1169.64
+2025-12-27,Utica,Toys,29.0,455.88
+2025-01-31,Syracuse,ELECTRONICS,54.0,4557.06
+2025-01-03,Syracuse,Home Goods,38.0,1304.92
+2025-06-14,Rome,Home_Goods,40.0,1310.8
+2025-10-30,Rome,Clothing,67.0,1517.55
+2025-05-06,Rome,Home Goods,27.0,897.75
+2025-01-30,Albany,groceries,148.0,889.48
+2025-01-01,Utica,Groceries,148.0,868.76
+2025-05-15,Albany,home goods,29.0,934.67
+2025-06-28,Syracuse,home goods,54.0,1764.72
+2025-07-18,Albany,clothing,60.0,1420.2
+2025-02-07,Albany,Groceries,140.0,875.0
+2025-04-08,Albany,ELECTRONICS,35.0,3101.35
+2025-05-10,Syracuse,toys,28.0,421.4
+2025-04-17,Utica,Cloth ing,77.0,1923.46
+2025-02-26,Albany,clothing,84.0,1963.92
+2025-11-14,Syracuse,toys,29.0,414.7
+2025-03-09,Rome,Home Goods,36.0,1110.24
+2025-05-09,Albany,Groceries,143.0,962.39
+2025-10-07,Syracuse,Cloth ing,57.0,1476.3
+2025-11-26,Utica,toys,20.0,283.0
+2025-10-15,Rome,ELECTRONICS,16.0,1354.56
+2025-04-25,Utica,electronics,51.0,3991.26
+2025-02-22,Rome,Groceries,195.0,1310.4
+2025-07-20,Albany,clothing,60.0,1369.8
+2025-09-29,Syracuse,Clothing,52.0,1268.8
+2025-08-25,Utica,Toys,31.0,475.85
+2025-05-15,Utica,Groceries,144.0,970.56
+2025-01-26,Utica,Toys,26.0,373.1
+2025-01-16,Syracuse,toys,23.0,349.83
+2025-11-05,Utica,home goods,28.0,889.84
+2025-08-01,Rome,clothing,84.0,2009.28
+2025-07-05,Syracuse,toys,41.0,623.61
+2025-05-01,Rome,Groceries,26.0,172.12
+2025-03-02,Rome,Toys,24.0,
+2025-06-11,Utica,ELECTRONICS,46.0,3800.98
+2025-12-21,Albany,Toys,26.0,376.22
+2025-11-24,Syracuse,toys,19.0,288.8
+2025-06-02,Albany,Electronics,42.0,3495.66
+2025-04-22,Rome,Home_Goods,39.0,1191.84
+2025-06-19,Syracuse,clothing,54.0,1305.18
+2025-06-26,Syracuse,electronics,45.0,3958.2
+2025-09-07,Utica,Electronics,70.0,6120.1
+2025-08-19,Albany,Groceries,88.0,604.56
+2025-09-19,Utica,groceries,94.0,604.42
+2025-07-28,Syracuse,Cloth ing,54.0,1350.54
+2025-01-24,Syracuse,toys,34.0,522.58
+2025-10-01,Syracuse,Cloth ing,42.0,959.7
+2025-05-13,Syracuse,ELECTRONICS,49.0,4048.38
+2025-06-10,Albany,toys,21.0,293.16
+2025-05-01,Albany,electronics,62.0,5335.72
+2025-01-28,Utica,electronics,49.0,4185.09
+2025-12-05,Syracuse,clothing,71.0,1727.43
+2025-01-05,Syracuse,Toys,28.0,426.72
+2025-05-11,Albany,ELECTRONICS,52.0,4606.68
+2025-01-18,Rome,Groceries,163.0,1074.17
+2025-01-28,Rome,clothing,59.0,
+2025-02-03,Albany,Clothing,47.0,1063.14
+2025-05-06,Albany,Home Goods,19.0,633.65
+2025-01-10,Rome,Home Goods,32.0,948.48
+2025-07-14,Rome,home goods,25.0,794.5
+2025-03-09,Utica,Home Goods,,1644.5
+2025-07-15,Albany,Cloth ing,32.0,756.48
+2025-07-17,Syracuse,Home Goods,30.0,1064.1
+2025-12-01,Syracuse,Clothing,73.0,1718.42
+2025-07-12,Syracuse,Electronics,49.0,4555.53
+2025-05-23,Utica,Electronics,42.0,3228.54
+2025-10-18,Rome,Groceries,99.0,638.55
+2025-07-08,Rome,Home_Goods,39.0,1349.4
+2025-11-22,Utica,toys,27.0,411.48
+2025-04-18,Albany,clothing,59.0,1451.99
+2025-02-04,Utica,Cloth ing,59.0,1496.24
+2025-11-17,Syracuse,groceries,166.0,1083.98
+2025-09-04,Syracuse,groceries,101.0,610.04
+2025-01-27,Rome,toys,31.0,466.55
+2025-09-15,Syracuse,Groceries,120.0,834.0
+2025-02-05,Rome,clothing,63.0,1512.0
+2025-11-25,Rome,Groceries,124.0,835.76
+2025-10-04,Rome,electronics,46.0,4082.96
+2025-05-04,Utica,Toys,32.0,445.76
+2025-06-17,Syracuse,Home_Goods,25.0,698.5
+2025-09-27,Utica,groceries,172.0,1191.96
+2025-04-16,Albany,toys,25.0,358.25
+2025-06-17,Utica,Toys,24.0,379.2
+2025-11-14,Albany,toys,24.0,349.92
+2025-01-20,Syracuse,Home Goods,27.0,869.13
+2025-04-02,Rome,Cloth ing,65.0,1579.5
+2025-09-10,Utica,Electronics,23.0,1973.86
+2025-02-07,Syracuse,Electronics,32.0,2634.24
+2025-06-12,Rome,Groceries,119.0,771.12
+2025-10-10,Utica,Home_Goods,29.0,936.41
+2025-09-11,Rome,toys,25.0,367.25
+2025-03-17,Utica,Groceries,134.0,813.38
+2025-01-17,Rome,Clothing,40.0,1040.8
+2025-03-04,Utica,groceries,97.0,657.66
+2025-10-02,Syracuse,clothing,59.0,1331.04
+2025-02-12,Syracuse,Home Goods,40.0,1279.2
+2025-03-04,Syracuse,Toys,34.0,
+2025-07-22,Rome,Cloth ing,84.0,2004.24
+2025-08-14,Utica,Cloth ing,,986.0
+2025-09-15,Syracuse,electronics,41.0,3490.33
+2025-05-30,Rome,toys,11.0,181.61
+2025-04-07,Rome,electronics,56.0,4845.68
+2025-06-02,Utica,electronics,49.0,4255.65
+2025-06-18,Syracuse,toys,22.0,302.5
+2025-05-07,Rome,toys,27.0,371.79
+2025-05-17,Utica,Groceries,146.0,965.06
+2025-01-06,Rome,clothing,60.0,1440.0
+2025-03-11,Rome,Home Goods,,896.83
+2025-05-31,Syracuse,clothing,96.0,2153.28
+2025-01-30,Rome,Home Goods,45.0,1361.7
+2025-03-16,Utica,ELECTRONICS,61.0,5524.77
+2025-03-12,Rome,Electronics,51.0,4502.79
+2025-06-28,Rome,Home Goods,52.0,1673.36
+2025-08-26,Albany,Groceries,132.0,842.16
+2025-11-03,Utica,Home_Goods,42.0,1311.24
+2025-09-21,Albany,Home_Goods,53.0,1709.25
+2025-03-09,Syracuse,ELECTRONICS,40.0,3380.4
+2025-04-06,Syracuse,clothing,75.0,1806.75
+2025-09-28,Rome,ELECTRONICS,53.0,4334.34
+2025-04-04,Utica,Toys,21.0,318.78
+2025-04-21,Albany,Groceries,121.0,775.61
+2025-10-01,Rome,Groceries,,1056.61
+2025-12-09,Albany,Home Goods,44.0,1409.76
+2025-08-06,Albany,Clothing,57.0,1393.08
+2025-03-06,Albany,groceries,152.0,1012.32
+2025-04-12,Utica,toys,31.0,491.66
+2025-04-14,Syracuse,groceries,128.0,872.96
+2025-09-21,Syracuse,home goods,33.0,1006.83
+2025-09-11,Rome,Groceries,117.0,782.73
+2025-02-19,Syracuse,electronics,55.0,4850.45
+2025-06-30,Rome,electronics,40.0,3350.4
+2025-03-09,Rome,clothing,67.0,1653.56
+2025-06-03,Rome,Cloth ing,54.0,1365.12
+2025-12-18,Syracuse,Home Goods,36.0,1099.44
+2025-11-21,Syracuse,Groceries,161.0,961.17
+2025-11-08,Rome,toys,34.0,535.5
+2025-06-10,Utica,home goods,38.0,1244.88
+2025-08-13,Utica,Clothing,62.0,1569.22
+2025-11-28,Utica,Electronics,53.0,4052.91
+2025-08-20,Syracuse,Cloth ing,31.0,724.47
+2025-08-21,Utica,Toys,23.0,340.86
+2025-03-17,Syracuse,Home Goods,37.0,1195.1
+2025-06-29,Rome,electronics,41.0,3573.15
+2025-01-03,Rome,ELECTRONICS,36.0,3172.68
+2025-09-12,Syracuse,clothing,48.0,1171.2
+2025-03-21,Syracuse,Groceries,203.0,1295.14
+2025-07-21,Utica,electronics,42.0,3592.68
+2025-07-24,Albany,Groceries,138.0,
+2025-10-22,Rome,Home_Goods,51.0,1623.33
+2025-03-20,Utica,Groceries,124.0,825.84
+2025-11-26,Utica,ELECTRONICS,59.0,4879.89
+2025-12-27,Syracuse,Cloth ing,92.0,2258.6
+2025-01-20,Utica,Home Goods,20.0,613.4
+2025-02-02,Utica,home goods,50.0,1671.5
+2025-03-27,Syracuse,Groceries,114.0,744.42
+2025-12-07,Albany,Home Goods,43.0,1363.96
+2025-10-26,Rome,Cloth ing,91.0,2185.82
+2025-08-06,Albany,home goods,30.0,960.9
+2025-10-31,Utica,groceries,121.0,802.23
+2025-09-03,Syracuse,clothing,60.0,1396.2
+2025-05-27,Rome,Electronics,25.0,2011.75
+2025-05-04,Albany,Electronics,51.0,4439.04
+2025-04-07,Albany,Groceries,39.0,269.1
+2025-04-14,Albany,Electronics,31.0,2623.22
+2025-01-06,Albany,groceries,108.0,713.88
+2025-04-29,Albany,Groceries,113.0,737.89
+2025-11-21,Syracuse,clothing,31.0,722.3
+2025-12-10,Rome,Electronics,48.0,3982.56
+2025-12-23,Utica,groceries,131.0,801.72
+2025-05-28,Syracuse,clothing,81.0,1973.16
+2025-04-21,Rome,Home_Goods,28.0,887.6
+2025-06-20,Utica,Home_Goods,32.0,1086.4
+2025-10-05,Utica,Groceries,143.0,959.53
+2025-12-23,Syracuse,Clothing,64.0,1586.56
+2025-11-29,Utica,electronics,66.0,5651.58
+2025-10-31,Utica,clothing,67.0,1545.69
+2025-05-16,Rome,Home_Goods,32.0,977.6
+2025-05-22,Albany,Groceries,144.0,885.6
+2025-09-30,Rome,electronics,44.0,
+2025-10-23,Rome,Home Goods,35.0,1085.35
+2025-08-10,Syracuse,electronics,47.0,3920.27
+2025-07-02,Albany,Groceries,124.0,794.84
+2025-09-02,Albany,toys,27.0,408.51
+2025-09-14,Syracuse,ELECTRONICS,47.0,3941.89
+2025-04-06,Syracuse,home goods,43.0,1388.9
+2025-05-02,Rome,Home_Goods,34.0,1096.16
+2025-01-14,Syracuse,toys,15.0,232.8
+2025-06-07,Utica,Home_Goods,33.0,1056.66
+2025-10-23,Rome,Cloth ing,62.0,1435.3
+2025-09-20,Albany,toys,33.0,525.36
+2025-05-14,Utica,electronics,52.0,4100.2
+2025-09-25,Albany,toys,37.0,577.94
+2025-11-21,Albany,electronics,38.0,3136.14
+2025-06-16,Rome,groceries,128.0,823.04
+2025-02-11,Rome,groceries,81.0,528.93
+2025-06-13,Syracuse,Groceries,80.0,524.8
+2025-07-08,Albany,Clothing,51.0,1331.61
+2025-12-11,Syracuse,electronics,56.0,4382.0
+2025-01-18,Rome,Home_Goods,35.0,1001.35
+2025-05-29,Rome,electronics,27.0,2234.52
+2025-04-04,Utica,Electronics,42.0,3581.76
+2025-06-15,Syracuse,Clothing,83.0,2039.31
+2025-06-29,Albany,Home_Goods,52.0,1779.96
+2025-08-24,Syracuse,ELECTRONICS,37.0,3056.57
+2025-10-27,Syracuse,groceries,120.0,826.8
+2025-10-14,Utica,groceries,89.0,621.22
+2025-09-10,Albany,toys,25.0,393.5
+2025-04-27,Utica,toys,35.0,535.5
+2025-02-26,Syracuse,groceries,140.0,975.8
+2025-12-06,Rome,Electronics,36.0,3127.32
+2025-08-21,Albany,Toys,21.0,311.01
+2025-10-24,Albany,toys,41.0,585.89
+2025-08-12,Syracuse,home goods,24.0,760.8
+2025-03-29,Syracuse,Groceries,162.0,999.54
+2025-09-28,Rome,Cloth ing,93.0,2311.05
+2025-09-11,Utica,groceries,154.0,1108.8
+2025-07-29,Rome,electronics,41.0,3155.77
+2025-01-15,Albany,Groceries,86.0,575.34
+2025-11-04,Albany,clothing,62.0,1597.12
+2025-06-10,Rome,Clothing,70.0,1691.2
+2025-12-19,Rome,Home Goods,37.0,1152.55
+2025-10-09,Utica,Groceries,151.0,961.87
+2025-12-23,Albany,toys,26.0,362.44
+2025-05-06,Syracuse,home goods,48.0,1569.6
+2025-11-04,Albany,ELECTRONICS,28.0,2441.88
+2025-02-13,Syracuse,Home_Goods,43.0,1373.85
+2025-06-05,Albany,toys,9.0,127.35
+2025-05-13,Rome,Clothing,51.0,1314.78
+2025-05-16,Albany,Toys,8.0,121.2
+2025-02-28,Rome,toys,21.0,304.08
+2025-06-14,Rome,Toys,35.0,487.2
+2025-06-22,Syracuse,Toys,34.0,484.16
+2025-06-10,Syracuse,Toys,32.0,493.44
+2025-11-26,Rome,groceries,155.0,1106.7
+2025-08-17,Syracuse,groceries,168.0,1039.92
+2025-12-04,Albany,Electronics,31.0,2226.11
+2025-07-25,Syracuse,Toys,31.0,479.57
+2025-09-03,Utica,electronics,52.0,4417.92
+2025-09-16,Syracuse,groceries,125.0,796.25
+2025-04-18,Syracuse,home goods,35.0,1067.5
+2025-08-12,Syracuse,Groceries,161.0,1025.57
+2025-10-06,Syracuse,Groceries,85.0,536.35
+2025-03-27,Utica,toys,29.0,472.41
+2025-11-27,Rome,Cloth ing,41.0,971.7
+2025-01-07,Rome,Home_Goods,38.0,1322.02
+2025-08-22,Rome,clothing,76.0,1765.48
+2025-12-29,Rome,Groceries,177.0,1189.44
+2025-02-12,Utica,Electronics,32.0,2785.92
+2025-12-08,Utica,groceries,172.0,1059.52
+2025-03-10,Syracuse,Clothing,76.0,
+2025-01-09,Utica,home goods,20.0,600.0
+2025-08-05,Utica,Toys,26.0,387.66
+2025-05-26,Utica,groceries,126.0,856.8
+2025-01-03,Utica,Home Goods,35.0,
+2025-12-07,Albany,Groceries,166.0,1055.76
+2025-09-01,Syracuse,Clothing,64.0,1450.24
+2025-03-14,Syracuse,clothing,75.0,1712.25
+2025-06-10,Syracuse,groceries,132.0,831.6
+2025-12-11,Albany,Groceries,157.0,1073.88
+2025-08-02,Albany,Clothing,67.0,1649.54
+2025-04-11,Albany,Home Goods,42.0,1277.64
+2025-08-07,Rome,Home Goods,30.0,939.3
+2025-03-17,Rome,toys,17.0,252.79
+2025-04-05,Rome,Home_Goods,49.0,1588.09
+2025-04-25,Rome,clothing,49.0,1141.21
+2025-03-20,Utica,Home Goods,23.0,808.68
+2025-08-25,Rome,groceries,165.0,1122.0
+2025-07-19,Albany,Electronics,78.0,6119.88
+2025-07-25,Rome,Groceries,69.0,448.5
+2025-01-28,Albany,toys,35.0,534.45
+2025-11-15,Syracuse,Home Goods,38.0,1206.12
+2025-04-26,Rome,electronics,49.0,4065.53
+2025-10-29,Rome,toys,26.0,327.08
+2025-10-14,Syracuse,toys,26.0,393.12
+2025-04-06,Utica,Groceries,,832.86
+2025-04-03,Rome,Electronics,36.0,2968.92
+2025-09-26,Utica,groceries,154.0,1061.06
+2025-12-10,Albany,Clothing,39.0,928.2
+2025-02-06,Rome,Electronics,35.0,3013.5
+2025-09-14,Utica,Groceries,178.0,1219.3
+2025-12-01,Utica,groceries,150.0,910.5
+2025-08-09,Albany,clothing,50.0,1096.5
+2025-06-22,Albany,toys,40.0,626.0
+2025-08-12,Albany,Electronics,66.0,5697.12
+2025-08-14,Syracuse,electronics,45.0,3972.6
+2025-09-02,Rome,toys,36.0,561.24
+2025-02-06,Utica,Toys,16.0,233.6
+2025-01-09,Albany,Toys,26.0,406.12
+2025-10-21,Rome,Toys,28.0,453.04
+2025-09-23,Syracuse,toys,26.0,386.62
+2025-08-29,Syracuse,clothing,62.0,1388.18
+2025-06-18,Albany,home goods,30.0,881.4
+2025-05-22,Syracuse,electronics,36.0,3182.76
+2025-06-04,Syracuse,Toys,27.0,387.72
+2025-07-10,Rome,Electronics,17.0,1372.92
+2025-11-19,Utica,toys,30.0,437.4
+2025-06-02,Albany,toys,33.0,505.89
+2025-06-12,Albany,toys,32.0,427.2
+2025-08-05,Rome,groceries,106.0,662.5
+2025-03-21,Syracuse,Home Goods,29.0,919.88
+2025-02-08,Albany,Home Goods,44.0,1368.4
+2025-08-28,Syracuse,Clothing,34.0,750.04
+2025-05-08,Rome,electronics,48.0,3971.04
+2025-03-01,Rome,Toys,29.0,423.4
+2025-10-11,Utica,Groceries,120.0,777.6
+2025-12-12,Syracuse,ELECTRONICS,39.0,3579.03
+2025-06-21,Syracuse,Groceries,187.0,1252.9
+2025-10-04,Albany,toys,35.0,545.65
+2025-01-30,Utica,groceries,108.0,684.72
+2025-04-28,Syracuse,Clothing,51.0,1233.69
+2025-08-09,Rome,Home_Goods,28.0,860.16
+2025-08-06,Utica,Electronics,,3991.5
+2025-03-27,Albany,Clothing,62.0,1514.66
+2025-09-25,Albany,groceries,31.0,218.55
+2025-03-11,Rome,Toys,11.0,158.73
+2025-11-22,Albany,Groceries,207.0,1357.92
+2025-07-15,Albany,ELECTRONICS,48.0,3969.12
+2025-06-16,Syracuse,ELECTRONICS,61.0,4746.41
+2025-02-19,Utica,Home Goods,46.0,1555.72
+2025-11-18,Albany,groceries,124.0,840.72
+2025-05-26,Syracuse,clothing,62.0,1380.74
+2025-10-16,Utica,Electronics,34.0,2854.98
+2025-06-26,Albany,Home Goods,32.0,997.76
+2025-09-09,Rome,Groceries,,810.0
+2025-05-04,Albany,home goods,54.0,1820.88
+2025-05-08,Albany,home goods,41.0,1451.81
+2025-02-27,Albany,Toys,23.0,351.9
+2025-04-30,Utica,ELECTRONICS,49.0,4163.04
+2025-04-16,Albany,Groceries,73.0,473.04
+2025-07-18,Utica,Groceries,95.0,622.25
+2025-09-18,Rome,Home Goods,17.0,540.26
+2025-01-11,Utica,Home Goods,37.0,1204.72
+2025-08-25,Syracuse,Toys,26.0,372.58
+2025-03-27,Albany,Groceries,149.0,953.6
+2025-07-24,Syracuse,Groceries,102.0,679.32
+2025-04-27,Syracuse,Home_Goods,44.0,1525.48
+2025-08-02,Rome,ELECTRONICS,42.0,3586.8
+2025-07-29,Utica,toys,24.0,366.24
+2025-10-14,Albany,Cloth ing,65.0,1659.45
+2025-11-13,Syracuse,Groceries,115.0,840.65
+2025-01-14,Albany,clothing,34.0,838.1
+2025-03-05,Syracuse,ELECTRONICS,33.0,2953.17
+2025-08-06,Syracuse,Home_Goods,34.0,1151.58
+2025-01-27,Albany,Toys,17.0,239.87
+2025-10-23,Utica,Groceries,86.0,571.9
+2025-03-16,Albany,Groceries,149.0,996.81
+2025-12-08,Syracuse,groceries,63.0,415.17
+2025-06-11,Utica,Toys,31.0,486.7
+2025-08-26,Syracuse,ELECTRONICS,35.0,3304.0
+2025-08-06,Utica,Toys,23.0,373.29
+2025-10-14,Albany,Electronics,38.0,2994.02
+2025-06-10,Utica,Electronics,27.0,2329.56
+2025-10-19,Rome,toys,45.0,650.25
+2025-07-05,Utica,home goods,53.0,1755.36
+2025-11-18,Utica,Home_Goods,28.0,806.68
+2025-04-19,Syracuse,groceries,123.0,840.09
+2025-10-20,Syracuse,Home_Goods,37.0,1178.45
+2025-09-16,Syracuse,Cloth ing,58.0,1358.36
+2025-08-03,Albany,clothing,80.0,1771.2
+2025-07-23,Albany,Cloth ing,70.0,1733.9
+2025-02-17,Albany,Toys,23.0,366.16
+2025-02-13,Utica,Cloth ing,58.0,1299.2
+2025-12-17,Rome,Toys,19.0,286.52
+2025-02-15,Syracuse,home goods,37.0,1260.96
+2025-09-30,Utica,Home Goods,42.0,1349.04
+2025-09-03,Utica,Home_Goods,38.0,1186.36
+2025-04-19,Rome,Home_Goods,32.0,1106.88
+2025-02-06,Albany,electronics,35.0,3328.15
+2025-12-09,Syracuse,Home_Goods,28.0,824.32
+2025-02-16,Albany,Toys,33.0,449.13
+2025-08-29,Rome,Home_Goods,38.0,1055.26
+2025-10-05,Syracuse,Home Goods,43.0,1401.37
+2025-10-10,Syracuse,toys,23.0,359.49
+2025-03-22,Syracuse,toys,31.0,426.56
+2025-11-29,Rome,Groceries,109.0,686.7
+2025-04-23,Syracuse,clothing,81.0,1993.41
+2025-12-09,Syracuse,Clothing,28.0,631.68
+2025-03-21,Rome,home goods,30.0,1034.1
+2025-12-15,Albany,groceries,130.0,980.2
+2025-09-01,Albany,clothing,80.0,1799.2
+2025-05-08,Albany,toys,16.0,249.28
+2025-01-02,Syracuse,Groceries,81.0,496.53
+2025-12-26,Albany,clothing,55.0,1352.45
+2025-06-20,Syracuse,ELECTRONICS,23.0,1942.12
+2025-10-11,Syracuse,toys,26.0,385.32
+2025-09-29,Syracuse,toys,26.0,352.82
+2025-02-04,Utica,Toys,26.0,385.84
+2025-02-15,Syracuse,Groceries,162.0,1085.4
+2025-11-28,Syracuse,electronics,51.0,4033.59
+2025-03-19,Albany,Home_Goods,49.0,1561.14
+2025-02-15,Syracuse,electronics,51.0,4493.61
+2025-04-08,Utica,Groceries,46.0,291.64
+2025-01-05,Albany,Home Goods,51.0,1464.72
+2025-07-08,Utica,toys,16.0,234.4
+2025-01-26,Utica,Electronics,53.0,4721.77
+2025-11-24,Syracuse,electronics,65.0,5419.7
+2025-11-22,Albany,home goods,48.0,1668.96
+2025-06-12,Syracuse,groceries,99.0,673.2
+2025-04-03,Utica,Electronics,31.0,2654.84
+2025-01-22,Rome,Home_Goods,42.0,1340.22
+2025-10-24,Utica,clothing,47.0,1144.92
+2025-11-12,Rome,electronics,40.0,3311.2
+2025-11-23,Utica,home goods,35.0,1115.1
+2025-12-13,Albany,toys,30.0,443.7
+2025-07-12,Albany,Cloth ing,68.0,1706.8
+2025-04-16,Syracuse,Home_Goods,44.0,1379.84
+2025-11-20,Rome,Groceries,116.0,729.64
+2025-05-24,Utica,clothing,91.0,2141.23
+2025-10-07,Utica,Groceries,92.0,543.72
+2025-12-07,Syracuse,Clothing,87.0,2044.5
+2025-12-28,Utica,Cloth ing,74.0,1836.68
+2025-01-17,Utica,toys,30.0,490.5
+2025-04-14,Syracuse,Cloth ing,72.0,1743.84
+2025-01-19,Rome,Toys,32.0,434.56
+2025-09-01,Rome,clothing,50.0,1285.0
+2025-09-12,Albany,home goods,34.0,1091.4
+2025-04-15,Rome,Home_Goods,25.0,786.75
+2025-09-23,Utica,Cloth ing,72.0,1622.16
+2025-04-14,Rome,Home Goods,28.0,918.4
+2025-02-27,Utica,Cloth ing,33.0,782.43
+2025-03-03,Albany,Groceries,100.0,628.0
+2025-05-24,Albany,home goods,63.0,2019.15
+2025-12-25,Rome,Clothing,63.0,1444.59
+2025-09-21,Rome,Toys,33.0,434.94
+2025-10-20,Utica,Toys,23.0,344.54
+2025-11-02,Utica,Home_Goods,38.0,1183.7
+2025-06-09,Syracuse,Cloth ing,50.0,1214.0
+2025-03-05,Utica,Cloth ing,81.0,1964.25
+2025-02-26,Rome,ELECTRONICS,21.0,1899.87
+2025-06-03,Utica,Groceries,136.0,886.72
+2025-08-15,Syracuse,Home Goods,37.0,1265.77
+2025-11-15,Albany,Home_Goods,41.0,1426.8
+2025-09-26,Syracuse,Groceries,117.0,794.43
+2025-04-26,Albany,Toys,41.0,626.48
+2025-04-09,Syracuse,Cloth ing,64.0,1637.76
+2025-09-08,Albany,electronics,41.0,3516.98
+2025-08-03,Utica,Home_Goods,52.0,1675.44
+2025-06-02,Utica,groceries,,1020.24
+2025-01-13,Albany,Toys,19.0,287.66
+2025-07-07,Albany,home goods,25.0,777.0
+2025-04-11,Utica,toys,29.0,408.32
+2025-04-03,Syracuse,Home_Goods,20.0,691.2
+2025-02-28,Albany,Electronics,50.0,4496.5
+2025-03-12,Albany,groceries,106.0,672.04
+2025-06-02,Rome,toys,29.0,415.28
+2025-06-25,Syracuse,Groceries,134.0,891.1
+2025-09-21,Syracuse,Groceries,117.0,748.8
+2025-06-10,Albany,Electronics,57.0,4768.05
+2025-06-06,Albany,electronics,41.0,3422.27
+2025-01-21,Albany,home goods,37.0,1010.47
+2025-10-20,Utica,Electronics,32.0,2652.8
+2025-08-28,Utica,Cloth ing,92.0,2242.04
+2025-06-22,Rome,groceries,175.0,1174.25
+2025-06-16,Syracuse,Groceries,125.0,812.5
+2025-01-12,Utica,Groceries,169.0,1012.31
+2025-12-22,Utica,Toys,34.0,522.92
+2025-04-17,Utica,home goods,43.0,1274.95
+2025-07-24,Albany,home goods,39.0,1241.76
+2025-02-21,Albany,home goods,48.0,1405.44
+2025-03-06,Syracuse,Electronics,33.0,2760.78
+2025-05-07,Albany,Electronics,18.0,1600.56
+2025-02-14,Rome,Clothing,71.0,1777.84
+2025-04-07,Utica,ELECTRONICS,25.0,2124.25
+2025-07-30,Syracuse,clothing,36.0,891.72
+2025-12-29,Rome,Clothing,63.0,1509.48
+2025-07-24,Syracuse,Home_Goods,21.0,628.74
+2025-07-31,Syracuse,clothing,78.0,1973.4
+2025-07-26,Rome,Home Goods,34.0,1215.16
+2025-08-27,Rome,groceries,85.0,554.2
+2025-08-27,Albany,Cloth ing,50.0,1131.0
+2025-06-27,Utica,Home Goods,34.0,1021.36
+2025-09-29,Rome,Groceries,109.0,644.19
+2025-10-12,Syracuse,Toys,20.0,288.6
+2025-06-10,Utica,toys,34.0,498.44
+2025-06-11,Albany,home goods,36.0,1127.88
+2025-08-18,Utica,ELECTRONICS,38.0,3604.68
+2025-08-11,Rome,toys,29.0,
+2025-02-25,Albany,Cloth ing,51.0,1310.19
+2025-06-12,Utica,ELECTRONICS,31.0,2635.62
+2025-06-03,Rome,Electronics,38.0,3102.7
+2025-02-12,Utica,Groceries,117.0,744.12
+2025-07-26,Rome,ELECTRONICS,65.0,5298.15
+2025-04-01,Utica,Cloth ing,,1436.66
+2025-02-22,Rome,Electronics,44.0,3595.24
+2025-07-02,Albany,Clothing,51.0,1220.43
+2025-04-14,Rome,Toys,18.0,286.2
+2025-01-03,Albany,Groceries,76.0,461.32
+2025-11-20,Albany,Toys,25.0,391.0
+2025-10-08,Albany,Cloth ing,48.0,1120.32
+2025-05-28,Albany,Home Goods,30.0,950.7
+2025-07-08,Utica,home goods,39.0,1240.59
+2025-04-24,Rome,Home Goods,32.0,976.32
+2025-03-10,Utica,toys,21.0,315.63
+2025-03-10,Utica,home goods,39.0,1267.89
+2025-09-29,Syracuse,ELECTRONICS,40.0,3441.6
+2025-04-29,Albany,toys,20.0,289.8
+2025-02-27,Syracuse,Groceries,67.0,439.52
+2025-11-20,Albany,Cloth ing,57.0,1316.7
+2025-01-05,Utica,toys,30.0,483.0
+2025-01-02,Utica,Clothing,68.0,1577.6
+2025-10-24,Syracuse,clothing,64.0,1488.0
+2025-08-21,Utica,Home Goods,30.0,1034.7
+2025-11-06,Albany,groceries,92.0,622.84
+2025-02-13,Utica,ELECTRONICS,39.0,3205.41
+2025-02-08,Albany,toys,32.0,490.56
+2025-08-14,Albany,clothing,51.0,1285.71
+2025-01-18,Albany,Home_Goods,47.0,1488.96
+2025-12-26,Syracuse,Toys,33.0,498.96
+2025-10-09,Albany,Home Goods,40.0,1315.2
+2025-12-23,Rome,Home_Goods,44.0,1378.08
+2025-03-23,Syracuse,Toys,27.0,416.88
+2025-12-30,Syracuse,toys,25.0,364.75
+2025-10-22,Rome,groceries,149.0,922.31
+2025-06-23,Utica,Home_Goods,24.0,795.12
+2025-02-12,Albany,home goods,28.0,859.88
+2025-06-03,Syracuse,Groceries,86.0,571.9
+2025-11-25,Rome,Home Goods,29.0,975.56
+2025-06-02,Rome,ELECTRONICS,46.0,3924.26
+2025-09-06,Syracuse,Toys,28.0,408.24
+2025-09-28,Syracuse,clothing,64.0,1623.68
+2025-08-16,Utica,Groceries,180.0,1251.0
+2025-05-08,Syracuse,electronics,51.0,4222.29
+2025-12-26,Utica,groceries,118.0,708.0
+2025-08-30,Albany,Groceries,165.0,1024.65
+2025-01-06,Syracuse,Groceries,97.0,595.58
+2025-10-13,Albany,clothing,85.0,2104.6
+2025-09-04,Rome,clothing,43.0,969.65
+2025-02-09,Rome,groceries,136.0,894.88
+2025-05-08,Rome,Groceries,98.0,624.26
+2025-01-10,Rome,Groceries,132.0,850.08
+2025-01-05,Rome,ELECTRONICS,61.0,4840.96
+2025-10-28,Syracuse,Groceries,90.0,533.7
+2025-11-05,Rome,clothing,50.0,1208.0
+2025-10-30,Syracuse,electronics,33.0,2703.69
+2025-04-01,Utica,Electronics,47.0,3803.24
+2025-11-11,Rome,electronics,48.0,4119.84
+2025-08-21,Albany,home goods,54.0,1728.54
+2025-01-27,Albany,Electronics,39.0,3528.72
+2025-09-02,Utica,Cloth ing,66.0,1606.44
+2025-11-08,Albany,Clothing,70.0,1632.4
+2025-06-01,Albany,Electronics,61.0,5487.56
+2025-03-16,Rome,toys,32.0,480.32
+2025-08-18,Albany,Home Goods,24.0,831.84
+2025-07-26,Syracuse,toys,35.0,518.0
+2025-01-13,Albany,electronics,43.0,3664.46
+2025-02-03,Utica,Toys,16.0,232.48
+2025-10-01,Albany,Home Goods,41.0,1333.73
+2025-03-18,Rome,Electronics,48.0,3744.0
+2025-07-14,Utica,Toys,23.0,326.37
+2025-05-31,Rome,Toys,25.0,343.5
+2025-01-29,Syracuse,clothing,49.0,1229.9
+2025-09-13,Albany,Groceries,122.0,824.72
+2025-01-23,Utica,groceries,138.0,
+2025-06-25,Utica,Toys,26.0,367.9
+2025-08-29,Rome,Groceries,126.0,808.92
+2025-10-14,Rome,Groceries,129.0,794.64
+2025-12-02,Rome,clothing,46.0,1118.72
+2025-10-05,Rome,Clothing,66.0,1702.14
+2025-08-16,Rome,ELECTRONICS,47.0,3739.79
+2025-02-17,Utica,Toys,28.0,465.92
+2025-10-01,Utica,electronics,42.0,3709.86
+2025-12-31,Syracuse,Clothing,75.0,1729.5
+2025-12-06,Utica,toys,38.0,563.92
+2025-01-06,Utica,Electronics,33.0,2503.71
+2025-10-07,Syracuse,Electronics,37.0,2997.74
+2025-11-12,Albany,Home_Goods,27.0,904.23
+2025-10-02,Utica,clothing,60.0,1542.0
+2025-04-10,Utica,ELECTRONICS,33.0,2705.67
+2025-12-03,Utica,electronics,37.0,3332.96
+2025-04-17,Utica,Toys,20.0,275.2
+2025-05-12,Syracuse,groceries,127.0,814.07
+2025-02-04,Rome,Toys,25.0,374.75
+2025-10-04,Albany,Home Goods,40.0,1266.8
+2025-10-09,Albany,Toys,15.0,242.55
+2025-01-15,Syracuse,Home_Goods,40.0,1360.0
+2025-12-08,Utica,Electronics,40.0,3212.8
+2025-12-03,Rome,home goods,33.0,1017.39
+2025-02-20,Syracuse,Cloth ing,30.0,745.5
+2025-03-17,Rome,Electronics,32.0,2559.04
+2025-12-19,Rome,Clothing,62.0,1489.24
+2025-02-12,Albany,Clothing,56.0,1291.36
+2025-06-09,Rome,Toys,23.0,348.68
+2025-12-19,Rome,groceries,111.0,719.28
+2025-11-27,Utica,Groceries,77.0,498.96
+2025-11-25,Albany,electronics,34.0,2582.3
+2025-07-16,Utica,toys,30.0,466.2
+2025-10-14,Albany,home goods,32.0,984.96
+2025-08-04,Rome,Home Goods,36.0,1166.4
+2025-02-16,Rome,Toys,35.0,541.1
+2025-10-04,Rome,Clothing,80.0,1948.8
+2025-06-07,Albany,Groceries,240.0,1538.4
+2025-08-19,Albany,Electronics,27.0,2251.26
+2025-07-31,Syracuse,home goods,16.0,508.16
+2025-10-08,Rome,electronics,36.0,3197.88
+2025-08-19,Albany,toys,23.0,338.79
+2025-07-05,Rome,Toys,18.0,245.34
+2025-02-24,Utica,Groceries,138.0,919.08
+2025-04-08,Albany,Groceries,127.0,812.8
+2025-12-24,Rome,home goods,45.0,1400.4
+2025-12-15,Albany,electronics,49.0,4508.0
+2025-07-07,Albany,ELECTRONICS,23.0,1943.5
+2025-07-05,Utica,Cloth ing,112.0,2739.52
+2025-09-22,Albany,electronics,43.0,3983.09
+2025-12-26,Utica,Toys,24.0,338.64
+2025-02-03,Albany,Toys,15.0,225.3
+2025-04-20,Syracuse,Electronics,49.0,3858.75
+2025-11-09,Syracuse,toys,44.0,651.64
+2025-08-05,Rome,Electronics,40.0,3341.6
+2025-05-19,Rome,toys,28.0,444.64
+2025-04-12,Albany,groceries,156.0,1042.08
+2025-11-15,Syracuse,groceries,103.0,659.2
+2025-01-10,Utica,ELECTRONICS,32.0,2904.0
+2025-03-19,Syracuse,Clothing,46.0,1104.46
+2025-02-03,Albany,ELECTRONICS,48.0,4050.24
+2025-07-22,Rome,Toys,25.0,363.25
+2025-02-04,Rome,Home_Goods,38.0,1281.36
+2025-12-20,Rome,groceries,127.0,852.17
+2025-12-04,Syracuse,toys,19.0,271.32
+2025-09-09,Syracuse,Home Goods,15.0,496.65
+2025-01-04,Utica,groceries,149.0,896.98
+2025-04-09,Utica,toys,21.0,328.86
+2025-02-11,Utica,groceries,150.0,960.0
+2025-10-06,Utica,Home_Goods,24.0,803.28
+2025-06-06,Utica,Toys,11.0,165.44
+2025-09-30,Rome,Home_Goods,29.0,928.58
+2025-03-16,Utica,clothing,81.0,1952.91
+2025-11-04,Syracuse,Electronics,50.0,4395.0
+2025-08-24,Rome,toys,33.0,522.39
+2025-07-09,Albany,Clothing,22.0,526.02
+2025-12-15,Albany,clothing,55.0,1422.3
+2025-09-17,Syracuse,Groceries,132.0,
+2025-08-02,Utica,home goods,43.0,1359.23
+2025-10-25,Rome,toys,43.0,666.93
+2025-12-23,Utica,toys,26.0,396.5
+2025-11-05,Albany,clothing,35.0,802.2
+2025-12-09,Utica,Toys,21.0,291.48
+2025-03-06,Rome,Clothing,46.0,1099.86
+2025-11-02,Syracuse,Cloth ing,76.0,1950.92
+2025-09-30,Utica,groceries,141.0,889.71
+2025-09-17,Albany,Groceries,70.0,455.0
+2025-07-04,Utica,groceries,107.0,696.57
+2025-06-11,Syracuse,Toys,29.0,429.2
+2025-12-05,Utica,Home_Goods,35.0,1120.0
+2025-09-06,Rome,groceries,115.0,731.4
+2025-10-21,Albany,Home_Goods,,1575.2
+2025-03-12,Albany,Cloth ing,57.0,1377.69
+2025-11-10,Utica,toys,14.0,213.5
+2025-08-02,Utica,toys,32.0,466.88
+2025-04-03,Utica,Groceries,120.0,770.4
+2025-11-16,Rome,toys,29.0,430.07
+2025-01-01,Syracuse,electronics,43.0,3730.25
+2025-02-09,Utica,Toys,35.0,540.05
+2025-07-15,Syracuse,electronics,48.0,4325.28
+2025-12-23,Rome,Groceries,81.0,584.82
+2025-05-11,Rome,Clothing,85.0,2017.05
+2025-02-16,Rome,Electronics,49.0,3995.46
+2025-09-07,Utica,home goods,43.0,1335.15
+2025-11-21,Rome,Home_Goods,23.0,734.39
+2025-11-29,Syracuse,ELECTRONICS,54.0,4257.36
+2025-02-01,Syracuse,home goods,48.0,1447.68
+2025-09-27,Rome,Home Goods,43.0,1422.44
+2025-12-10,Rome,Home_Goods,30.0,1008.6
+2025-06-26,Syracuse,Home_Goods,33.0,1068.54
+2025-03-01,Rome,home goods,40.0,1239.6
+2025-12-01,Utica,Home_Goods,35.0,1160.25
+2025-12-17,Rome,Home_Goods,27.0,876.42
+2025-10-01,Syracuse,groceries,120.0,
+2025-03-23,Rome,ELECTRONICS,49.0,4342.87
+2025-07-11,Syracuse,clothing,61.0,1450.58
+2025-09-18,Utica,Groceries,121.0,856.68
+2025-01-16,Utica,Home Goods,48.0,1500.96
+2025-05-25,Rome,Toys,28.0,417.2
+2025-02-04,Syracuse,home goods,35.0,1108.45
+2025-06-30,Albany,Toys,26.0,375.18
+2025-06-08,Utica,Electronics,50.0,4473.0
+2025-09-13,Utica,groceries,151.0,1017.74
+2025-01-14,Albany,Home_Goods,22.0,719.62
+2025-06-11,Utica,Cloth ing,58.0,1390.26
+2025-02-12,Albany,toys,27.0,416.07
+2025-10-05,Rome,Home Goods,44.0,1462.56
+2025-04-11,Syracuse,Groceries,117.0,761.67
+2025-01-28,Rome,Electronics,51.0,3864.27
+2025-10-14,Syracuse,toys,26.0,393.12
+2025-02-06,Albany,groceries,126.0,772.38
+2025-05-26,Rome,Electronics,52.0,4837.04
+2025-08-12,Rome,electronics,56.0,4631.2
+2025-03-26,Utica,Home Goods,32.0,982.72
+2025-03-22,Rome,Groceries,169.0,1095.12
+2025-08-11,Albany,Home_Goods,29.0,890.59
+2025-10-08,Utica,groceries,137.0,880.91
+2025-11-07,Rome,Electronics,45.0,3784.05
+2025-04-03,Syracuse,Electronics,38.0,3153.62
+2025-09-12,Rome,Home_Goods,21.0,677.46
+2025-10-16,Rome,Home_Goods,46.0,1390.58
+2025-06-25,Syracuse,ELECTRONICS,28.0,2339.4
+2025-04-04,Syracuse,groceries,107.0,724.39
+2025-10-09,Utica,electronics,42.0,3851.82
+2025-09-03,Albany,ELECTRONICS,53.0,4635.91
+2025-05-16,Syracuse,Toys,35.0,567.7
+2025-10-30,Syracuse,electronics,33.0,2703.69
+2025-03-18,Albany,ELECTRONICS,44.0,3669.6
+2025-01-24,Rome,Toys,15.0,232.35
+2025-07-30,Rome,Clothing,63.0,
+2025-10-19,Albany,home goods,49.0,1563.59
+2025-08-28,Syracuse,Home Goods,41.0,1356.28
+2025-03-14,Syracuse,toys,29.0,400.2
+2025-05-19,Rome,Electronics,46.0,3864.0
+2025-10-13,Syracuse,Clothing,63.0,1513.26
+2025-03-06,Utica,Home Goods,27.0,875.88
+2025-01-31,Rome,Home Goods,31.0,845.37
+2025-12-06,Utica,ELECTRONICS,54.0,4970.7
+2025-03-31,Utica,Cloth ing,44.0,
+2025-12-02,Albany,Cloth ing,71.0,1739.5
+2025-12-25,Syracuse,toys,10.0,149.3
+2025-01-19,Utica,groceries,198.0,1405.8
+2025-11-19,Albany,Home_Goods,34.0,1049.92
+2025-12-16,Utica,groceries,126.0,816.48
+2025-01-27,Utica,groceries,188.0,1240.8
+2025-04-04,Albany,home goods,38.0,1298.46
+2025-01-26,Syracuse,toys,29.0,
+2025-06-09,Utica,electronics,33.0,2716.56
+2025-01-09,Syracuse,Electronics,33.0,2910.27
+2025-05-16,Albany,home goods,51.0,1624.35
+2025-02-10,Rome,electronics,32.0,2565.44
+2025-04-17,Rome,groceries,152.0,951.52
+2025-10-23,Syracuse,toys,23.0,362.02
+2025-07-06,Syracuse,Clothing,102.0,2356.2
+2025-04-04,Albany,groceries,115.0,775.1
+2025-10-09,Rome,Home_Goods,33.0,1120.35
+2025-12-04,Utica,Electronics,45.0,4063.5
+2025-06-21,Syracuse,clothing,96.0,2767.68
+2025-07-26,Rome,Groceries,180.0,1139.4
+2025-10-11,Utica,toys,33.0,520.74
+2025-01-31,Utica,groceries,135.0,858.6
+2025-02-05,Syracuse,Toys,18.0,262.8
+2025-10-20,Utica,Electronics,32.0,2652.8
+2025-12-17,Utica,Home_Goods,26.0,803.4
+2025-11-19,Rome,electronics,35.0,3018.75
+2025-05-15,Rome,Home_Goods,38.0,1211.82
+2025-03-19,Syracuse,Toys,22.0,335.28
+2025-03-09,Utica,Toys,28.0,427.28
+2025-11-22,Rome,Groceries,162.0,1040.04
+2025-04-17,Rome,toys,18.0,280.8
+2025-04-10,Utica,toys,20.0,298.2
+2025-01-30,Syracuse,Clothing,57.0,1407.33
+2025-04-10,Syracuse,Cloth ing,55.0,1250.15
+2025-06-21,Rome,Clothing,99.0,2449.26
+2025-04-08,Rome,Groceries,136.0,878.56
+2025-08-21,Rome,Clothing,70.0,1610.7
+2025-08-07,Syracuse,toys,22.0,351.34
+2025-12-07,Albany,toys,32.0,524.48
+2025-11-13,Albany,Toys,29.0,423.4
+2025-07-18,Albany,Toys,27.0,397.17
+2025-01-01,Rome,Home Goods,45.0,1428.75
+2025-06-30,Syracuse,home goods,40.0,1326.8
+2025-02-24,Utica,ELECTRONICS,31.0,2421.41
+2025-09-08,Rome,home goods,44.0,1364.88
+2025-08-04,Albany,Toys,33.0,508.2
+2025-07-06,Syracuse,Toys,35.0,539.0
+2025-05-13,Albany,Toys,,254.72
+2025-11-21,Albany,Toys,10.0,145.2
+2025-12-11,Albany,toys,28.0,435.68
+2025-02-19,Rome,Home_Goods,33.0,1098.9
+2025-02-20,Albany,Clothing,23.0,566.03
+2025-05-02,Utica,clothing,71.0,1800.56
+2025-11-04,Utica,home goods,22.0,699.16
+2025-02-18,Syracuse,clothing,60.0,1533.0
+2025-05-13,Utica,groceries,121.0,741.73
+2025-01-24,Syracuse,electronics,40.0,3535.2
+2025-01-25,Syracuse,Clothing,47.0,1097.45
+2025-07-03,Syracuse,electronics,38.0,3467.5
+2025-09-30,Rome,Toys,21.0,335.79
+2025-05-11,Syracuse,Home Goods,54.0,1674.54
+2025-04-21,Utica,groceries,96.0,661.44
+2025-12-25,Albany,Cloth ing,79.0,1903.9
+2025-05-06,Utica,Cloth ing,58.0,1454.06
+2025-08-31,Rome,Cloth ing,93.0,2241.3
+2025-12-11,Utica,Cloth ing,57.0,1333.8
+2025-04-14,Utica,Home Goods,39.0,1156.35
+2025-03-24,Syracuse,toys,29.0,401.94
+2025-11-19,Utica,Home_Goods,29.0,886.82
+2025-04-06,Rome,groceries,150.0,1036.5
+2025-05-17,Rome,ELECTRONICS,77.0,7021.63
+2025-11-25,Rome,clothing,83.0,2050.93
+2025-01-28,Rome,Groceries,121.0,796.18
+2025-11-24,Albany,Groceries,78.0,452.4
+2025-08-15,Rome,groceries,148.0,954.6
+2025-10-21,Utica,Electronics,35.0,3040.45
+2025-02-20,Utica,Home_Goods,39.0,1405.95
+2025-05-15,Albany,Toys,27.0,403.92
+2025-11-14,Utica,home goods,42.0,1359.12
+2025-06-13,Syracuse,clothing,29.0,684.69
+2025-02-12,Syracuse,electronics,33.0,2865.72
+2025-02-01,Utica,Toys,23.0,320.39
+2025-08-31,Rome,Groceries,153.0,911.88
+2025-12-19,Syracuse,toys,27.0,396.36
+2025-09-06,Syracuse,Clothing,65.0,1632.8
+2025-09-15,Utica,groceries,143.0,1035.32
+2025-10-20,Syracuse,Clothing,46.0,1125.16
+2025-08-24,Syracuse,groceries,194.0,1373.52
+2025-05-07,Utica,Toys,23.0,336.72
+2025-09-17,Utica,Toys,25.0,379.5
+2025-08-06,Syracuse,Electronics,48.0,4286.4
+2025-05-09,Syracuse,home goods,28.0,915.6
+2025-08-30,Albany,Clothing,86.0,2042.5
+2025-01-16,Rome,Toys,22.0,313.06
+2025-06-03,Syracuse,Electronics,30.0,2603.7
+2025-04-30,Albany,Toys,22.0,
+2025-10-28,Albany,groceries,107.0,737.23
+2025-06-20,Albany,Home Goods,40.0,1353.6
+2025-09-08,Utica,Cloth ing,65.0,1417.65
+2025-10-17,Rome,electronics,26.0,2154.62
+2025-07-15,Rome,Toys,22.0,329.34
+2025-11-10,Utica,ELECTRONICS,44.0,3715.36
+2025-02-10,Utica,Toys,29.0,466.03
+2025-09-03,Syracuse,groceries,80.0,549.6
+2025-01-03,Rome,groceries,113.0,699.47
+2025-10-23,Syracuse,Home_Goods,4.0,133.56
+2025-07-16,Utica,Electronics,32.0,2554.88
+2025-04-07,Syracuse,Clothing,58.0,1506.26
+2025-09-12,Utica,Electronics,42.0,3540.18
+2025-11-15,Utica,Home_Goods,37.0,1205.83
+2025-08-24,Utica,groceries,181.0,1149.35
+2025-10-23,Utica,Electronics,48.0,4018.56
+2025-06-16,Rome,Home_Goods,43.0,1415.56
+2025-12-25,Syracuse,Cloth ing,40.0,1015.6
+2025-04-20,Albany,Clothing,81.0,2003.94
+2025-12-21,Albany,ELECTRONICS,56.0,4515.28
+2025-05-29,Syracuse,clothing,48.0,1192.8
+2025-02-28,Rome,Home_Goods,20.0,623.0
+2025-04-18,Syracuse,Electronics,32.0,2808.96
+2025-05-18,Rome,Clothing,84.0,2037.84
+2025-09-03,Rome,ELECTRONICS,53.0,4779.01
+2025-01-29,Rome,Cloth ing,69.0,1880.25
+2025-02-14,Utica,Clothing,60.0,1284.6
+2025-01-22,Albany,groceries,77.0,508.97
+2025-04-04,Syracuse,electronics,45.0,3897.45
+2025-07-27,Syracuse,Home Goods,43.0,1415.99
+2025-10-11,Albany,toys,21.0,324.87
+2025-08-23,Syracuse,toys,31.0,491.35
+2025-09-16,Syracuse,Home_Goods,46.0,1454.06
+2025-01-27,Albany,Clothing,51.0,1258.17
+2025-09-06,Utica,groceries,145.0,884.5
+2025-06-03,Utica,toys,23.0,325.45
+2025-07-12,Utica,Groceries,170.0,1130.5
+2025-05-12,Rome,Clothing,44.0,1027.84
+2025-06-28,Rome,Groceries,121.0,816.75
+2025-05-30,Utica,Electronics,41.0,3369.79
+2025-09-13,Albany,electronics,39.0,3131.31
+2025-03-15,Albany,clothing,92.0,2148.2
+2025-12-19,Utica,groceries,91.0,652.47
+2025-09-27,Rome,Groceries,134.0,876.36
+2025-12-26,Utica,Electronics,31.0,2599.35
+2025-05-03,Utica,groceries,154.0,1088.78
+2025-09-29,Albany,Electronics,32.0,2956.16
+2025-05-16,Utica,Clothing,73.0,1758.57
+2025-11-16,Albany,Home Goods,40.0,1331.6
+2025-03-26,Albany,Home_Goods,29.0,941.63
+2025-04-18,Albany,ELECTRONICS,25.0,2340.75
+2025-04-18,Utica,Cloth ing,72.0,1668.96
+2025-08-12,Syracuse,toys,22.0,327.14
+2025-01-13,Albany,Groceries,142.0,915.9
+2025-02-16,Syracuse,Home Goods,39.0,1155.18
+2025-03-28,Utica,clothing,65.0,1627.6
+2025-03-24,Rome,Groceries,105.0,730.8
+2025-03-19,Syracuse,ELECTRONICS,47.0,4119.55
+2025-07-03,Albany,groceries,151.0,949.79
+2025-05-29,Syracuse,Home Goods,21.0,660.87
+2025-04-28,Utica,Toys,28.0,407.96
+2025-06-12,Syracuse,Home_Goods,35.0,1048.25
+2025-10-10,Albany,electronics,34.0,2476.56
+2025-02-26,Rome,home goods,38.0,1154.82
+2025-03-03,Syracuse,Toys,20.0,289.8
+2025-08-19,Rome,groceries,184.0,1322.96
+2025-05-02,Syracuse,ELECTRONICS,51.0,4885.29
+2025-02-25,Albany,Home_Goods,45.0,1375.2
+2025-07-20,Albany,toys,33.0,492.69
+2025-02-12,Albany,electronics,44.0,3772.12
+2025-05-21,Albany,Toys,20.0,301.4
+2025-03-13,Rome,Electronics,37.0,3192.73
+2025-01-29,Albany,ELECTRONICS,25.0,2251.5
+2025-02-22,Syracuse,toys,43.0,616.62
+2025-01-10,Syracuse,Toys,19.0,289.75
+2025-06-03,Rome,toys,25.0,409.5
+2025-10-08,Syracuse,groceries,116.0,793.44
+2025-04-02,Utica,toys,19.0,303.24
+2025-04-03,Syracuse,Groceries,129.0,857.85
+2025-12-02,Syracuse,Groceries,110.0,718.3
+2025-04-30,Utica,Toys,19.0,262.39
+2025-07-03,Syracuse,Groceries,82.0,501.02
+2025-08-18,Utica,home goods,23.0,691.84
+2025-12-18,Albany,electronics,37.0,3085.8
+2025-09-10,Rome,Toys,23.0,349.37
+2025-09-19,Albany,Toys,23.0,329.36
+2025-12-14,Rome,home goods,22.0,680.24
+2025-10-28,Syracuse,clothing,54.0,1261.98
+2025-10-03,Utica,Toys,27.0,395.82
+2025-03-30,Utica,Groceries,215.0,1388.9
+2025-06-03,Syracuse,Groceries,86.0,571.9
+2025-08-08,Albany,ELECTRONICS,,3248.97
+2025-06-13,Rome,Home_Goods,47.0,1451.36
+2025-04-15,Albany,Clothing,47.0,1123.77
+2025-04-30,Rome,groceries,150.0,970.5
+2025-10-27,Albany,clothing,65.0,1539.85
+2025-08-05,Syracuse,Groceries,84.0,532.56
+2025-05-15,Albany,Electronics,57.0,4601.61
+2025-06-23,Albany,toys,23.0,376.74
+2025-09-07,Utica,groceries,189.0,1341.9
+2025-02-02,Utica,Clothing,77.0,2032.8
+2025-03-08,Utica,groceries,178.0,1164.12
+2025-05-09,Rome,Home Goods,32.0,987.84
+2025-03-04,Syracuse,Electronics,41.0,3540.35
+2025-11-06,Utica,home goods,32.0,1016.0
+2025-01-16,Albany,Clothing,25.0,571.0
+2025-05-04,Albany,Toys,23.0,330.51
+2025-02-15,Rome,groceries,146.0,1077.48
+2025-12-27,Utica,groceries,169.0,1139.06
+2025-11-19,Utica,clothing,63.0,1510.74
+2025-10-01,Utica,clothing,69.0,1593.9
+2025-04-01,Syracuse,toys,23.0,338.56
+2025-06-20,Rome,groceries,92.0,616.4
+2025-04-25,Rome,toys,28.0,420.0
+2025-02-03,Rome,Cloth ing,41.0,985.64
+2025-08-10,Albany,groceries,135.0,805.95
+2025-04-28,Albany,toys,26.0,406.9
+2025-02-14,Syracuse,toys,26.0,397.54
+2025-06-27,Utica,ELECTRONICS,56.0,5063.52
+2025-01-31,Albany,Cloth ing,65.0,1669.2
+2025-05-12,Albany,Groceries,120.0,768.0
+2025-11-08,Utica,Clothing,82.0,1909.78
+2025-04-12,Albany,Home Goods,33.0,1160.28
+2025-04-19,Albany,toys,32.0,512.64
+2025-08-15,Rome,toys,23.0,398.82
+2025-02-04,Rome,clothing,76.0,1610.44
+2025-09-05,Utica,home goods,44.0,1428.68
+2025-09-21,Rome,Groceries,165.0,1047.75
+2025-01-07,Albany,ELECTRONICS,37.0,3169.05
+2025-12-01,Syracuse,Electronics,37.0,2973.32
+2025-11-01,Rome,Cloth ing,83.0,2097.41
+2025-06-19,Syracuse,toys,16.0,232.96
+2025-02-13,Albany,Clothing,45.0,1095.75
+2025-10-25,Utica,ELECTRONICS,61.0,5357.63
+2025-04-15,Albany,Groceries,119.0,805.63
+2025-02-08,Syracuse,Home Goods,43.0,1231.09
+2025-04-30,Utica,groceries,133.0,913.71
+2025-01-19,Albany,clothing,78.0,1897.74
+2025-11-25,Albany,groceries,112.0,723.52
+2025-06-24,Rome,Home Goods,31.0,1020.52
+2025-01-14,Syracuse,electronics,35.0,3177.65
+2025-12-15,Utica,electronics,58.0,5031.5
+2025-01-24,Albany,Cloth ing,63.0,1611.54
+2025-08-22,Utica,electronics,36.0,2909.16
+2025-05-10,Albany,Clothing,46.0,1096.64
+2025-08-31,Utica,clothing,84.0,1877.4
+2025-02-08,Utica,toys,40.0,633.2
+2025-12-14,Utica,ELECTRONICS,64.0,5383.68
+2025-09-22,Albany,Home_Goods,32.0,933.44
+2025-08-21,Albany,groceries,99.0,688.05
+2025-09-05,Utica,groceries,175.0,1081.5
+2025-07-09,Syracuse,ELECTRONICS,50.0,4211.5
+2025-11-11,Utica,toys,22.0,332.64
+2025-07-24,Rome,Toys,21.0,297.57
+2025-04-25,Syracuse,Groceries,154.0,965.58
+2025-10-21,Syracuse,Cloth ing,33.0,704.88
+2025-03-24,Albany,toys,17.0,259.08
+2025-09-14,Albany,Cloth ing,47.0,1142.57
+2025-03-11,Albany,ELECTRONICS,43.0,3536.75
+2025-09-04,Rome,Electronics,53.0,5439.92
+2025-01-14,Syracuse,home goods,25.0,823.25
+2025-04-11,Syracuse,Home Goods,27.0,877.5
+2025-02-06,Utica,Cloth ing,73.0,1705.28
+2025-12-15,Rome,toys,15.0,209.4
+2025-12-12,Syracuse,Clothing,72.0,1689.84
+2025-01-30,Rome,ELECTRONICS,43.0,3756.48
+2025-07-14,Syracuse,groceries,127.0,822.96
+2025-06-26,Rome,home goods,43.0,1320.53
+2025-09-19,Syracuse,Home Goods,31.0,1083.76
+2025-08-22,Albany,Cloth ing,94.0,2229.68
+2025-08-25,Albany,Clothing,49.0,1248.03
+2025-07-06,Rome,Cloth ing,93.0,2271.06
+2025-11-02,Rome,ELECTRONICS,49.0,3905.3
+2025-03-25,Syracuse,clothing,59.0,1364.67
+2025-08-25,Albany,Toys,21.0,318.57
+2025-06-25,Rome,Toys,25.0,375.75
+2025-09-18,Rome,Cloth ing,61.0,1419.47
+2025-10-08,Utica,electronics,40.0,3612.4
+2025-02-25,Utica,groceries,162.0,1069.2
+2025-01-07,Syracuse,home goods,33.0,1117.71
+2025-06-09,Syracuse,Groceries,54.0,341.28
+2025-04-28,Syracuse,Home Goods,33.0,1003.53
+2025-05-21,Rome,toys,13.0,214.24
+2025-01-11,Rome,toys,30.0,460.2
+2025-03-31,Utica,groceries,150.0,1015.5
+2025-10-31,Albany,toys,22.0,328.02
+2025-03-09,Rome,Electronics,34.0,3014.78
+2025-06-17,Syracuse,Groceries,104.0,
+2025-01-21,Rome,clothing,80.0,1873.6
+2025-05-01,Albany,Groceries,64.0,410.24
+2025-05-14,Rome,Groceries,131.0,793.86
+2025-09-08,Utica,Groceries,127.0,890.27
+2025-05-31,Albany,Cloth ing,81.0,2037.15
+2025-08-25,Albany,Electronics,27.0,2327.13
+2025-09-22,Syracuse,Electronics,51.0,
+2025-01-04,Rome,electronics,47.0,3758.12
+2025-03-16,Syracuse,Groceries,128.0,897.28
+2025-07-30,Rome,Groceries,132.0,815.76
+2025-10-15,Albany,home goods,33.0,1124.64
+2025-06-09,Albany,Groceries,29.0,184.73
+2025-02-01,Rome,Electronics,56.0,4893.84
+2025-01-16,Syracuse,electronics,51.0,3840.81
+2025-11-13,Rome,clothing,,829.54
+2025-01-11,Syracuse,toys,29.0,487.78
+2025-02-18,Utica,electronics,38.0,3307.14
+2025-05-05,Rome,groceries,133.0,884.45
+2025-04-03,Albany,Toys,37.0,564.62
+2025-12-17,Utica,Groceries,74.0,460.28
+2025-08-26,Albany,Cloth ing,66.0,1717.98
+2025-08-15,Albany,Toys,26.0,378.56
+2025-10-04,Syracuse,Toys,31.0,437.72
+2025-10-29,Syracuse,Groceries,112.0,799.68
+2025-09-15,Rome,Groceries,122.0,830.82
+2025-10-04,Utica,Home Goods,42.0,1311.24
+2025-06-10,Rome,Home Goods,41.0,1322.66
+2025-04-03,Utica,Toys,19.0,252.89
+2025-01-08,Rome,electronics,54.0,4674.78
+2025-07-29,Albany,Toys,27.0,389.34
+2025-07-02,Syracuse,Groceries,116.0,620.6
+2025-08-12,Rome,toys,20.0,285.4
+2025-12-09,Albany,Toys,,354.96
+2025-05-12,Albany,Cloth ing,50.0,1192.5
+2025-09-10,Utica,Groceries,111.0,727.05
+2025-12-14,Syracuse,Cloth ing,62.0,1583.48
+2025-05-12,Albany,toys,24.0,392.64
+2025-08-31,Rome,Home_Goods,40.0,1224.0
+2025-12-19,Albany,Home Goods,47.0,1585.78
+2025-07-14,Rome,Cloth ing,46.0,1083.3
+2025-06-20,Albany,ELECTRONICS,38.0,2957.92
+2025-11-11,Albany,electronics,40.0,3102.4
+2025-05-27,Rome,Home_Goods,35.0,1122.8
+2025-08-27,Syracuse,toys,20.0,295.2
+2025-01-05,Utica,electronics,54.0,4495.5
+2025-06-03,Rome,Home Goods,38.0,1287.06
+2025-11-26,Rome,Toys,20.0,303.6
+2025-12-08,Rome,Groceries,172.0,994.16
+2025-01-29,Albany,Toys,29.0,394.11
+2025-05-28,Utica,Electronics,26.0,
+2025-08-04,Utica,home goods,54.0,1764.18
+2025-07-06,Utica,groceries,184.0,1183.12
+2025-05-08,Utica,home goods,29.0,967.73
+2025-06-30,Albany,Home_Goods,48.0,1597.92
+2025-02-02,Rome,groceries,191.0,1230.04
+2025-12-05,Rome,clothing,56.0,1262.24
+2025-07-30,Rome,Electronics,36.0,2953.08
+2025-06-14,Albany,clothing,58.0,1310.8
+2025-01-13,Utica,toys,21.0,300.93
+2025-04-02,Utica,Groceries,107.0,754.35
+2025-06-13,Albany,electronics,35.0,2805.6
+2025-08-07,Utica,groceries,78.0,524.16
+2025-03-01,Albany,toys,36.0,522.72
+2025-04-22,Albany,electronics,48.0,4306.08
+2025-12-05,Rome,electronics,47.0,4163.26
+2025-01-19,Rome,Electronics,37.0,3135.75
+2025-12-11,Rome,Toys,18.0,257.58
+2025-05-07,Rome,Groceries,138.0,763.14
+2025-11-06,Rome,toys,25.0,366.75
+2025-09-11,Utica,Cloth ing,76.0,1844.52
+2025-12-12,Rome,groceries,123.0,735.54
+2025-10-13,Rome,ELECTRONICS,48.0,4163.04
+2025-02-23,Syracuse,home goods,47.0,1514.81
+2025-03-29,Rome,Electronics,59.0,4764.25
+2025-01-19,Rome,clothing,57.0,1340.07
+2025-11-01,Rome,electronics,46.0,3663.44
+2025-06-28,Albany,ELECTRONICS,55.0,4717.9
+2025-08-29,Albany,Electronics,38.0,3049.5
+2025-12-10,Utica,clothing,67.0,1586.56
+2025-08-20,Syracuse,Home Goods,42.0,1219.26
+2025-08-08,Utica,ELECTRONICS,52.0,4529.2
+2025-06-28,Rome,toys,31.0,483.29
+2025-11-30,Syracuse,Home_Goods,39.0,1239.03
+2025-10-11,Albany,home goods,60.0,1723.8
+2025-04-16,Syracuse,Groceries,130.0,826.8
+2025-02-02,Utica,electronics,46.0,3788.1
+2025-06-08,Rome,Groceries,146.0,965.06
+2025-05-23,Syracuse,ELECTRONICS,43.0,3599.1
+2025-01-05,Utica,Clothing,57.0,
+2025-07-13,Syracuse,Groceries,158.0,985.92
+2025-08-06,Rome,Cloth ing,55.0,1348.6
+2025-04-24,Rome,Cloth ing,65.0,1678.95
+2025-07-17,Utica,Groceries,114.0,705.66
+2025-02-22,Albany,Cloth ing,92.0,2140.84
+2025-06-22,Rome,Toys,35.0,550.55
+2025-11-10,Albany,Home Goods,20.0,652.2
+2025-03-19,Albany,Cloth ing,63.0,1409.94
+2025-07-16,Rome,groceries,103.0,690.1
+2025-10-16,Utica,Home_Goods,35.0,1170.4
+2025-07-04,Rome,Groceries,115.0,730.25
+2025-06-12,Syracuse,Cloth ing,78.0,1968.72
+2025-11-23,Utica,Cloth ing,84.0,2157.96
+2025-06-21,Utica,Home Goods,39.0,1326.78
+2025-06-16,Albany,toys,32.0,451.52
+2025-03-21,Albany,clothing,80.0,1941.6
+2025-01-10,Syracuse,Cloth ing,58.0,1416.36
+2025-08-31,Albany,Groceries,158.0,1050.7
+2025-02-24,Syracuse,Groceries,91.0,628.81
+2025-12-16,Syracuse,Clothing,72.0,1699.92
+2025-04-20,Syracuse,Groceries,144.0,874.08
+2025-10-12,Syracuse,clothing,77.0,1924.23
+2025-05-08,Rome,clothing,89.0,2125.32
+2025-02-05,Utica,clothing,37.0,890.22
+2025-03-23,Utica,Home Goods,54.0,1501.2
+2025-01-06,Utica,Cloth ing,58.0,1269.62
+2025-03-05,Rome,clothing,95.0,2240.1
+2025-12-04,Utica,Toys,9.0,
+2025-02-02,Utica,Toys,21.0,318.36
+2025-06-15,Syracuse,Toys,28.0,362.32
+2025-04-02,Rome,toys,43.0,621.78
+2025-12-31,Utica,clothing,59.0,1593.0
+2025-01-29,Utica,Toys,28.0,458.64
+2025-03-15,Rome,home goods,46.0,1368.04
+2025-01-05,Utica,Groceries,168.0,1176.0
+2025-08-02,Albany,Home Goods,50.0,1644.0
+2025-05-06,Albany,Cloth ing,37.0,917.6
+2025-06-01,Syracuse,Home Goods,52.0,1588.08
+2025-03-22,Utica,Toys,34.0,464.44
+2025-08-29,Rome,clothing,39.0,989.04
+2025-03-04,Rome,electronics,59.0,4696.99
+2025-10-17,Utica,groceries,133.0,917.7
+2025-11-06,Rome,Home Goods,43.0,1407.82
+2025-07-04,Syracuse,groceries,137.0,868.58
+2025-08-20,Rome,ELECTRONICS,39.0,3271.71
+2025-01-21,Utica,Electronics,58.0,4888.24
+2025-07-13,Rome,ELECTRONICS,20.0,1694.0
+2025-09-09,Rome,Clothing,42.0,1029.42
+2025-05-03,Albany,Groceries,126.0,835.38
+2025-05-20,Rome,Home Goods,49.0,1613.57
+2025-12-07,Rome,Home_Goods,43.0,1375.57
+2025-12-27,Albany,Clothing,78.0,1821.3
+2025-08-18,Syracuse,ELECTRONICS,54.0,4582.44
+2025-05-15,Syracuse,electronics,59.0,4951.28
+2025-06-09,Syracuse,home goods,27.0,831.6
+2025-07-17,Albany,home goods,20.0,604.2
+2025-08-26,Syracuse,Toys,21.0,320.25
+2025-04-03,Syracuse,toys,33.0,468.27
+2025-05-15,Albany,groceries,138.0,992.22
+2025-02-07,Syracuse,groceries,88.0,567.6
+2025-08-17,Rome,groceries,153.0,1003.68
+2025-04-27,Utica,Groceries,89.0,547.35
+2025-04-26,Rome,toys,32.0,513.92
+2025-09-08,Syracuse,Cloth ing,79.0,1739.58
+2025-08-31,Rome,Electronics,62.0,5239.62
+2025-12-13,Syracuse,Cloth ing,81.0,2041.2
+2025-03-10,Rome,groceries,127.0,801.37
+2025-08-03,Rome,Groceries,152.0,998.64
+2025-04-28,Albany,Home Goods,39.0,1331.85
+2025-01-07,Syracuse,Groceries,121.0,758.67
+2025-01-03,Syracuse,clothing,62.0,1504.12
+2025-08-03,Utica,Toys,25.0,328.0
+2025-04-11,Albany,clothing,86.0,2001.22
+2025-04-12,Rome,electronics,51.0,4349.79
+2025-02-15,Syracuse,Cloth ing,65.0,1612.65
+2025-05-20,Utica,Cloth ing,50.0,1202.5
+2025-12-23,Utica,Electronics,44.0,3675.76
+2025-08-10,Utica,groceries,174.0,1146.66
+2025-04-10,Syracuse,Home Goods,33.0,1040.49
+2025-12-24,Syracuse,Toys,39.0,605.67
+2025-02-23,Rome,ELECTRONICS,,3957.12
+2025-12-13,Rome,Home Goods,55.0,1662.1
+2025-02-25,Rome,Groceries,80.0,476.8
+2025-04-08,Rome,Clothing,44.0,1124.64
+2025-05-17,Rome,Home Goods,45.0,1288.35
+2025-05-06,Rome,clothing,66.0,1567.5
+2025-02-01,Rome,toys,23.0,350.75
+2025-03-22,Albany,home goods,52.0,1627.6
+2025-12-22,Albany,Home_Goods,17.0,509.66
+2025-10-26,Syracuse,Electronics,47.0,3995.47
+2025-03-12,Rome,clothing,64.0,1580.8
+2025-11-12,Syracuse,clothing,74.0,1861.84
+2025-12-07,Syracuse,Electronics,68.0,5669.16
+2025-02-27,Utica,ELECTRONICS,37.0,3301.51
+2025-02-07,Albany,Cloth ing,52.0,1303.64
+2025-01-16,Rome,Clothing,70.0,1593.2
+2025-11-11,Syracuse,toys,,275.58
+2025-07-30,Rome,home goods,52.0,1586.0
+2025-10-12,Rome,Home Goods,36.0,
+2025-06-27,Syracuse,Groceries,104.0,684.32
+2025-05-29,Rome,Toys,25.0,383.75
+2025-08-20,Rome,clothing,65.0,1576.25
+2025-04-08,Rome,ELECTRONICS,58.0,5113.28
+2025-12-14,Utica,toys,16.0,242.08
+2025-11-24,Utica,ELECTRONICS,44.0,3842.96
+2025-08-21,Rome,Toys,12.0,176.64
+2025-08-28,Albany,Groceries,65.0,425.75
+2025-06-08,Albany,toys,17.0,240.89
+2025-01-27,Syracuse,toys,24.0,391.2
+2025-03-29,Utica,Groceries,149.0,995.32
+2025-06-14,Utica,ELECTRONICS,41.0,3434.16
+2025-11-11,Rome,Clothing,80.0,1910.4
+2025-08-02,Rome,Toys,21.0,303.03
+2025-02-17,Syracuse,Groceries,151.0,924.12
+2025-06-27,Syracuse,electronics,31.0,2595.63
+2025-07-21,Syracuse,home goods,34.0,1138.66
+2025-01-04,Utica,Electronics,42.0,3500.28
+2025-12-28,Albany,Electronics,50.0,4416.0
+2025-06-01,Utica,groceries,150.0,969.0
+2025-01-26,Rome,clothing,65.0,1609.4
+2025-04-07,Utica,toys,13.0,185.51
+2025-04-07,Albany,Home_Goods,29.0,896.1
+2025-08-18,Rome,ELECTRONICS,50.0,4047.0
+2025-08-30,Albany,Electronics,51.0,4037.67
+2025-08-23,Utica,Toys,19.0,285.38
+2025-07-27,Rome,Groceries,121.0,810.7
+2025-09-26,Rome,Home Goods,36.0,1167.84
+2025-02-23,Albany,Cloth ing,85.0,2164.1
+2025-03-17,Rome,Home_Goods,40.0,
+2025-03-05,Rome,Groceries,151.0,967.91
+2025-10-20,Syracuse,ELECTRONICS,58.0,4818.06
+2025-04-22,Rome,Groceries,91.0,568.75
+2025-05-08,Syracuse,Home_Goods,38.0,1255.14
+2025-05-19,Rome,Groceries,115.0,747.5
+2025-03-15,Syracuse,Clothing,94.0,2318.04
+2025-12-26,Rome,Clothing,47.0,1243.15
+2025-08-25,Utica,Cloth ing,55.0,1421.75
+2025-03-28,Utica,toys,20.0,290.6
+2025-01-28,Rome,toys,22.0,294.8
+2025-11-16,Syracuse,Groceries,115.0,733.7
+2025-12-21,Rome,groceries,123.0,798.27
+2025-04-06,Rome,ELECTRONICS,41.0,3325.1
+2025-03-21,Utica,Clothing,61.0,1406.66
+2025-11-28,Rome,Cloth ing,46.0,1089.74
+2025-10-03,Albany,toys,26.0,375.18
+2025-10-11,Utica,Cloth ing,49.0,1185.8
+2025-03-25,Albany,Electronics,43.0,3713.91
+2025-01-06,Albany,Home Goods,32.0,1063.68
+2025-10-18,Rome,toys,34.0,500.14
+2025-11-30,Albany,ELECTRONICS,44.0,3667.4
+2025-06-28,Albany,clothing,97.0,2286.29
+2025-01-03,Rome,Toys,15.0,
+2025-12-04,Syracuse,Home_Goods,43.0,1371.7
+2025-03-03,Albany,toys,21.0,292.95
+2025-08-05,Rome,toys,21.0,313.32
+2025-09-28,Syracuse,Home_Goods,29.0,875.51
+2025-12-06,Albany,groceries,208.0,1206.4
+2025-07-05,Albany,ELECTRONICS,40.0,3513.2
+2025-01-22,Utica,home goods,21.0,679.77
+2025-02-14,Albany,Clothing,52.0,1208.48
+2025-11-07,Syracuse,groceries,110.0,657.8
+2025-03-16,Syracuse,Electronics,44.0,3747.48
+2025-09-27,Rome,clothing,73.0,1803.1
+2025-02-05,Utica,Home Goods,45.0,1426.95
+2025-07-26,Utica,Cloth ing,103.0,2406.08
+2025-01-03,Utica,Groceries,,835.24
+2025-09-04,Albany,Clothing,46.0,1128.38
+2025-12-20,Syracuse,Toys,50.0,656.0
+2025-05-04,Syracuse,electronics,65.0,5652.4
+2025-10-21,Rome,home goods,20.0,650.0
+2025-05-22,Syracuse,groceries,107.0,701.92
+2025-12-02,Syracuse,home goods,22.0,692.12
+2025-06-08,Utica,Cloth ing,45.0,1138.05
+2025-04-13,Albany,Toys,23.0,333.96
+2025-04-27,Albany,Electronics,65.0,5099.25
+2025-04-20,Rome,Clothing,74.0,1798.2
+2025-06-11,Syracuse,groceries,117.0,745.29
+2025-04-24,Albany,home goods,50.0,1660.0
+2025-11-25,Syracuse,Home_Goods,43.0,1446.09
+2025-02-15,Utica,Toys,32.0,484.48
+2025-02-02,Utica,Groceries,149.0,992.34
+2025-06-15,Albany,Home_Goods,35.0,1087.8
+2025-01-01,Albany,ELECTRONICS,31.0,2750.94
+2025-01-27,Albany,groceries,143.0,888.03
+2025-05-29,Albany,Toys,18.0,280.08
+2025-03-12,Syracuse,ELECTRONICS,40.0,3394.0
+2025-11-01,Utica,Groceries,124.0,823.36
+2025-12-09,Rome,Clothing,68.0,1579.64
+2025-08-05,Syracuse,Cloth ing,58.0,1391.42
+2025-01-07,Albany,Cloth ing,62.0,1510.32
+2025-02-06,Syracuse,Clothing,,
+2025-03-14,Utica,Groceries,87.0,516.78
+2025-12-29,Syracuse,electronics,52.0,4375.28
+2025-10-19,Rome,clothing,82.0,1872.88
+2025-07-02,Utica,groceries,84.0,542.64
+2025-01-17,Rome,ELECTRONICS,46.0,4054.9
+2025-03-27,Syracuse,toys,21.0,312.27
+2025-07-12,Syracuse,Home Goods,40.0,1170.8
+2025-04-18,Utica,Electronics,39.0,3632.07
+2025-09-28,Syracuse,electronics,45.0,3585.6
+2025-07-27,Albany,Toys,20.0,317.0
+2025-06-08,Rome,clothing,68.0,1627.92
+2025-05-21,Syracuse,ELECTRONICS,12.0,1015.08
+2025-07-22,Utica,home goods,31.0,963.48
+2025-10-02,Syracuse,groceries,155.0,1038.5
+2025-05-15,Utica,Clothing,47.0,1188.63
+2025-05-14,Utica,Home Goods,52.0,1658.8
+2025-09-18,Syracuse,toys,28.0,407.4
+2025-08-15,Albany,clothing,80.0,1888.8
+2025-02-18,Rome,Clothing,73.0,1977.57
+2025-04-29,Rome,Toys,21.0,334.32
+2025-11-08,Albany,home goods,62.0,
+2025-12-04,Utica,groceries,142.0,881.82
+2025-05-13,Albany,Electronics,47.0,4323.53
+2025-07-01,Rome,ELECTRONICS,50.0,4484.5
+2025-06-07,Albany,Electronics,67.0,5272.9
+2025-10-09,Rome,groceries,80.0,500.8
+2025-09-16,Rome,Cloth ing,68.0,1615.0
+2025-10-18,Rome,Home Goods,55.0,1923.35
+2025-10-29,Utica,groceries,131.0,795.17
+2025-12-16,Rome,Toys,29.0,383.96
+2025-03-27,Rome,electronics,33.0,2894.1
+2025-02-16,Utica,clothing,78.0,1917.24
+2025-05-05,Albany,Clothing,85.0,2244.0
+2025-05-15,Utica,Toys,25.0,365.25
+2025-08-22,Albany,Home_Goods,22.0,738.98
+2025-09-29,Rome,clothing,70.0,1662.5
+2025-04-29,Syracuse,Home Goods,40.0,1402.8
+2025-04-27,Rome,groceries,154.0,965.58
+2025-10-17,Albany,home goods,36.0,1145.88
+2025-12-08,Utica,toys,27.0,395.01
+2025-08-24,Rome,Electronics,41.0,3539.53
+2025-09-03,Syracuse,Toys,23.0,324.76
+2025-11-04,Utica,Cloth ing,28.0,668.92
+2025-09-10,Rome,Cloth ing,73.0,1805.29
+2025-03-01,Syracuse,Groceries,181.0,1086.0
+2025-02-22,Albany,Electronics,47.0,4103.1
+2025-11-07,Albany,Cloth ing,78.0,1809.6
+2025-08-19,Rome,toys,37.0,554.63
+2025-11-15,Utica,groceries,219.0,1482.63
+2025-11-02,Syracuse,Toys,19.0,276.26
+2025-08-29,Rome,toys,27.0,397.44
+2025-07-17,Albany,toys,24.0,378.96
+2025-09-19,Albany,Clothing,60.0,1428.0
+2025-07-04,Albany,toys,26.0,364.52
+2025-01-27,Utica,Home_Goods,28.0,777.28
+2025-01-25,Albany,Home Goods,48.0,1460.16
+2025-06-13,Utica,Electronics,45.0,3802.05
+2025-06-12,Utica,clothing,57.0,1347.48
+2025-09-10,Albany,Electronics,28.0,2208.08
+2025-03-07,Albany,Groceries,119.0,706.86
+2025-05-28,Albany,Toys,12.0,174.96
+2025-03-03,Utica,Groceries,131.0,864.6
+2025-10-27,Utica,ELECTRONICS,64.0,5647.36
+2025-04-13,Rome,Home Goods,46.0,1405.76
+2025-05-01,Utica,Toys,23.0,369.84
+2025-01-06,Utica,groceries,88.0,557.04
+2025-09-26,Rome,Groceries,76.0,507.68
+2025-05-06,Syracuse,Cloth ing,78.0,1797.12
+2025-10-17,Rome,Cloth ing,50.0,1227.0
+2025-07-19,Syracuse,Groceries,124.0,822.12
+2025-12-15,Utica,Home Goods,39.0,1222.26
+2025-05-02,Albany,Home Goods,45.0,1377.0
+2025-03-22,Rome,Home Goods,37.0,1263.92
+2025-10-17,Albany,Groceries,117.0,753.48
+2025-06-13,Syracuse,electronics,53.0,4757.28
+2025-06-28,Utica,Home Goods,45.0,1578.6
+2025-08-20,Albany,ELECTRONICS,35.0,2940.0
+2025-03-06,Utica,clothing,51.0,1268.88
+2025-11-28,Syracuse,Groceries,94.0,572.46
+2025-04-05,Rome,Clothing,104.0,2606.24
+2025-07-26,Albany,clothing,59.0,1400.66
+2025-11-17,Rome,toys,18.0,284.94
+2025-04-18,Syracuse,Electronics,32.0,2808.96
+2025-07-18,Syracuse,toys,20.0,297.4
+2025-02-26,Utica,toys,32.0,472.0
+2025-01-12,Rome,Home_Goods,40.0,1353.6
+2025-10-28,Utica,Cloth ing,75.0,1711.5
+2025-01-31,Rome,ELECTRONICS,46.0,4055.82
+2025-11-16,Albany,Clothing,88.0,2007.28
+2025-01-28,Syracuse,Cloth ing,60.0,1290.0
+2025-03-30,Albany,home goods,43.0,1397.07
+2025-11-20,Syracuse,groceries,127.0,839.47
+2025-03-13,Albany,Toys,19.0,291.84
+2025-02-23,Utica,Clothing,98.0,2352.0
+2025-05-26,Rome,groceries,107.0,695.5
+2025-04-17,Albany,groceries,131.0,774.21
+2025-06-14,Utica,Home Goods,41.0,1310.36
+2025-06-19,Rome,home goods,25.0,808.5
+2025-06-28,Syracuse,Groceries,128.0,858.88
+2025-06-17,Rome,Home_Goods,28.0,836.64
+2025-05-01,Albany,home goods,43.0,1405.67
+2025-02-07,Rome,ELECTRONICS,34.0,3048.78
+2025-03-02,Syracuse,Home_Goods,39.0,1180.92
+2025-01-28,Albany,groceries,163.0,1039.94
+2025-03-25,Albany,clothing,71.0,1582.59
+2025-01-03,Rome,Home_Goods,38.0,1230.44
+2025-09-03,Utica,Clothing,76.0,1922.8
+2025-08-29,Utica,Toys,23.0,338.33
+2025-03-07,Albany,toys,19.0,287.28
+2025-04-27,Albany,toys,27.0,422.28
+2025-03-02,Albany,home goods,58.0,1983.02
+2025-05-31,Syracuse,Toys,40.0,560.0
+2025-04-17,Syracuse,Groceries,111.0,734.82
+2025-12-02,Syracuse,Toys,20.0,310.0
+2025-12-22,Syracuse,Toys,17.0,275.91
+2025-01-27,Syracuse,Home Goods,37.0,1141.08
+2025-12-30,Utica,Home Goods,35.0,1176.35
+2025-01-13,Utica,ELECTRONICS,45.0,3881.7
+2025-08-23,Albany,groceries,155.0,998.2
+2025-07-22,Syracuse,groceries,150.0,894.0
+2025-09-07,Rome,Cloth ing,59.0,1387.09
+2025-08-28,Utica,Toys,25.0,332.5
+2025-03-04,Utica,Home Goods,47.0,1473.92
+2025-03-03,Syracuse,Cloth ing,83.0,2174.6
+2025-03-15,Syracuse,home goods,50.0,1429.0
+2025-01-21,Utica,groceries,122.0,793.0
+2025-01-15,Albany,home goods,20.0,639.4
+2025-11-18,Albany,Home Goods,38.0,1282.5
+2025-06-29,Rome,Groceries,178.0,1124.96
+2025-09-10,Albany,groceries,97.0,668.33
+2025-06-30,Syracuse,electronics,34.0,2757.4
+2025-02-13,Albany,home goods,51.0,1569.78
+2025-04-25,Albany,groceries,83.0,565.23
+2025-05-25,Utica,ELECTRONICS,44.0,3752.32
+2025-09-01,Rome,groceries,96.0,593.28
+2025-05-31,Albany,home goods,55.0,1559.25
+2025-10-26,Albany,electronics,54.0,4653.18
+2025-03-15,Rome,groceries,163.0,1008.97
+2025-01-24,Rome,groceries,132.0,860.64
+2025-03-18,Utica,Electronics,46.0,4311.58
+2025-07-11,Utica,toys,21.0,305.97
+2025-09-29,Rome,toys,33.0,466.95
+2025-12-06,Albany,Toys,25.0,360.0
+2025-03-29,Utica,Toys,40.0,644.0
+2025-10-06,Rome,Toys,27.0,432.54
+2025-03-29,Rome,Home_Goods,36.0,1210.68
+2025-06-21,Utica,Groceries,186.0,1231.32
+2025-07-21,Syracuse,Groceries,175.0,1198.75
+2025-01-24,Utica,Groceries,106.0,728.22
+2025-07-18,Rome,clothing,52.0,1225.64
+2025-12-22,Utica,home goods,33.0,
+2025-09-08,Rome,clothing,48.0,1146.72
+2025-10-18,Syracuse,Home Goods,64.0,2205.44
+2025-07-30,Albany,home goods,38.0,1209.92
+2025-10-04,Syracuse,Home_Goods,50.0,1539.0
+2025-09-08,Albany,Cloth ing,57.0,1443.24
+2025-10-03,Utica,groceries,111.0,718.17
+2025-05-15,Utica,Electronics,60.0,4952.4
+2025-05-01,Utica,clothing,80.0,1977.6
+2025-12-30,Albany,Home Goods,38.0,1214.86
+2025-03-29,Syracuse,Cloth ing,75.0,2110.5
+2025-11-15,Rome,toys,40.0,651.2
+2025-05-29,Albany,Home_Goods,31.0,931.24
+2025-06-01,Syracuse,ELECTRONICS,47.0,3924.97
+2025-09-19,Rome,Home Goods,36.0,1118.16
+2025-01-12,Rome,Clothing,84.0,1858.08
+2025-05-17,Rome,clothing,62.0,1358.42
+2025-12-11,Utica,groceries,141.0,951.75
+2025-12-13,Syracuse,Toys,32.0,453.76
+2025-10-13,Syracuse,home goods,28.0,947.8
+2025-07-08,Rome,Toys,12.0,175.56
+2025-03-20,Syracuse,ELECTRONICS,29.0,2313.91
+2025-12-30,Albany,Groceries,135.0,922.05
+2025-04-03,Rome,Clothing,57.0,1358.88
+2025-03-10,Albany,Groceries,150.0,997.5
+2025-06-30,Utica,Home Goods,44.0,1414.16
+2025-04-13,Syracuse,toys,34.0,494.02
+2025-07-10,Utica,electronics,28.0,2418.36
+2025-09-30,Albany,home goods,31.0,952.94
+2025-01-31,Albany,groceries,120.0,771.6
+2025-05-23,Albany,Cloth ing,55.0,1229.8
+2025-08-04,Rome,electronics,28.0,2160.48
+2025-05-21,Rome,Clothing,66.0,1692.9
+2025-12-31,Rome,toys,26.0,382.72
+2025-02-13,Utica,Groceries,120.0,748.8
+2025-03-23,Rome,Toys,41.0,623.61
+2025-03-20,Utica,toys,28.0,405.44
+2025-08-18,Albany,Cloth ing,69.0,1627.71
+2025-04-29,Rome,home goods,57.0,1841.1
+2025-04-30,Syracuse,electronics,36.0,3009.96
+2025-03-09,Utica,Electronics,54.0,4381.56
+2025-12-05,Syracuse,Home Goods,33.0,1118.37
+2025-11-17,Utica,Groceries,161.0,1143.1
+2025-07-16,Syracuse,Cloth ing,59.0,1335.76
+2025-12-06,Albany,Home_Goods,50.0,1565.0
+2025-09-06,Albany,Groceries,157.0,1031.49
+2025-05-27,Rome,Groceries,133.0,828.59
+2025-11-26,Syracuse,Groceries,164.0,1034.84
+2025-08-09,Syracuse,clothing,77.0,1884.96
+2025-04-13,Albany,home goods,63.0,1838.34
+2025-10-22,Utica,Home_Goods,30.0,946.2
+2025-11-04,Albany,Groceries,92.0,601.68
+2025-01-25,Albany,electronics,66.0,5534.1
+2025-12-30,Utica,groceries,116.0,770.24
+2025-02-27,Albany,Cloth ing,65.0,1493.05
+2025-07-30,Syracuse,electronics,47.0,3924.03
+2025-10-18,Utica,toys,31.0,453.53
+2025-03-12,Utica,toys,44.0,677.16
+2025-10-12,Albany,toys,35.0,509.25
+2025-07-08,Syracuse,home goods,39.0,1314.3
+2025-02-20,Rome,toys,29.0,421.66
+2025-12-06,Utica,groceries,141.0,967.26
+2025-06-29,Utica,clothing,96.0,2313.6
+2025-07-07,Syracuse,home goods,39.0,1224.21
+2025-01-25,Rome,clothing,46.0,1054.78
+2025-08-30,Utica,Cloth ing,53.0,1328.71
+2025-07-11,Syracuse,home goods,65.0,2123.55
+2025-10-18,Albany,toys,29.0,455.01
+2025-10-21,Rome,clothing,64.0,1566.08
+2025-06-20,Albany,toys,20.0,322.4
+2025-09-16,Rome,ELECTRONICS,37.0,3076.55
+2025-07-07,Utica,clothing,71.0,1739.5
+2025-10-21,Utica,Cloth ing,55.0,1419.0
+2025-12-02,Utica,Clothing,69.0,1791.93
+2025-01-20,Utica,toys,25.0,369.25
+2025-11-22,Rome,home goods,58.0,1788.14
+2025-06-22,Albany,Groceries,172.0,1056.08
+2025-05-25,Albany,groceries,176.0,1117.6
+2025-04-02,Syracuse,Groceries,151.0,1004.15
+2025-11-22,Rome,Clothing,74.0,1593.22
+2025-05-06,Utica,Toys,24.0,331.44
+2025-10-14,Syracuse,ELECTRONICS,39.0,3405.48
+2025-07-08,Albany,Home_Goods,41.0,1230.82
+2025-01-20,Albany,Home Goods,21.0,685.02
+2025-01-15,Albany,Toys,22.0,328.68
+2025-12-31,Albany,groceries,169.0,1079.91
+2025-05-23,Utica,Home_Goods,22.0,720.28
+2025-08-10,Albany,toys,31.0,478.02
+2025-04-13,Albany,Groceries,182.0,1235.78
+2025-06-27,Rome,toys,11.0,179.85
+2025-07-29,Utica,electronics,40.0,3495.2
+2025-08-09,Utica,toys,28.0,399.56
+2025-05-28,Utica,Home Goods,32.0,985.28
+2025-07-08,Utica,Groceries,161.0,1093.19
+2025-02-24,Utica,Home_Goods,32.0,1127.36
+2025-06-23,Rome,Toys,29.0,439.35
+2025-05-30,Albany,home goods,39.0,1236.69
+2025-03-03,Albany,Electronics,44.0,3722.4
+2025-09-25,Utica,toys,21.0,317.94
+2025-12-24,Albany,Clothing,46.0,1138.5
+2025-05-20,Rome,groceries,101.0,574.69
+2025-09-21,Albany,clothing,89.0,1984.7
+2025-04-29,Rome,Cloth ing,58.0,1394.32
+2025-07-07,Syracuse,Cloth ing,74.0,1737.52
+2025-11-24,Rome,Toys,12.0,176.88
+2025-05-15,Syracuse,Cloth ing,45.0,1081.35
+2025-07-26,Albany,Home_Goods,52.0,1516.32
+2025-09-14,Syracuse,toys,29.0,422.53
+2025-01-21,Rome,groceries,133.0,885.78
+2025-01-21,Syracuse,toys,25.0,369.75
+2025-12-14,Syracuse,Electronics,61.0,4793.99
+2025-10-12,Albany,Home_Goods,26.0,847.86
+2025-08-17,Syracuse,electronics,42.0,3636.78
+2025-12-20,Utica,Electronics,31.0,2595.94
+2025-08-05,Rome,clothing,28.0,665.0
+2025-06-09,Utica,toys,21.0,330.12
+2025-05-02,Albany,Groceries,116.0,769.08
+2025-07-30,Utica,electronics,31.0,2833.71
+2025-11-03,Rome,Groceries,131.0,
+2025-09-28,Syracuse,Toys,36.0,541.8
+2025-05-13,Rome,Home Goods,24.0,696.24
+2025-09-24,Utica,Cloth ing,71.0,1730.98
+2025-09-25,Albany,clothing,47.0,1064.55
+2025-06-30,Syracuse,groceries,106.0,742.0
+2025-01-19,Syracuse,ELECTRONICS,51.0,4287.06
+2025-04-03,Albany,home goods,28.0,933.8
+2025-11-29,Rome,Clothing,87.0,2201.97
+2025-05-27,Albany,Electronics,39.0,3479.58
+2025-04-04,Rome,toys,15.0,224.4
+2025-03-04,Albany,ELECTRONICS,52.0,4425.2
+2025-10-12,Rome,clothing,62.0,1321.84
+2025-10-08,Syracuse,Home Goods,,612.6
+2025-10-07,Utica,Toys,33.0,520.08
+2025-04-16,Rome,toys,17.0,236.98
+2025-05-03,Utica,clothing,64.0,1480.32
+2025-06-21,Syracuse,Home_Goods,46.0,1376.32
+2025-12-12,Albany,electronics,45.0,4023.0
+2025-01-03,Utica,Clothing,42.0,1032.36
+2025-08-17,Albany,home goods,55.0,1712.7
+2025-09-22,Syracuse,clothing,43.0,942.99
+2025-07-18,Syracuse,Electronics,53.0,
+2025-09-07,Utica,Cloth ing,66.0,1636.8
+2025-12-30,Utica,Clothing,56.0,1292.48
+2025-06-01,Rome,electronics,53.0,4134.53
+2025-04-16,Rome,Electronics,33.0,2865.06
+2025-08-01,Syracuse,groceries,144.0,938.88
+2025-03-01,Albany,Home Goods,40.0,1316.0
+2025-05-21,Albany,groceries,142.0,955.66
+2025-06-06,Rome,Electronics,53.0,4650.75
+2025-05-07,Albany,Groceries,110.0,680.9
+2025-02-06,Rome,Groceries,115.0,725.65
+2025-02-26,Albany,ELECTRONICS,34.0,2975.0
+2025-02-16,Utica,electronics,44.0,3624.72
+2025-10-29,Utica,Electronics,34.0,2876.06
+2025-12-02,Utica,Home_Goods,40.0,1401.6
+2025-10-07,Rome,ELECTRONICS,40.0,3504.4
+2025-03-20,Rome,Groceries,160.0,1076.8
+2025-08-16,Albany,toys,29.0,475.02
+2025-03-22,Albany,toys,35.0,553.7
+2025-07-09,Rome,Electronics,35.0,3146.5
+2025-02-24,Albany,groceries,131.0,835.78
+2025-09-15,Albany,Toys,21.0,307.65
+2025-02-11,Syracuse,toys,26.0,377.52
+2025-12-08,Syracuse,toys,21.0,290.22
+2025-04-10,Syracuse,ELECTRONICS,41.0,3006.53
+2025-03-20,Syracuse,groceries,97.0,606.25
+2025-03-13,Albany,home goods,34.0,965.26
+2025-07-24,Utica,ELECTRONICS,41.0,3651.46
+2025-11-01,Rome,Home Goods,24.0,878.16
+2025-03-28,Utica,electronics,39.0,3381.3
+2025-02-28,Syracuse,groceries,143.0,973.83
+2025-03-08,Albany,Electronics,59.0,4848.03
+2025-12-10,Syracuse,toys,35.0,537.95
+2025-02-04,Albany,toys,20.0,308.6
+2025-08-25,Syracuse,Cloth ing,63.0,1551.06
+2025-10-18,Albany,ELECTRONICS,50.0,4486.5
+2025-03-28,Utica,Home_Goods,34.0,1101.26
+2025-12-25,Syracuse,groceries,84.0,547.68
+2025-01-17,Utica,Electronics,47.0,4156.21
+2025-06-25,Albany,groceries,159.0,1022.37
+2025-07-25,Syracuse,clothing,48.0,1053.6
+2025-03-01,Rome,Clothing,103.0,2235.1
+2025-08-09,Utica,Groceries,138.0,865.26
+2025-08-18,Rome,groceries,123.0,814.26
+2025-07-10,Syracuse,Electronics,23.0,2095.53
+2025-04-08,Syracuse,Home Goods,38.0,1183.32
+2025-10-24,Rome,Groceries,144.0,910.08
+2025-10-02,Rome,home goods,29.0,787.64
+2025-07-20,Utica,toys,25.0,350.75
+2025-02-28,Utica,home goods,32.0,1149.76
+2025-01-16,Syracuse,groceries,163.0,1074.17
+2025-05-15,Syracuse,groceries,81.0,499.77
+2025-06-12,Albany,clothing,72.0,1612.8
+2025-11-29,Rome,toys,26.0,363.74
+2025-06-22,Rome,ELECTRONICS,43.0,3616.73
+2025-01-26,Albany,home goods,36.0,1146.96
+2025-04-18,Syracuse,clothing,82.0,2015.56
+2025-08-13,Utica,toys,28.0,430.36
+2025-04-10,Syracuse,Groceries,109.0,717.22
+2025-10-27,Syracuse,toys,21.0,320.46
+2025-11-22,Syracuse,electronics,52.0,4445.48
+2025-04-06,Syracuse,groceries,179.0,1102.64
+2025-07-09,Utica,clothing,70.0,1680.0
+2025-10-27,Albany,electronics,25.0,2176.5
+2025-10-20,Syracuse,toys,32.0,508.8
+2025-12-22,Utica,Groceries,115.0,757.85
+2025-06-22,Albany,Electronics,43.0,3787.87
+2025-01-04,Rome,toys,28.0,429.24
+2025-01-29,Utica,groceries,109.0,667.08
+2025-01-02,Utica,electronics,31.0,2526.5
+2025-09-14,Albany,groceries,203.0,1305.29
+2025-08-11,Syracuse,Home Goods,30.0,1004.4
+2025-09-14,Albany,ELECTRONICS,59.0,5137.13
+2025-03-12,Rome,groceries,110.0,720.5
+2025-04-17,Utica,groceries,114.0,771.78
+2025-02-18,Albany,Electronics,34.0,2603.38
+2025-02-23,Albany,Electronics,50.0,3784.0
+2025-10-15,Utica,ELECTRONICS,32.0,2676.16
+2025-12-24,Rome,clothing,40.0,1079.2
+2025-11-04,Rome,Home_Goods,36.0,1094.04
+2025-12-02,Albany,Toys,20.0,305.6
+2025-11-08,Syracuse,groceries,147.0,1004.01
+2025-01-29,Syracuse,Toys,16.0,244.16
+2025-07-18,Utica,Cloth ing,73.0,1582.64
+2025-08-07,Rome,Groceries,135.0,896.4
+2025-08-21,Syracuse,Home_Goods,27.0,905.58
+2025-12-02,Utica,Electronics,43.0,3615.01
+2025-06-11,Syracuse,Home Goods,42.0,1326.78
+2025-08-23,Albany,Toys,26.0,402.48
+2025-09-20,Syracuse,Toys,38.0,589.76
+2025-01-26,Albany,Cloth ing,72.0,1628.64
+2025-02-19,Rome,Groceries,145.0,1012.1
+2025-06-02,Rome,Groceries,106.0,697.48
+2025-06-05,Utica,electronics,37.0,3106.52
+2025-12-03,Albany,Home_Goods,24.0,704.64
+2025-12-04,Rome,Clothing,67.0,1488.74
+2025-08-05,Albany,Home Goods,30.0,913.8
+2025-02-24,Utica,toys,14.0,208.88
+2025-06-02,Albany,home goods,34.0,1069.3
+2025-03-23,Utica,Toys,31.0,474.3
+2025-11-14,Albany,groceries,121.0,780.45
+2025-06-10,Albany,home goods,33.0,1004.52
+2025-02-22,Utica,Electronics,50.0,4265.0
+2025-06-30,Utica,Toys,24.0,353.76
+2025-07-10,Syracuse,Cloth ing,77.0,2099.79
+2025-01-06,Rome,Electronics,37.0,3181.63
+2025-04-22,Albany,clothing,50.0,1089.0
+2025-11-12,Utica,Home_Goods,30.0,916.2
+2025-04-23,Rome,Groceries,135.0,901.8
+2025-03-15,Albany,groceries,144.0,987.84
+2025-07-26,Syracuse,electronics,37.0,3589.37
+2025-04-04,Syracuse,Clothing,45.0,1098.0
+2025-03-24,Utica,Electronics,36.0,3074.04
+2025-01-11,Utica,clothing,71.0,1679.15
+2025-07-14,Utica,Cloth ing,53.0,1212.11
+2025-03-02,Rome,ELECTRONICS,48.0,3898.56
+2025-09-01,Utica,Groceries,64.0,423.04
+2025-10-16,Rome,Electronics,41.0,3395.21
+2025-03-01,Syracuse,Home_Goods,61.0,2139.88
+2025-02-16,Utica,groceries,123.0,787.2
+2025-07-16,Rome,Toys,,401.5
+2025-05-28,Syracuse,ELECTRONICS,46.0,3769.24
+2025-08-15,Albany,groceries,116.0,744.72
+2025-11-18,Albany,Toys,26.0,393.12
+2025-05-17,Albany,Groceries,147.0,992.25
+2025-03-20,Albany,Electronics,45.0,3851.1
+2025-06-17,Albany,electronics,39.0,3221.79
+2025-06-06,Albany,toys,25.0,366.75
+2025-02-16,Rome,groceries,150.0,979.5
+2025-04-06,Utica,electronics,69.0,5600.04
+2025-12-11,Albany,Electronics,34.0,3017.16
+2025-07-09,Utica,Home_Goods,32.0,
+2025-06-05,Rome,toys,22.0,312.84
+2025-06-28,Utica,toys,31.0,498.79
+2025-02-23,Rome,home goods,30.0,949.8
+2025-10-16,Rome,Groceries,105.0,678.3
+2025-11-14,Rome,toys,30.0,417.3
+2025-01-08,Syracuse,Toys,33.0,516.12
+2025-12-18,Syracuse,Cloth ing,99.0,2387.88
+2025-03-11,Syracuse,Groceries,143.0,
+2025-10-12,Rome,electronics,61.0,4970.28
+2025-04-22,Albany,Toys,27.0,384.75
+2025-03-05,Albany,ELECTRONICS,27.0,2562.57
+2025-08-13,Rome,Groceries,123.0,758.91
+2025-10-15,Rome,Groceries,136.0,860.88
+2025-10-25,Albany,Groceries,117.0,755.82
+2025-11-19,Rome,clothing,83.0,1910.66
+2025-08-23,Syracuse,Groceries,165.0,1095.6
+2025-06-17,Rome,clothing,54.0,1257.12
+2025-11-06,Utica,electronics,37.0,3199.39
+2025-07-11,Rome,Groceries,155.0,1046.25
+2025-11-18,Syracuse,groceries,122.0,756.4
+2025-11-05,Rome,toys,24.0,341.04
+2025-02-08,Albany,electronics,62.0,4832.9
+2025-05-11,Utica,groceries,153.0,1098.54
+2025-05-13,Utica,electronics,44.0,3679.72
+2025-12-18,Utica,Home Goods,39.0,1289.34
+2025-12-04,Rome,Home_Goods,29.0,948.88
+2025-12-17,Utica,Cloth ing,85.0,2015.35
+2025-03-18,Rome,clothing,51.0,1195.44
+2025-04-01,Syracuse,groceries,130.0,894.4
+2025-06-30,Utica,Groceries,126.0,902.16
+2025-06-14,Syracuse,Clothing,76.0,1722.92
+2025-10-12,Utica,Cloth ing,80.0,1820.8
+2025-02-09,Syracuse,home goods,51.0,1601.91
+2025-04-28,Albany,Clothing,66.0,1479.06
+2025-05-27,Utica,Toys,23.0,347.76
+2025-05-12,Rome,Toys,32.0,459.52
+2025-05-29,Rome,Groceries,121.0,814.33
+2025-04-01,Syracuse,electronics,48.0,3943.2
+2025-04-24,Syracuse,toys,16.0,240.0
+2025-06-14,Utica,groceries,127.0,784.86
+2025-10-20,Rome,toys,21.0,325.5
+2025-12-17,Albany,toys,23.0,333.27
+2025-06-14,Syracuse,Toys,31.0,460.66
+2025-12-12,Rome,Cloth ing,61.0,1295.64
+2025-08-01,Syracuse,electronics,48.0,3779.52
+2025-07-26,Utica,Electronics,55.0,4572.7
+2025-05-18,Syracuse,Clothing,97.0,2055.43
+2025-01-31,Rome,Clothing,46.0,1013.84
+2025-08-26,Utica,home goods,23.0,723.12
+2025-01-09,Utica,clothing,53.0,1278.89
+2025-03-21,Utica,Toys,25.0,388.0
+2025-11-16,Albany,Toys,25.0,374.0
+2025-02-19,Utica,Cloth ing,66.0,1760.88
+2025-04-21,Syracuse,Toys,33.0,537.24
+2025-09-07,Syracuse,home goods,56.0,2013.76
+2025-06-19,Syracuse,Groceries,117.0,758.16
+2025-12-18,Albany,toys,34.0,469.2
+2025-10-29,Albany,home goods,29.0,963.96
+2025-07-24,Syracuse,Electronics,40.0,3338.8
+2025-01-30,Utica,Toys,22.0,336.16
+2025-02-16,Syracuse,ELECTRONICS,59.0,5260.44
+2025-11-08,Utica,Home_Goods,42.0,1387.68
+2025-03-21,Rome,Toys,15.0,216.45
+2025-12-13,Albany,Home_Goods,39.0,1419.21
+2025-03-16,Albany,Home_Goods,59.0,1870.89
+2025-04-26,Utica,toys,40.0,618.8
+2025-11-11,Utica,Electronics,27.0,2358.18
+2025-11-06,Albany,ELECTRONICS,32.0,2597.12
+2025-01-14,Albany,Electronics,33.0,2880.9
+2025-01-16,Rome,Groceries,136.0,874.48
+2025-05-26,Rome,home goods,23.0,792.81
+2025-12-11,Albany,home goods,27.0,836.19
+2025-06-11,Rome,Toys,29.0,431.23
+2025-04-04,Rome,home goods,41.0,1323.07
+2025-03-28,Albany,home goods,24.0,736.32
+2025-09-19,Utica,toys,19.0,296.78
+2025-06-08,Utica,groceries,199.0,1341.26
+2025-11-08,Syracuse,toys,23.0,368.23
+2025-10-01,Albany,Groceries,84.0,559.44
+2025-05-14,Syracuse,toys,25.0,382.25
+2025-10-06,Rome,clothing,35.0,865.2
+2025-12-26,Albany,Groceries,155.0,1054.0
+2025-04-05,Syracuse,toys,43.0,611.03
+2025-08-31,Albany,electronics,38.0,3131.58
+2025-11-29,Utica,Clothing,49.0,1162.28
+2025-03-01,Albany,Groceries,152.0,948.48
+2025-07-05,Syracuse,home goods,45.0,1518.75
+2025-09-26,Syracuse,electronics,40.0,3279.6
+2025-10-07,Rome,groceries,152.0,969.76
+2025-01-14,Utica,Home_Goods,19.0,623.58
+2025-10-12,Utica,Electronics,53.0,4449.35
+2025-06-28,Rome,Electronics,48.0,
+2025-05-22,Albany,Electronics,26.0,2165.8
+2025-03-04,Albany,Toys,18.0,277.2
+2025-04-09,Utica,Home Goods,25.0,781.25
+2025-10-09,Syracuse,Electronics,29.0,2557.22
+2025-11-15,Utica,Toys,33.0,483.78
+2025-08-11,Rome,Groceries,138.0,974.28
+2025-08-15,Rome,electronics,49.0,3859.73
+2025-05-05,Albany,groceries,146.0,937.32
+2025-12-23,Utica,Clothing,50.0,1004.5
+2025-04-24,Utica,Groceries,146.0,857.02
+2025-08-03,Rome,Toys,39.0,574.47
+2025-08-02,Syracuse,groceries,186.0,1210.86
+2025-01-14,Utica,groceries,174.0,1037.04
+2025-04-15,Utica,groceries,99.0,651.42
+2025-08-22,Rome,home goods,35.0,1125.6
+2025-07-12,Rome,groceries,180.0,1015.2
+2025-05-14,Syracuse,electronics,46.0,3752.68
+2025-05-02,Albany,toys,23.0,350.52
+2025-10-16,Rome,Toys,13.0,180.57
+2025-01-15,Utica,groceries,115.0,770.5
+2025-01-28,Syracuse,Electronics,48.0,3758.4
+2025-04-02,Rome,Home_Goods,34.0,1121.32
+2025-06-23,Utica,Groceries,135.0,869.4
+2025-04-05,Albany,electronics,76.0,6259.36
+2025-11-30,Rome,Groceries,171.0,1104.66
+2025-08-07,Albany,groceries,144.0,901.44
+2025-08-27,Rome,home goods,37.0,1221.74
+2025-10-11,Utica,Home Goods,42.0,1323.0
+2025-06-21,Syracuse,electronics,40.0,3366.4
+2025-11-13,Rome,Home Goods,47.0,1449.01
+2025-01-19,Albany,Groceries,145.0,919.3
+2025-06-10,Utica,groceries,116.0,784.16
+2025-09-18,Syracuse,Clothing,52.0,1217.32
+2025-07-22,Utica,clothing,69.0,1664.28
+2025-02-07,Utica,Home_Goods,30.0,1003.8
+2025-12-30,Rome,Toys,23.0,
+2025-12-31,Albany,Toys,24.0,350.4
+2025-02-13,Syracuse,Cloth ing,64.0,1565.44
+2025-04-16,Albany,Home Goods,44.0,1383.8
+2025-04-30,Rome,Electronics,43.0,3699.72
+2025-04-25,Utica,Groceries,135.0,911.25
+2025-04-03,Rome,Home_Goods,21.0,652.26
+2025-03-13,Albany,Toys,19.0,291.84
+2025-03-14,Utica,Toys,13.0,190.19
+2025-08-09,Utica,Home Goods,59.0,1755.84
+2025-09-11,Albany,clothing,76.0,1751.04
+2025-04-18,Utica,groceries,157.0,1022.07
+2025-02-08,Rome,Groceries,98.0,652.68
+2025-08-02,Rome,clothing,110.0,2592.7
+2025-12-28,Rome,Groceries,156.0,1031.16
+2025-06-20,Utica,clothing,66.0,1603.8
+2025-12-25,Syracuse,electronics,44.0,3575.44
+2025-05-12,Rome,home goods,34.0,1061.48
+2025-08-24,Utica,Home_Goods,57.0,1959.09
+2025-09-26,Albany,Home Goods,16.0,507.36
+2025-06-23,Albany,Clothing,67.0,1508.17
+2025-09-02,Syracuse,Toys,19.0,293.17
+2025-11-02,Rome,Home_Goods,31.0,1125.3
+2025-05-17,Utica,electronics,47.0,4287.34
+2025-03-23,Syracuse,Groceries,150.0,907.5
+2025-09-12,Rome,Groceries,100.0,669.0
+2025-03-03,Rome,clothing,42.0,1035.3
+2025-05-19,Albany,toys,23.0,342.93
+2025-12-06,Syracuse,electronics,58.0,4902.74
+2025-01-16,Albany,electronics,37.0,3294.85
+2025-04-01,Albany,Home Goods,39.0,1209.0
+2025-10-23,Albany,home goods,34.0,1136.62
+2025-12-11,Utica,Toys,13.0,207.09
+2025-07-23,Utica,Home Goods,33.0,1122.99
+2025-11-16,Utica,clothing,62.0,1439.02
+2025-09-01,Utica,ELECTRONICS,31.0,2726.76
+2025-01-11,Rome,home goods,51.0,1720.74
+2025-12-13,Syracuse,Home_Goods,43.0,1412.55
+2025-05-09,Rome,Toys,26.0,393.38
+2025-06-26,Albany,Clothing,69.0,1583.55
+2025-10-01,Syracuse,Electronics,44.0,3730.76
+2025-03-25,Utica,toys,23.0,333.73
+2025-05-27,Albany,Electronics,39.0,3479.58
+2025-11-10,Syracuse,electronics,48.0,4464.0
+2025-09-16,Rome,groceries,104.0,670.8
+2025-11-03,Rome,Home Goods,30.0,938.1
+2025-09-25,Syracuse,Clothing,55.0,1335.95
+2025-04-28,Rome,Cloth ing,76.0,1816.4
+2025-05-31,Utica,Groceries,156.0,1067.04
+2025-03-15,Syracuse,electronics,33.0,3004.32
+2025-10-27,Syracuse,ELECTRONICS,40.0,3620.4
+2025-07-24,Rome,ELECTRONICS,52.0,4833.4
+2025-05-12,Utica,Cloth ing,55.0,1319.45
+2025-06-10,Albany,groceries,75.0,525.0
+2025-03-03,Utica,Home_Goods,39.0,1256.97
+2025-11-08,Utica,Electronics,60.0,5454.6
+2025-04-08,Syracuse,Clothing,59.0,1420.72
+2025-01-08,Albany,Toys,21.0,324.24
+2025-06-26,Utica,Toys,18.0,280.26
+2025-12-09,Rome,Groceries,146.0,922.72
+2025-10-25,Rome,clothing,71.0,1689.09
+2025-11-16,Utica,Groceries,184.0,1142.64
+2025-09-11,Rome,Clothing,56.0,1326.64
+2025-04-21,Syracuse,Electronics,47.0,4159.03
+2025-01-31,Utica,Electronics,46.0,3960.14
+2025-01-23,Rome,groceries,140.0,914.2
+2025-12-08,Rome,Toys,29.0,427.75
+2025-02-27,Syracuse,toys,17.0,238.34
+2025-03-04,Albany,home goods,32.0,895.04
+2025-07-23,Rome,home goods,35.0,1148.35
+2025-07-26,Rome,Groceries,180.0,1139.4
+2025-09-13,Utica,Toys,30.0,444.0
+2025-03-10,Utica,Cloth ing,55.0,1393.15
+2025-02-09,Syracuse,ELECTRONICS,41.0,3731.0
+2025-05-20,Albany,toys,29.0,439.93
+2025-06-23,Syracuse,toys,14.0,215.18
+2025-12-03,Syracuse,Clothing,50.0,1112.0
+2025-10-01,Albany,clothing,74.0,1760.46
+2025-06-04,Albany,home goods,40.0,1399.2
+2025-02-20,Utica,Groceries,124.0,819.64
+2025-10-31,Rome,ELECTRONICS,24.0,2129.52
+2025-12-03,Syracuse,Groceries,136.0,862.24
+2025-02-24,Rome,Groceries,154.0,953.26
+2025-06-27,Utica,Groceries,117.0,702.0
+2025-04-02,Albany,Cloth ing,53.0,1341.96
+2025-12-22,Rome,Cloth ing,56.0,1323.28
+2025-10-25,Syracuse,toys,40.0,596.4
+2025-05-08,Albany,Groceries,163.0,1080.69
+2025-07-01,Utica,groceries,129.0,923.64
+2025-05-04,Rome,Cloth ing,97.0,2467.68
+2025-04-26,Rome,clothing,87.0,2180.22
+2025-02-12,Rome,ELECTRONICS,40.0,3466.8
+2025-05-14,Albany,groceries,104.0,685.36
+2025-12-03,Syracuse,toys,19.0,301.15
+2025-12-24,Rome,electronics,52.0,4806.88
+2025-01-26,Syracuse,Cloth ing,107.0,2819.45
+2025-04-06,Syracuse,Toys,41.0,642.88
+2025-05-19,Utica,Groceries,85.0,545.7
+2025-10-04,Syracuse,Clothing,67.0,1614.7
+2025-04-03,Utica,Cloth ing,58.0,1358.36
+2025-05-11,Albany,groceries,144.0,983.52
+2025-09-08,Syracuse,groceries,115.0,749.8
+2025-03-26,Rome,Home Goods,27.0,876.15
+2025-09-14,Rome,Groceries,100.0,609.0
+2025-11-17,Syracuse,Toys,16.0,238.72
+2025-05-11,Rome,electronics,50.0,4431.5
+2025-04-29,Utica,Groceries,131.0,871.15
+2025-08-30,Rome,Home Goods,32.0,1012.16
+2025-05-06,Utica,Electronics,37.0,3106.89
+2025-11-09,Rome,Toys,34.0,478.72
+2025-05-10,Utica,Electronics,40.0,3318.0
+2025-02-21,Utica,electronics,33.0,2887.5
+2025-03-24,Utica,Electronics,36.0,3074.04
+2025-11-23,Utica,electronics,35.0,2978.5
+2025-08-25,Syracuse,ELECTRONICS,48.0,4073.28
+2025-06-20,Syracuse,toys,21.0,320.67
+2025-02-05,Rome,Groceries,173.0,1191.97
+2025-07-06,Albany,Home_Goods,59.0,2047.3
+2025-11-15,Albany,electronics,66.0,5697.78
+2025-07-16,Utica,Cloth ing,89.0,1900.15
+2025-10-13,Syracuse,Toys,23.0,335.57
+2025-09-13,Albany,Toys,31.0,484.53
+2025-03-21,Syracuse,Clothing,49.0,1252.44
+2025-11-30,Rome,Home_Goods,38.0,1173.82
+2025-01-05,Rome,clothing,98.0,2333.38
+2025-06-20,Albany,groceries,69.0,451.95
+2025-06-03,Rome,Groceries,136.0,843.2
+2025-11-23,Syracuse,Toys,,579.93
+2025-01-13,Rome,Clothing,56.0,1368.64
+2025-04-09,Syracuse,groceries,43.0,273.48
+2025-03-04,Syracuse,Home_Goods,33.0,1023.66
+2025-02-13,Rome,Home Goods,30.0,873.0
+2025-04-13,Utica,Toys,40.0,612.0
+2025-07-03,Syracuse,Cloth ing,36.0,891.36
+2025-12-24,Syracuse,Home Goods,25.0,826.5
+2025-01-06,Syracuse,home goods,19.0,636.12
+2025-12-05,Syracuse,toys,33.0,525.36
+2025-09-09,Rome,Home_Goods,33.0,980.76
+2025-07-28,Rome,Home Goods,35.0,1113.35
+2025-09-15,Syracuse,Clothing,65.0,1660.1
+2025-11-18,Utica,groceries,139.0,900.72
+2025-10-08,Albany,groceries,123.0,814.26
+2025-03-24,Utica,groceries,85.0,552.5
+2025-01-04,Utica,Toys,34.0,489.26
+2025-08-13,Utica,ELECTRONICS,21.0,1829.73
+2025-09-23,Syracuse,ELECTRONICS,39.0,3204.63
+2025-08-31,Utica,Toys,38.0,557.84
+2025-12-12,Albany,Toys,28.0,383.04
+2025-01-02,Albany,toys,23.0,370.76
+2025-01-06,Rome,Toys,42.0,695.94
+2025-03-12,Utica,home goods,53.0,1775.5
+2025-01-08,Albany,ELECTRONICS,27.0,2218.05
+2025-02-14,Rome,toys,34.0,516.46
+2025-11-02,Albany,Toys,42.0,658.14
+2025-11-15,Rome,groceries,132.0,898.92
+2025-08-23,Albany,Home_Goods,61.0,1952.0
+2025-07-09,Syracuse,Clothing,65.0,1553.5
+2025-12-03,Rome,Clothing,73.0,1743.24
+2025-07-31,Rome,groceries,67.0,435.5
+2025-02-23,Syracuse,groceries,176.0,1140.48
+2025-09-12,Syracuse,Toys,27.0,413.64
+2025-04-25,Rome,Electronics,24.0,2072.16
+2025-11-02,Albany,Home_Goods,29.0,845.64
+2025-03-07,Utica,electronics,60.0,4884.6
+2025-08-30,Rome,electronics,32.0,2636.48
+2025-11-02,Utica,electronics,54.0,4296.24
+2025-12-27,Syracuse,home goods,52.0,1758.12
+2025-04-18,Rome,Toys,28.0,436.8
+2025-12-22,Albany,groceries,76.0,493.24
+2025-07-27,Albany,home goods,34.0,1072.02
+2025-12-28,Rome,Clothing,84.0,2025.24
+2025-05-28,Rome,ELECTRONICS,41.0,3694.1
+2025-12-15,Utica,groceries,114.0,739.86
+2025-12-14,Albany,toys,28.0,437.92
+2025-10-09,Syracuse,Home Goods,30.0,933.9
+2025-12-23,Syracuse,Home Goods,38.0,1313.66
+2025-03-30,Syracuse,Electronics,41.0,3396.03
+2025-12-10,Syracuse,clothing,53.0,1317.58
+2025-03-05,Utica,home goods,47.0,1552.41
+2025-08-19,Utica,toys,14.0,210.7
+2025-06-02,Albany,Groceries,120.0,810.0
+2025-11-15,Albany,Groceries,125.0,812.5
+2025-01-26,Rome,Groceries,166.0,1102.24
+2025-06-04,Utica,groceries,123.0,787.2
+2025-11-13,Utica,Cloth ing,50.0,1058.5
+2025-12-01,Utica,clothing,45.0,1008.0
+2025-03-28,Syracuse,Home_Goods,35.0,1077.3
+2025-09-23,Albany,toys,17.0,243.95
+2025-11-01,Albany,toys,40.0,590.4
+2025-12-14,Albany,Clothing,77.0,1815.66
+2025-12-27,Rome,Clothing,83.0,1852.56
+2025-08-12,Albany,toys,26.0,380.9
+2025-11-20,Rome,Clothing,65.0,1571.05
+2025-11-06,Syracuse,toys,17.0,252.96
+2025-05-10,Utica,home goods,56.0,1772.96
+2025-09-03,Albany,Home_Goods,25.0,766.75
+2025-01-15,Albany,electronics,36.0,3342.6
+2025-09-01,Utica,Toys,29.0,452.4
+2025-09-08,Rome,ELECTRONICS,30.0,2466.3
+2025-06-08,Rome,Home_Goods,44.0,1481.92
+2025-01-21,Albany,Electronics,49.0,4345.32
+2025-01-23,Albany,electronics,39.0,3488.16
+2025-04-11,Rome,toys,29.0,429.78
+2025-11-27,Utica,electronics,37.0,3280.42
+2025-09-15,Utica,ELECTRONICS,18.0,1485.54
+2025-07-22,Utica,Groceries,168.0,1075.2
+2025-08-04,Albany,Cloth ing,47.0,1173.12
+2025-04-22,Syracuse,Groceries,138.0,914.94
+2025-04-05,Albany,groceries,138.0,906.66
+2025-09-30,Rome,Groceries,73.0,546.04
+2025-05-31,Rome,Cloth ing,91.0,2278.64
+2025-11-05,Syracuse,ELECTRONICS,41.0,3352.57
+2025-10-06,Utica,Cloth ing,56.0,1469.44
+2025-12-28,Utica,Toys,41.0,567.85
+2025-11-29,Utica,toys,26.0,364.78
+2025-05-02,Utica,Groceries,133.0,892.43
+2025-03-12,Utica,clothing,59.0,1384.73
+2025-08-27,Albany,electronics,34.0,2778.48
+2025-09-14,Albany,Home Goods,48.0,1564.32
+2025-11-15,Rome,Cloth ing,82.0,1908.14
+2025-03-17,Syracuse,ELECTRONICS,56.0,4930.8
+2025-02-26,Syracuse,Clothing,67.0,1588.57
+2025-01-30,Rome,Cloth ing,55.0,1309.0
+2025-12-22,Rome,toys,32.0,489.28
+2025-12-25,Utica,electronics,58.0,5111.54
+2025-06-18,Utica,Toys,31.0,445.78
+2025-04-14,Albany,Groceries,129.0,820.44
+2025-09-13,Syracuse,toys,32.0,453.12
+2025-04-07,Rome,groceries,82.0,550.22
+2025-09-28,Rome,home goods,46.0,1489.94
+2025-02-09,Syracuse,Toys,37.0,539.46
+2025-01-12,Utica,home goods,51.0,1575.9
+2025-11-18,Syracuse,clothing,79.0,1970.26
+2025-10-27,Utica,Home_Goods,39.0,1138.41
+2025-11-19,Albany,toys,21.0,313.95
+2025-06-13,Albany,clothing,50.0,1271.0
+2025-06-15,Rome,Cloth ing,64.0,1578.88
+2025-04-03,Albany,Clothing,61.0,1356.64
+2025-10-29,Utica,Home Goods,29.0,953.23
+2025-01-08,Utica,groceries,104.0,726.96
+2025-10-08,Utica,home goods,34.0,1173.68
+2025-03-23,Rome,clothing,63.0,1673.91
+2025-02-03,Syracuse,home goods,26.0,813.02
+2025-04-18,Utica,Toys,33.0,470.91
+2025-11-06,Albany,Home Goods,37.0,1061.16
+2025-12-30,Albany,toys,33.0,518.76
+2025-03-26,Syracuse,ELECTRONICS,33.0,2889.48
+2025-08-26,Syracuse,Home_Goods,37.0,1187.33
+2025-09-18,Utica,ELECTRONICS,35.0,2987.6
+2025-02-20,Utica,clothing,83.0,1892.4
+2025-02-07,Albany,electronics,54.0,4706.1
+2025-07-10,Albany,Toys,26.0,397.02
+2025-10-29,Albany,ELECTRONICS,38.0,3140.7
+2025-05-26,Albany,Electronics,57.0,4653.48
+2025-09-24,Utica,home goods,43.0,1289.57
+2025-03-29,Albany,groceries,136.0,908.48
+2025-09-14,Rome,electronics,50.0,4355.5
+2025-11-17,Rome,Electronics,49.0,4365.41
+2025-11-24,Rome,home goods,22.0,771.54
+2025-08-01,Utica,Toys,30.0,470.7
+2025-06-07,Rome,groceries,141.0,958.8
+2025-03-04,Utica,electronics,48.0,4136.64
+2025-09-17,Utica,clothing,51.0,1191.87
+2025-10-08,Rome,Home Goods,40.0,1218.4
+2025-06-06,Rome,clothing,46.0,1092.5
+2025-01-23,Utica,ELECTRONICS,40.0,3353.6
+2025-12-16,Utica,toys,28.0,427.28
+2025-06-29,Utica,Home Goods,43.0,
+2025-06-28,Syracuse,toys,30.0,455.1
+2025-10-13,Albany,electronics,48.0,4244.16
+2025-09-15,Albany,Electronics,33.0,2746.59
+2025-02-15,Albany,groceries,226.0,1441.88
+2025-03-16,Utica,toys,41.0,613.77
+2025-10-10,Utica,Toys,23.0,388.7
+2025-03-13,Rome,Toys,28.0,414.12
+2025-11-15,Syracuse,Clothing,87.0,2036.67
+2025-10-26,Utica,Groceries,227.0,1382.43
+2025-03-31,Albany,Cloth ing,60.0,1504.2
+2025-02-21,Syracuse,Groceries,174.0,1045.74
+2025-09-28,Albany,Groceries,194.0,1160.12
+2025-08-09,Albany,Home_Goods,39.0,1233.96
+2025-02-05,Rome,home goods,34.0,1000.96
+2025-03-09,Utica,clothing,74.0,1646.5
+2025-08-06,Utica,Home_Goods,13.0,452.66
+2025-04-19,Utica,Clothing,73.0,1788.5
+2025-01-22,Syracuse,Clothing,41.0,1054.93
+2025-12-04,Syracuse,electronics,32.0,2638.08
+2025-02-13,Rome,Electronics,28.0,2471.28
+2025-07-04,Utica,home goods,48.0,1622.4
+2025-08-26,Utica,groceries,94.0,603.48
+2025-10-15,Rome,Home Goods,57.0,1776.69
+2025-06-01,Rome,Home_Goods,42.0,1290.24
+2025-12-02,Rome,Groceries,112.0,773.92
+2025-12-20,Albany,Groceries,127.0,762.0
+2025-11-12,Utica,toys,22.0,331.98
+2025-11-19,Syracuse,Electronics,52.0,4494.36
+2025-01-12,Albany,toys,29.0,466.61
+2025-12-06,Rome,groceries,215.0,1330.85
+2025-10-05,Syracuse,ELECTRONICS,49.0,4042.99
+2025-10-10,Syracuse,Clothing,71.0,1616.67
+2025-04-24,Rome,groceries,156.0,979.68
+2025-03-25,Albany,Home_Goods,25.0,830.25
+2025-08-21,Syracuse,ELECTRONICS,57.0,4982.37
+2025-05-23,Rome,Groceries,164.0,1025.0
+2025-01-21,Syracuse,Groceries,123.0,758.91
+2025-03-11,Albany,Groceries,109.0,711.77
+2025-02-25,Rome,Toys,30.0,432.6
+2025-09-20,Albany,Clothing,80.0,2082.4
+2025-04-22,Utica,Toys,15.0,202.5
+2025-05-18,Albany,Electronics,66.0,6395.4
+2025-01-05,Syracuse,ELECTRONICS,54.0,5167.8
+2025-02-17,Syracuse,clothing,63.0,
+2025-08-18,Syracuse,Home_Goods,24.0,787.2
+2025-06-21,Albany,Electronics,47.0,3804.65
+2025-12-25,Albany,ELECTRONICS,46.0,3603.18
+2025-03-15,Syracuse,toys,32.0,468.16
+2025-01-15,Rome,Toys,16.0,250.08
+2025-08-28,Rome,groceries,66.0,422.4
+2025-12-18,Rome,Electronics,28.0,2290.68
+2025-01-24,Albany,ELECTRONICS,28.0,2352.84
+2025-03-10,Syracuse,Groceries,152.0,1024.48
+2025-06-20,Syracuse,Home_Goods,36.0,1195.56
+2025-07-02,Rome,Home_Goods,54.0,1684.26
+2025-12-16,Utica,electronics,40.0,3337.6
+2025-04-11,Rome,Home Goods,36.0,999.36
+2025-02-18,Syracuse,home goods,37.0,1265.03
+2025-03-13,Rome,Cloth ing,36.0,800.28
+2025-06-05,Albany,home goods,24.0,761.52
+2025-10-15,Syracuse,electronics,33.0,2745.6
+2025-11-07,Syracuse,electronics,62.0,5286.74
+2025-02-26,Syracuse,Home Goods,39.0,1137.24
+2025-07-18,Utica,toys,26.0,368.16
+2025-11-28,Utica,groceries,103.0,651.99
+2025-07-31,Utica,groceries,,
+2025-08-08,Syracuse,Home_Goods,33.0,1099.89
+2025-12-14,Syracuse,Toys,29.0,412.96
+2025-09-05,Albany,groceries,73.0,476.69
+2025-05-02,Syracuse,Groceries,123.0,806.88
+2025-10-24,Utica,toys,14.0,196.0
+2025-05-26,Syracuse,Toys,23.0,342.7
+2025-09-25,Utica,home goods,49.0,
+2025-12-07,Syracuse,Groceries,141.0,865.74
+2025-09-21,Rome,Home_Goods,49.0,1541.05
+2025-04-07,Utica,Groceries,92.0,607.2
+2025-02-20,Utica,Toys,22.0,315.48
+2025-06-14,Albany,Home_Goods,56.0,1808.8
+2025-03-16,Albany,Toys,26.0,399.88
+2025-06-05,Utica,Groceries,101.0,661.55
+2025-06-29,Utica,Groceries,157.0,1026.78
+2025-12-03,Albany,Clothing,67.0,1534.3
+2025-06-15,Utica,toys,30.0,441.9
+2025-09-24,Rome,toys,23.0,347.53
+2025-02-18,Albany,Clothing,76.0,1849.08
+2025-12-27,Syracuse,toys,45.0,668.25
+2025-08-29,Syracuse,toys,13.0,182.91
+2025-01-15,Rome,electronics,44.0,3642.32
+2025-10-21,Utica,Home_Goods,39.0,1278.81
+2025-11-12,Utica,ELECTRONICS,45.0,4261.05
+2025-10-12,Utica,Home Goods,52.0,1671.8
+2025-09-25,Rome,Groceries,116.0,757.48
+2025-12-11,Albany,Clothing,53.0,1183.49
+2025-01-30,Rome,groceries,164.0,1131.6
+2025-06-04,Utica,clothing,80.0,1820.0
+2025-01-02,Syracuse,Cloth ing,62.0,1539.46
+2025-10-29,Syracuse,toys,23.0,360.87
+2025-06-12,Utica,toys,21.0,330.12
+2025-12-11,Rome,Groceries,50.0,294.5
+2025-01-08,Rome,groceries,144.0,986.4
+2025-08-21,Rome,Groceries,146.0,911.04
+2025-06-25,Albany,electronics,41.0,3368.15
+2025-06-29,Albany,groceries,196.0,1368.08
+2025-08-30,Albany,home goods,37.0,1248.01
+2025-05-04,Albany,clothing,92.0,2368.08
+2025-05-21,Rome,Electronics,48.0,3983.04
+2025-09-27,Syracuse,clothing,73.0,1947.64
+2025-11-27,Albany,groceries,116.0,752.84
+2025-07-05,Rome,ELECTRONICS,46.0,4018.1
+2025-12-19,Utica,Electronics,38.0,3383.52
+2025-05-13,Syracuse,Home Goods,43.0,1520.48
+2025-03-16,Syracuse,Home Goods,32.0,1018.24
+2025-07-07,Utica,toys,29.0,396.14
+2025-04-15,Albany,Toys,25.0,335.25
+2025-02-07,Syracuse,Home Goods,32.0,1000.96
+2025-08-27,Utica,Home Goods,32.0,979.2
+2025-06-13,Rome,clothing,51.0,1168.41
+2025-01-16,Rome,Home Goods,33.0,991.65
+2025-11-11,Syracuse,Home Goods,33.0,942.15
+2025-12-24,Utica,Cloth ing,82.0,2012.28
+2025-02-25,Syracuse,groceries,166.0,1090.62
+2025-10-07,Rome,clothing,67.0,1618.05
+2025-04-02,Rome,electronics,42.0,3943.38
+2025-07-12,Rome,Home_Goods,40.0,1248.4
+2025-12-04,Albany,Cloth ing,65.0,1668.55
+2025-12-03,Rome,Groceries,136.0,892.16
+2025-08-28,Rome,Toys,26.0,394.42
+2025-04-21,Rome,groceries,181.0,1140.3
+2025-11-06,Albany,Clothing,83.0,1846.75
+2025-07-16,Syracuse,Home_Goods,34.0,1077.46
+2025-11-07,Rome,Toys,27.0,407.16
+2025-02-20,Albany,Groceries,112.0,723.52
+2025-10-06,Rome,Electronics,59.0,4635.63
+2025-11-19,Syracuse,Home_Goods,22.0,698.94
+2025-08-03,Utica,clothing,63.0,1523.34
+2025-12-10,Syracuse,Groceries,58.0,369.46
+2025-04-18,Rome,Home_Goods,32.0,1024.64
+2025-12-07,Rome,Toys,31.0,490.42
+2025-02-27,Albany,home goods,42.0,1423.8
+2025-08-25,Utica,electronics,61.0,5461.33
+2025-11-03,Syracuse,Groceries,183.0,1209.63
+2025-04-05,Rome,groceries,228.0,1420.44
+2025-07-31,Utica,Home Goods,27.0,806.76
+2025-06-03,Syracuse,Home Goods,30.0,913.5
+2025-03-13,Syracuse,Toys,24.0,350.88
+2025-09-28,Syracuse,groceries,225.0,1442.25
+2025-10-28,Utica,Groceries,77.0,448.14
+2025-12-05,Albany,Home Goods,35.0,1151.5
+2025-01-17,Albany,ELECTRONICS,31.0,2636.55
+2025-09-12,Syracuse,home goods,35.0,1128.75
+2025-01-24,Utica,electronics,41.0,3562.49
+2025-04-07,Syracuse,Toys,27.0,426.06
+2025-05-30,Utica,Groceries,95.0,620.35
+2025-12-28,Utica,Home Goods,52.0,1667.64
+2025-01-14,Syracuse,Groceries,168.0,1231.44
+2025-01-14,Syracuse,Cloth ing,30.0,708.9
+2025-01-09,Utica,Toys,27.0,415.53
+2025-03-03,Albany,Home_Goods,35.0,1071.7
+2025-01-29,Albany,home goods,37.0,1090.02
+2025-11-08,Rome,Home Goods,54.0,1722.6
+2025-01-09,Albany,Home_Goods,37.0,1215.45
+2025-11-20,Utica,Groceries,106.0,702.78
+2025-06-26,Rome,Clothing,60.0,1347.0
+2025-03-25,Albany,Groceries,139.0,903.5
+2025-12-03,Utica,Clothing,78.0,2043.6
+2025-06-22,Utica,ELECTRONICS,64.0,5396.48
+2025-04-03,Syracuse,Cloth ing,70.0,1647.8
+2025-05-06,Utica,groceries,83.0,505.47
+2025-07-26,Rome,Toys,33.0,464.97
+2025-05-14,Albany,home goods,43.0,1392.34
+2025-10-12,Rome,Toys,35.0,519.05
+2025-07-24,Utica,home goods,,1330.0
+2025-05-11,Syracuse,ELECTRONICS,44.0,3765.52
+2025-10-21,Rome,Groceries,98.0,627.2
+2025-04-01,Utica,Home Goods,25.0,766.0
+2025-03-18,Syracuse,ELECTRONICS,43.0,3606.41
+2025-08-13,Rome,home goods,50.0,1430.0
+2025-07-18,Rome,toys,12.0,165.6
+2025-04-12,Syracuse,home goods,39.0,1219.92
+2025-04-13,Utica,groceries,116.0,680.92
+2025-07-25,Utica,Toys,32.0,479.04
+2025-09-25,Utica,groceries,133.0,909.72
+2025-07-04,Rome,clothing,77.0,1817.2
+2025-11-12,Albany,Groceries,75.0,477.0
+2025-02-06,Syracuse,electronics,46.0,3648.26
+2025-11-13,Albany,Electronics,44.0,3665.2
+2025-04-09,Rome,Electronics,30.0,2343.0
+2025-01-08,Syracuse,ELECTRONICS,49.0,3944.5
+2025-07-19,Utica,toys,34.0,508.3
+2025-12-19,Rome,electronics,30.0,2787.6
+2025-01-11,Syracuse,ELECTRONICS,33.0,2757.81
+2025-09-03,Syracuse,Electronics,36.0,3133.08
+2025-10-19,Albany,ELECTRONICS,54.0,4864.86
+2025-11-15,Syracuse,ELECTRONICS,,4952.2
+2025-11-14,Albany,electronics,42.0,3526.74
+2025-05-22,Rome,Electronics,35.0,2926.7
+2025-11-09,Syracuse,ELECTRONICS,55.0,4615.05
+2025-05-20,Syracuse,electronics,51.0,4206.99
+2025-09-24,Rome,electronics,48.0,4091.52
+2025-05-14,Rome,electronics,37.0,2864.54
+2025-05-30,Syracuse,ELECTRONICS,45.0,3964.05
+2025-05-19,Syracuse,Clothing,42.0,984.9
+2025-06-30,Rome,toys,12.0,180.0
+2025-02-26,Syracuse,Electronics,36.0,3018.6
+2025-06-20,Utica,toys,26.0,353.6
+2025-12-29,Albany,electronics,46.0,4156.1
+2025-06-18,Utica,home goods,40.0,1425.2
+2025-03-27,Syracuse,Clothing,,867.92
+2025-09-16,Rome,Toys,25.0,356.5
+2025-07-27,Syracuse,Cloth ing,50.0,1093.0
+2025-02-26,Rome,Toys,16.0,234.88
+2025-09-18,Rome,Toys,20.0,293.8
+2025-01-22,Syracuse,ELECTRONICS,46.0,3836.86
+2025-07-17,Utica,Cloth ing,57.0,1281.36
+2025-08-30,Utica,Electronics,54.0,
+2025-10-23,Syracuse,clothing,38.0,921.5
+2025-09-19,Rome,groceries,160.0,944.0
+2025-09-20,Utica,clothing,91.0,2190.37
+2025-07-03,Albany,clothing,69.0,1676.7
+2025-09-30,Albany,groceries,77.0,537.46
+2025-06-14,Albany,Groceries,149.0,1010.22
+2025-12-14,Utica,Home_Goods,35.0,1126.65
+2025-08-28,Utica,Home_Goods,39.0,1153.62
+2025-04-28,Utica,groceries,136.0,855.44
+2025-05-16,Rome,Toys,23.0,371.45
+2025-05-20,Albany,Cloth ing,44.0,1122.88
+2025-10-31,Albany,electronics,26.0,2183.48
+2025-06-08,Utica,Home_Goods,55.0,1684.1
+2025-05-25,Utica,Toys,42.0,614.88
+2025-02-01,Utica,home goods,49.0,1645.42
+2025-12-29,Syracuse,groceries,126.0,767.34
+2025-12-05,Utica,groceries,77.0,488.18
+2025-07-31,Albany,Electronics,39.0,2961.66
+2025-08-07,Utica,Cloth ing,87.0,2193.27
+2025-07-20,Syracuse,Home Goods,50.0,1572.0
+2025-09-02,Rome,Home Goods,34.0,1043.46
+2025-04-01,Utica,Groceries,137.0,900.09
+2025-07-05,Syracuse,Electronics,45.0,3990.15
+2025-04-10,Utica,Home_Goods,44.0,1428.68
+2025-11-09,Syracuse,clothing,75.0,1731.0
+2025-07-19,Rome,Clothing,87.0,1948.8
+2025-10-16,Syracuse,toys,20.0,329.8
+2025-05-02,Utica,home goods,40.0,1313.2
+2025-07-09,Albany,groceries,70.0,485.8
+2025-03-05,Albany,Groceries,109.0,753.19
+2025-06-19,Rome,Groceries,171.0,1077.3
+2025-09-04,Albany,Groceries,107.0,695.5
+2025-05-03,Syracuse,Clothing,,1205.89
+2025-09-14,Utica,home goods,70.0,2103.5
+2025-02-08,Rome,toys,32.0,484.16
+2025-01-27,Syracuse,Cloth ing,74.0,1910.68
+2025-04-06,Rome,Clothing,79.0,1986.85
+2025-09-23,Utica,Home Goods,50.0,1646.5
+2025-08-03,Syracuse,Home_Goods,28.0,903.28
+2025-05-28,Rome,Cloth ing,71.0,1849.55
+2025-08-14,Utica,ELECTRONICS,47.0,3786.79
+2025-04-02,Albany,groceries,100.0,705.0
+2025-07-11,Rome,Electronics,46.0,3919.66
+2025-06-04,Syracuse,Home Goods,44.0,1532.96
+2025-10-08,Utica,Cloth ing,48.0,1137.12
+2025-03-26,Albany,toys,23.0,357.88
+2025-03-17,Albany,Toys,31.0,447.33
+2025-09-11,Albany,groceries,94.0,603.48
+2025-09-24,Rome,clothing,59.0,1371.75
+2025-01-25,Utica,Groceries,174.0,1164.06
+2025-12-07,Albany,clothing,116.0,2779.36
+2025-05-12,Syracuse,clothing,51.0,1237.26
+2025-12-29,Utica,ELECTRONICS,55.0,4784.45
+2025-05-06,Albany,Toys,31.0,539.71
+2025-11-04,Rome,Cloth ing,59.0,1562.32
+2025-10-12,Rome,Groceries,,926.55
+2025-12-22,Syracuse,Groceries,152.0,1073.12
+2025-07-17,Utica,Home_Goods,19.0,650.94
+2025-10-15,Albany,Electronics,,3410.8
+2025-10-23,Syracuse,electronics,54.0,4911.3
+2025-09-21,Rome,Electronics,40.0,3353.6
+2025-10-21,Syracuse,Home_Goods,34.0,1126.42
+2025-03-06,Syracuse,toys,23.0,345.0
+2025-09-22,Utica,clothing,56.0,1330.0
+2025-03-29,Albany,Home Goods,55.0,1845.8
+2025-02-15,Utica,Home_Goods,45.0,1381.95
+2025-03-27,Rome,Home_Goods,28.0,903.28
+2025-03-14,Syracuse,home goods,38.0,1239.18
+2025-06-14,Rome,electronics,55.0,4609.0
+2025-07-16,Rome,Clothing,46.0,1034.54
+2025-06-06,Rome,Toys,13.0,181.87
+2025-01-31,Rome,toys,32.0,464.0
+2025-03-08,Utica,Electronics,62.0,5251.4
+2025-02-25,Albany,groceries,,752.64
+2025-04-13,Albany,clothing,78.0,1841.58
+2025-07-22,Rome,ELECTRONICS,24.0,1935.12
+2025-10-26,Rome,home goods,47.0,1576.38
+2025-06-04,Albany,Toys,28.0,434.0
+2025-10-31,Albany,groceries,87.0,527.22
+2025-12-30,Rome,Home_Goods,33.0,1026.3
+2025-03-24,Utica,Toys,14.0,198.52
+2025-08-27,Albany,home goods,30.0,957.6
+2025-07-13,Syracuse,toys,26.0,353.86
+2025-06-30,Syracuse,clothing,97.0,2305.69
+2025-08-15,Utica,Toys,24.0,375.6
+2025-12-21,Utica,groceries,148.0,972.36
+2025-06-12,Syracuse,toys,22.0,317.68
+2025-06-29,Syracuse,Groceries,132.0,807.84
+2025-03-06,Rome,electronics,36.0,3134.16
+2025-09-24,Utica,Groceries,104.0,690.56
+2025-09-13,Syracuse,groceries,164.0,1054.52
+2025-05-21,Utica,Clothing,50.0,1220.5
+2025-09-21,Albany,Electronics,50.0,4167.0
+2025-09-24,Syracuse,Cloth ing,70.0,1545.6
+2025-07-25,Albany,ELECTRONICS,37.0,3062.86
+2025-02-09,Rome,Toys,34.0,474.3
+2025-11-03,Rome,clothing,92.0,2331.28
+2025-04-26,Syracuse,home goods,40.0,1330.0
+2025-07-16,Albany,Electronics,32.0,2803.52
+2025-02-07,Utica,toys,23.0,330.97
+2025-09-13,Syracuse,electronics,61.0,5020.91
+2025-03-16,Utica,Home_Goods,34.0,1035.98
+2025-09-07,Syracuse,Groceries,201.0,1268.31
+2025-06-11,Albany,toys,16.0,239.84
+2025-12-22,Syracuse,Home_Goods,37.0,1279.46
+2025-10-08,Rome,clothing,41.0,902.0
+2025-10-17,Syracuse,Toys,25.0,357.75
+2025-08-01,Rome,Toys,23.0,347.99
+2025-07-28,Syracuse,toys,22.0,306.9
+2025-06-17,Albany,Home_Goods,48.0,1447.2
+2025-05-19,Syracuse,home goods,40.0,1167.2
+2025-02-19,Utica,Toys,10.0,153.9
+2025-01-20,Rome,home goods,39.0,1209.0
+2025-03-23,Albany,Groceries,143.0,895.18
+2025-11-19,Utica,groceries,150.0,982.5
+2025-10-24,Utica,electronics,52.0,4139.72
+2025-06-25,Utica,Cloth ing,45.0,1101.6
+2025-06-20,Rome,Cloth ing,73.0,1770.98
+2025-03-24,Rome,Toys,16.0,212.0
+2025-11-24,Rome,Cloth ing,60.0,1528.2
+2025-09-04,Utica,toys,18.0,304.56
+2025-04-26,Utica,Electronics,50.0,4065.0
+2025-03-15,Rome,toys,35.0,579.25
+2025-04-23,Syracuse,Home_Goods,30.0,974.1
+2025-02-01,Utica,clothing,92.0,2127.96
+2025-08-24,Syracuse,Clothing,89.0,1980.25
+2025-05-06,Syracuse,groceries,167.0,1082.16
+2025-04-18,Syracuse,groceries,110.0,711.7
+2025-03-29,Utica,Home_Goods,,1396.08
+2025-04-20,Rome,ELECTRONICS,61.0,5203.3
+2025-07-31,Albany,Toys,7.0,114.1
+2025-03-04,Albany,Cloth ing,70.0,1778.0
+2025-11-15,Albany,Clothing,94.0,2245.66
+2025-07-10,Syracuse,Groceries,123.0,755.22
+2025-02-24,Syracuse,home goods,43.0,1369.98
+2025-01-10,Syracuse,Home Goods,35.0,1129.1
+2025-02-28,Albany,Groceries,105.0,677.25
+2025-05-06,Albany,Electronics,47.0,4043.88
+2025-02-15,Utica,electronics,53.0,4615.24
+2025-10-07,Albany,groceries,135.0,895.05
+2025-08-14,Syracuse,Clothing,44.0,1038.84
+2025-04-02,Syracuse,electronics,,2137.25
+2025-01-09,Albany,Groceries,50.0,326.0
+2025-04-10,Albany,Groceries,152.0,988.0
+2025-12-09,Albany,groceries,190.0,1284.4
+2025-03-24,Utica,Clothing,41.0,1019.26
+2025-05-12,Utica,Home_Goods,28.0,962.64
+2025-06-07,Utica,ELECTRONICS,37.0,3130.57
+2025-07-13,Syracuse,Clothing,62.0,1474.98
+2025-01-23,Utica,Home_Goods,16.0,502.72
+2025-12-04,Rome,toys,19.0,271.13
+2025-03-26,Syracuse,Groceries,112.0,704.48
+2025-04-24,Albany,toys,21.0,316.26
+2025-03-26,Rome,Electronics,37.0,3088.76
+2025-05-07,Syracuse,Toys,23.0,343.39
+2025-10-20,Utica,groceries,138.0,927.36
+2025-11-19,Syracuse,clothing,62.0,1516.52
+2025-06-17,Rome,Toys,37.0,540.57
+2025-05-31,Rome,Home_Goods,39.0,1208.22
+2025-01-01,Syracuse,Toys,19.0,293.74
+2025-01-24,Utica,Clothing,59.0,1339.89
+2025-09-30,Syracuse,Electronics,30.0,2509.8
+2025-01-03,Albany,Electronics,35.0,2963.1
+2025-11-13,Albany,home goods,29.0,857.53
+2025-07-15,Syracuse,Toys,24.0,363.84
+2025-06-28,Utica,electronics,56.0,4648.0
+2025-09-02,Syracuse,Groceries,,893.97
+2025-07-21,Albany,home goods,34.0,1095.14
+2025-07-29,Rome,Cloth ing,61.0,1319.43
+2025-08-14,Albany,home goods,42.0,1187.34
+2025-03-15,Albany,Home_Goods,31.0,1027.03
+2025-04-27,Utica,electronics,59.0,4822.07
+2025-04-30,Utica,Home_Goods,50.0,1690.5
+2025-12-21,Utica,Cloth ing,108.0,2559.6
+2025-01-25,Rome,Groceries,209.0,1352.23
+2025-06-12,Rome,clothing,43.0,1010.5
+2025-05-21,Utica,Home Goods,23.0,738.76
+2025-07-21,Albany,Electronics,29.0,2485.88
+2025-01-18,Utica,Electronics,50.0,4091.5
+2025-08-11,Rome,Clothing,48.0,1196.16
+2025-06-07,Utica,Toys,38.0,548.34
+2025-09-22,Rome,clothing,61.0,1456.68
+2025-05-27,Syracuse,Electronics,46.0,4328.14
+2025-06-04,Syracuse,groceries,136.0,866.32
+2025-02-16,Syracuse,Groceries,130.0,845.0
+2025-10-03,Albany,Groceries,136.0,848.64
+2025-08-08,Syracuse,Clothing,79.0,1862.03
+2025-07-01,Albany,Home Goods,43.0,1469.31
+2025-11-13,Rome,toys,21.0,314.79
+2025-05-30,Rome,Home_Goods,23.0,740.6
+2025-11-09,Syracuse,Groceries,178.0,1171.24
+2025-11-13,Utica,electronics,37.0,3219.37
+2025-05-26,Utica,Home Goods,38.0,1184.46
+2025-08-13,Syracuse,Groceries,107.0,671.96
+2025-07-11,Albany,Clothing,77.0,1748.67
+2025-11-29,Utica,Groceries,150.0,999.0
+2025-10-04,Utica,Groceries,145.0,1015.0
+2025-12-30,Albany,Cloth ing,37.0,777.37
+2025-02-25,Albany,ELECTRONICS,47.0,3673.99
+2025-01-22,Albany,toys,30.0,483.3
+2025-10-11,Albany,groceries,136.0,869.04
+2025-01-31,Albany,electronics,31.0,2928.57
+2025-10-08,Albany,toys,24.0,350.64
+2025-05-09,Utica,Home Goods,52.0,1543.36
+2025-11-20,Syracuse,Toys,21.0,306.6
+2025-11-27,Syracuse,Groceries,70.0,427.0
+2025-06-23,Albany,groceries,99.0,620.73
+2025-04-08,Rome,toys,20.0,291.8
+2025-11-25,Rome,electronics,31.0,2743.19
+2025-04-09,Albany,home goods,38.0,1188.64
+2025-04-11,Rome,clothing,45.0,1137.15
+2025-10-25,Albany,home goods,63.0,2061.99
+2025-02-12,Utica,toys,29.0,393.82
+2025-03-28,Albany,electronics,31.0,2625.08
+2025-05-30,Syracuse,Home Goods,42.0,1222.62
+2025-02-20,Syracuse,Home_Goods,37.0,1131.46
+2025-09-20,Syracuse,Electronics,48.0,4370.88
+2025-09-05,Syracuse,electronics,47.0,4024.14
+2025-12-10,Albany,groceries,120.0,762.0
+2025-05-16,Utica,groceries,112.0,686.56
+2025-07-12,Syracuse,toys,33.0,521.73
+2025-12-21,Utica,ELECTRONICS,54.0,4537.62
+2025-07-03,Utica,home goods,33.0,1129.92
+2025-08-14,Rome,toys,28.0,416.64
+2025-08-19,Albany,clothing,52.0,1212.64
+2025-10-19,Albany,home goods,49.0,1563.59
+2025-07-08,Rome,groceries,146.0,1010.32
+2025-12-02,Albany,ELECTRONICS,39.0,3186.69
+2025-11-09,Utica,Home_Goods,37.0,1226.18
+2025-12-13,Syracuse,electronics,61.0,5773.65
+2025-01-07,Albany,home goods,19.0,617.88
+2025-05-21,Albany,home goods,25.0,776.25
+2025-03-15,Albany,electronics,71.0,6049.2
+2025-10-20,Albany,Groceries,122.0,733.22
+2025-01-02,Rome,groceries,69.0,440.91
+2025-07-02,Utica,toys,19.0,286.14
+2025-07-17,Syracuse,electronics,41.0,3392.34
+2025-03-24,Syracuse,electronics,46.0,3597.66
+2025-11-23,Rome,Home Goods,42.0,1424.22
+2025-05-10,Utica,clothing,73.0,1624.98
+2025-08-31,Syracuse,clothing,79.0,2045.31
+2025-01-17,Albany,Home_Goods,42.0,1386.84
+2025-03-31,Syracuse,groceries,132.0,875.16
+2025-08-14,Syracuse,toys,33.0,509.19
+2025-08-22,Albany,groceries,104.0,692.64
+2025-12-31,Utica,electronics,41.0,3577.66
+2025-11-16,Syracuse,toys,32.0,506.88
+2025-10-03,Albany,Cloth ing,57.0,1357.74
+2025-04-23,Utica,home goods,26.0,789.1
+2025-10-25,Albany,clothing,80.0,1911.2
+2025-05-31,Utica,Toys,35.0,549.5
+2025-07-17,Rome,toys,19.0,270.37
+2025-09-11,Rome,Home Goods,,975.46
+2025-08-22,Utica,home goods,47.0,1534.08
+2025-04-24,Albany,groceries,179.0,1131.28
+2025-11-03,Albany,groceries,86.0,567.6
+2025-09-18,Albany,groceries,101.0,624.18
+2025-06-11,Rome,Home_Goods,42.0,1343.58
+2025-08-13,Syracuse,toys,23.0,327.75
+2025-08-29,Syracuse,ELECTRONICS,49.0,4260.06
+2025-11-19,Syracuse,toys,29.0,465.45
+2025-10-06,Rome,Groceries,70.0,436.8
+2025-01-15,Syracuse,electronics,43.0,3731.97
+2025-08-23,Syracuse,Home Goods,40.0,1379.6
+2025-11-22,Albany,Clothing,73.0,1721.34
+2025-05-11,Utica,electronics,57.0,5007.45
+2025-07-04,Rome,electronics,45.0,3643.65
+2025-10-31,Utica,Home Goods,28.0,829.92
+2025-06-16,Rome,toys,28.0,433.16
+2025-08-16,Rome,Home Goods,46.0,1504.2
+2025-08-26,Syracuse,clothing,37.0,877.27
+2025-11-06,Syracuse,electronics,34.0,2801.6
+2025-07-27,Rome,clothing,50.0,1192.5
+2025-10-01,Rome,Home Goods,16.0,472.32
+2025-06-30,Rome,Cloth ing,55.0,1242.45
+2025-04-16,Rome,Groceries,72.0,429.12
+2025-04-01,Syracuse,home goods,38.0,1192.44
+2025-11-21,Syracuse,ELECTRONICS,43.0,3769.38
+2025-12-06,Syracuse,home goods,51.0,1632.0
+2025-02-21,Utica,electronics,33.0,2887.5
+2025-07-23,Rome,Clothing,61.0,1542.69
+2025-03-24,Albany,Groceries,136.0,885.36
+2025-04-27,Syracuse,groceries,119.0,778.26
+2025-07-04,Rome,toys,16.0,225.44
+2025-11-07,Utica,Clothing,77.0,1890.35
+2025-01-26,Utica,Home_Goods,35.0,1099.7
+2025-06-29,Rome,Clothing,,1938.88
+2025-01-25,Syracuse,Toys,35.0,514.85
+2025-03-24,Rome,clothing,48.0,1155.36
+2025-07-25,Syracuse,groceries,117.0,761.67
+2025-07-21,Albany,clothing,98.0,2443.14
+2025-10-13,Syracuse,electronics,51.0,4821.03
+2025-12-30,Albany,Electronics,56.0,4847.92
+2025-09-22,Rome,ELECTRONICS,52.0,4569.76
+2025-10-09,Utica,Cloth ing,37.0,953.49
+2025-03-21,Utica,Home Goods,41.0,1341.11
+2025-07-08,Albany,Electronics,35.0,2964.5
+2025-08-10,Syracuse,clothing,82.0,1915.52
+2025-02-13,Utica,Toys,33.0,482.79
+2025-05-29,Syracuse,toys,21.0,308.7
+2025-06-26,Syracuse,Groceries,140.0,884.8
+2025-01-05,Albany,Clothing,75.0,1830.75
+2025-01-16,Albany,Home Goods,33.0,1114.74
+2025-10-02,Albany,Home_Goods,36.0,1187.28
+2025-09-09,Utica,home goods,46.0,1470.16
+2025-08-30,Syracuse,home goods,42.0,1196.16
+2025-01-27,Rome,Electronics,40.0,3455.6
+2025-11-30,Rome,Cloth ing,89.0,2075.48
+2025-10-08,Rome,groceries,155.0,1007.5
+2025-12-28,Syracuse,Groceries,157.0,1069.17
+2025-06-25,Syracuse,clothing,76.0,1795.88
+2025-02-22,Albany,home goods,28.0,839.44
+2025-03-18,Rome,groceries,118.0,791.78
+2025-11-04,Rome,toys,25.0,364.25
+2025-03-24,Albany,home goods,24.0,718.8
+2025-04-23,Utica,Groceries,124.0,793.6
+2025-06-14,Syracuse,Electronics,51.0,4601.22
+2025-06-05,Utica,home goods,37.0,1076.7
+2025-07-12,Utica,toys,31.0,479.88
+2025-06-06,Albany,Home_Goods,31.0,969.06
+2025-03-25,Syracuse,Toys,12.0,173.16
+2025-04-09,Albany,Groceries,125.0,802.5
+2025-12-04,Albany,Home_Goods,43.0,1452.11
+2025-04-18,Albany,home goods,44.0,1570.8
+2025-07-26,Syracuse,Home_Goods,53.0,1557.14
+2025-06-16,Utica,Home_Goods,35.0,1175.65
+2025-06-16,Rome,Cloth ing,57.0,1316.7
+2025-08-18,Albany,groceries,87.0,527.22
+2025-06-02,Syracuse,Home Goods,28.0,952.28
+2025-01-08,Syracuse,Groceries,164.0,1026.64
+2025-02-12,Syracuse,clothing,77.0,1905.75
+2025-07-25,Utica,clothing,93.0,1971.6
+2025-09-13,Rome,clothing,59.0,1317.47
+2025-08-04,Utica,groceries,98.0,609.56
+2025-01-22,Rome,toys,22.0,340.56
+2025-08-27,Rome,Cloth ing,71.0,1769.32
+2025-08-18,Albany,ELECTRONICS,42.0,3688.44
+2025-10-30,Albany,Clothing,45.0,1107.45
+2025-12-27,Utica,electronics,44.0,3627.8
+2025-08-28,Rome,Electronics,45.0,4041.0
+2025-08-13,Albany,groceries,59.0,384.68
+2025-06-04,Albany,Groceries,136.0,903.04
+2025-01-17,Syracuse,Groceries,118.0,763.46
+2025-03-31,Utica,Toys,12.0,182.88
+2025-04-01,Albany,toys,22.0,337.92
+2025-05-28,Syracuse,Groceries,49.0,345.94
+2025-05-02,Utica,Electronics,40.0,3342.8
+2025-05-11,Utica,clothing,73.0,1646.88
+2025-01-05,Rome,groceries,141.0,900.99
+2025-12-21,Rome,Toys,36.0,509.4
+2025-10-06,Albany,groceries,88.0,563.2
+2025-08-23,Utica,Electronics,28.0,2502.64
+2025-04-23,Albany,toys,25.0,405.5
+2025-02-14,Utica,Groceries,121.0,735.68
+2025-12-28,Rome,electronics,50.0,4370.0
+2025-08-20,Utica,Home_Goods,32.0,998.08
+2025-06-21,Syracuse,toys,29.0,434.71
+2025-12-03,Rome,toys,23.0,356.27
+2025-01-11,Utica,Groceries,108.0,629.64
+2025-02-10,Rome,Clothing,53.0,1203.63
+2025-06-26,Albany,toys,21.0,323.82
+2025-11-20,Rome,Home Goods,40.0,1226.4
+2025-02-28,Albany,Toys,14.0,211.26
+2025-10-06,Syracuse,Home_Goods,33.0,1057.65
+2025-06-09,Albany,home goods,33.0,1047.09
+2025-03-07,Albany,Cloth ing,53.0,1201.51
+2025-07-22,Utica,Electronics,51.0,4402.32
+2025-12-15,Utica,Clothing,63.0,1520.19
+2025-06-17,Albany,Groceries,107.0,713.69
+2025-07-30,Albany,clothing,40.0,972.0
+2025-01-04,Utica,clothing,82.0,2050.82
+2025-01-16,Syracuse,Home_Goods,25.0,818.0
+2025-04-01,Rome,clothing,33.0,836.22
+2025-10-22,Albany,electronics,30.0,2405.1
+2025-07-13,Syracuse,Electronics,51.0,4464.03
+2025-01-19,Utica,toys,34.0,590.92
+2025-02-15,Utica,Groceries,157.0,1025.21
+2025-07-02,Albany,Electronics,38.0,3233.8
+2025-12-11,Rome,ELECTRONICS,46.0,3881.02
+2025-02-28,Rome,Groceries,139.0,918.79
+2025-10-02,Utica,Toys,23.0,334.65
+2025-01-05,Albany,Groceries,175.0,1114.75
+2025-12-06,Rome,clothing,75.0,1731.0
+2025-09-07,Rome,Toys,16.0,236.16
+2025-02-04,Utica,groceries,129.0,848.82
+2025-03-03,Utica,clothing,77.0,1848.0
+2025-02-21,Syracuse,electronics,61.0,5035.55
+2025-12-05,Rome,Toys,16.0,205.6
+2025-12-18,Syracuse,groceries,146.0,1032.22
+2025-09-20,Syracuse,groceries,175.0,1169.0
+2025-02-12,Utica,clothing,55.0,1327.15
+2025-06-23,Syracuse,electronics,45.0,3718.35
+2025-11-14,Utica,electronics,39.0,3318.51
+2025-04-13,Syracuse,home goods,50.0,1642.0
+2025-01-04,Syracuse,Electronics,39.0,3103.23
+2025-08-14,Rome,ELECTRONICS,28.0,2459.8
+2025-03-29,Rome,Toys,34.0,508.3
+2025-10-25,Syracuse,groceries,79.0,487.43
+2025-10-03,Rome,clothing,35.0,835.8
+2025-11-27,Utica,home goods,25.0,859.25
+2025-11-28,Albany,Cloth ing,55.0,1365.65
+2025-06-11,Albany,Electronics,51.0,4235.55
+2025-05-14,Utica,toys,31.0,433.07
+2025-08-16,Utica,ELECTRONICS,60.0,5004.6
+2025-06-14,Syracuse,Home_Goods,36.0,1148.4
+2025-07-28,Utica,toys,30.0,457.8
+2025-06-15,Rome,home goods,33.0,984.06
+2025-07-07,Albany,clothing,53.0,1176.07
+2025-03-16,Rome,ELECTRONICS,45.0,4030.65
+2025-06-24,Utica,Clothing,43.0,1035.87
+2025-07-04,Albany,Home Goods,47.0,1502.12
+2025-01-29,Albany,groceries,103.0,668.47
+2025-01-26,Syracuse,ELECTRONICS,67.0,5981.76
+2025-02-27,Rome,Groceries,118.0,794.14
+2025-03-01,Albany,electronics,46.0,3822.14
+2025-02-26,Rome,Groceries,102.0,672.18
+2025-06-17,Rome,Electronics,26.0,2057.12
+2025-03-18,Utica,groceries,129.0,923.64
+2025-02-06,Utica,Electronics,33.0,2894.76
+2025-12-13,Rome,Toys,29.0,427.46
+2025-07-14,Albany,toys,21.0,335.16
+2025-02-01,Syracuse,electronics,45.0,3820.5
+2025-08-22,Albany,toys,12.0,180.72
+2025-03-12,Syracuse,groceries,121.0,775.61
+2025-01-05,Albany,Toys,27.0,380.43
+2025-06-28,Rome,Cloth ing,72.0,1782.72
+2025-07-23,Utica,toys,17.0,251.77
+2025-11-29,Rome,Home_Goods,50.0,1622.0
+2025-05-30,Albany,ELECTRONICS,24.0,2044.32
+2025-07-06,Albany,Cloth ing,80.0,1660.0
+2025-02-06,Syracuse,Groceries,100.0,712.0
+2025-04-09,Syracuse,Home Goods,41.0,1250.5
+2025-04-13,Syracuse,clothing,62.0,1455.14
+2025-05-09,Utica,clothing,61.0,1274.29
+2025-04-08,Syracuse,Home Goods,38.0,1183.32
+2025-06-30,Albany,Clothing,53.0,1256.63
+2025-03-31,Albany,Groceries,136.0,977.84
+2025-06-18,Utica,Electronics,38.0,2956.78
+2025-09-10,Rome,Groceries,126.0,749.7
+2025-12-09,Rome,Home_Goods,34.0,1058.76
+2025-04-27,Rome,home goods,48.0,1447.2
+2025-10-16,Albany,clothing,65.0,1554.15
+2025-01-04,Albany,clothing,62.0,1363.38
+2025-03-13,Utica,Cloth ing,62.0,1528.3
+2025-11-23,Albany,ELECTRONICS,63.0,4721.85
+2025-09-27,Albany,Clothing,71.0,1681.28
+2025-04-04,Albany,Clothing,57.0,1308.72
+2025-02-13,Rome,groceries,154.0,1144.22
+2025-04-22,Utica,Cloth ing,63.0,1551.69
+2025-08-27,Utica,ELECTRONICS,25.0,2045.5
+2025-08-18,Rome,clothing,68.0,1592.56
+2025-03-25,Syracuse,Home_Goods,34.0,1065.9
+2025-08-06,Rome,groceries,120.0,742.8
+2025-06-02,Utica,clothing,72.0,1746.0
+2025-04-22,Albany,Home_Goods,31.0,1089.96
+2025-03-10,Rome,clothing,59.0,1459.66
+2025-01-09,Albany,Cloth ing,70.0,1691.9
+2025-04-15,Rome,Groceries,100.0,670.0
+2025-05-07,Utica,Clothing,48.0,1238.4
+2025-04-30,Rome,home goods,29.0,952.36
+2025-05-12,Utica,Groceries,149.0,978.93
+2025-09-16,Utica,Cloth ing,64.0,1566.72
+2025-09-10,Syracuse,toys,16.0,236.16
+2025-11-24,Utica,groceries,91.0,556.92
+2025-07-30,Utica,Toys,20.0,300.2
+2025-05-25,Rome,ELECTRONICS,55.0,4567.2
+2025-03-11,Utica,Home Goods,34.0,1011.5
+2025-08-29,Utica,Groceries,163.0,1149.15
+2025-08-19,Utica,Groceries,107.0,759.7
+2025-05-03,Rome,Groceries,144.0,891.36
+2025-06-26,Albany,groceries,114.0,799.14
+2025-11-10,Albany,Cloth ing,46.0,1188.18
+2025-08-11,Utica,Home_Goods,40.0,1239.2
+2025-06-05,Syracuse,Groceries,109.0,778.26
+2025-01-25,Albany,Groceries,148.0,966.44
+2025-03-27,Utica,clothing,47.0,1193.8
+2025-12-23,Syracuse,electronics,37.0,3103.93
+2025-10-11,Rome,groceries,167.0,1005.34
+2025-04-19,Albany,groceries,105.0,686.7
+2025-11-20,Utica,toys,31.0,438.96
+2025-12-24,Utica,groceries,132.0,826.32
+2025-04-14,Rome,clothing,71.0,1622.35
+2025-08-19,Rome,home goods,,1379.84
+2025-03-11,Syracuse,Clothing,75.0,1677.75
+2025-08-24,Syracuse,home goods,44.0,1621.4
+2025-05-13,Utica,Clothing,58.0,1378.08
+2025-07-23,Utica,Cloth ing,57.0,1339.5
+2025-01-29,Rome,electronics,42.0,3643.5
+2025-01-27,Rome,Home_Goods,26.0,901.94
+2025-10-23,Albany,Groceries,79.0,529.3
+2025-03-10,Syracuse,Home_Goods,37.0,1212.86
+2025-10-15,Albany,groceries,133.0,772.73
+2025-09-29,Rome,Electronics,36.0,2921.4
+2025-01-17,Syracuse,toys,26.0,390.78
+2025-04-15,Rome,Cloth ing,50.0,1207.5
+2025-12-21,Rome,Home Goods,60.0,1905.0
+2025-05-01,Albany,Clothing,68.0,1633.36
+2025-12-10,Utica,Home Goods,28.0,900.48
+2025-10-09,Albany,Groceries,114.0,748.98
+2025-11-16,Rome,Clothing,58.0,1290.5
+2025-12-17,Syracuse,groceries,152.0,925.68
+2025-10-06,Albany,Toys,27.0,399.6
+2025-07-27,Albany,clothing,75.0,1899.0
+2025-09-18,Albany,toys,22.0,329.12
+2025-04-09,Albany,ELECTRONICS,39.0,3176.55
+2025-11-22,Syracuse,Toys,31.0,455.08
+2025-09-28,Rome,toys,45.0,680.4
+2025-02-05,Syracuse,ELECTRONICS,37.0,2891.18
+2025-06-22,Rome,home goods,49.0,1686.58
+2025-05-10,Rome,Toys,40.0,580.8
+2025-04-08,Syracuse,electronics,29.0,2801.69
+2025-07-01,Syracuse,Toys,35.0,477.75
+2025-10-21,Utica,groceries,118.0,790.6
+2025-03-23,Syracuse,home goods,44.0,1600.72
+2025-09-09,Rome,ELECTRONICS,36.0,3109.32
+2025-08-25,Utica,Home Goods,56.0,1808.24
+2025-02-03,Albany,Home_Goods,24.0,774.24
+2025-02-01,Albany,groceries,189.0,1228.5
+2025-11-30,Utica,Toys,30.0,482.1
+2025-08-23,Rome,Groceries,205.0,1467.8
+2025-11-12,Rome,Toys,21.0,288.96
+2025-10-22,Syracuse,groceries,71.0,455.11
+2025-05-03,Albany,home goods,41.0,1220.57
+2025-05-28,Rome,toys,29.0,430.65
+2025-03-25,Utica,Electronics,23.0,2194.2
+2025-01-20,Rome,Cloth ing,61.0,1385.31
+2025-05-24,Syracuse,Toys,28.0,435.68
+2025-08-20,Rome,groceries,123.0,825.33
+2025-02-18,Rome,ELECTRONICS,44.0,3953.4
+2025-04-19,Albany,clothing,78.0,1750.32
+2025-01-17,Albany,Cloth ing,90.0,2352.6
